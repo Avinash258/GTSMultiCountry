@@ -1,0 +1,1572 @@
+<Root type="OR" ref="GTS_Dynamic">
+  <Page title="Online Payment Processing Platform for Digital Businesses | Payoneer" ref="Online">
+    <ObjectGroup ref="Open your account">
+      <Object frame="" ref="Open your account">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="Open your account" ref="link_text" pref="4"/>
+        <Property value="(//a[@data-cta-type='Register Button'])[1]" ref="relative_xpath" pref="5"/>
+        <Property value="(/html/body/div[8]/div/header/div[2]/div/div/div[3]/div/a)[1]" ref="xpath" pref="6"/>
+        <Property value="d-none btn btn-primary rounded-pill d-lg-flex align-items-center btn-arrow" ref="class" pref="7"/>
+        <Property value="html > body.mm-wrapper.mm-wrapper--position-left-front > #mm-22 > #page > #masthead > div.bottom-header.has-payoneer-white-background-color > div.container.px-3 px-xl-0 > div.d-flex > div.d-flex.align-items-center > div.flex-fill.d-flex align-items-center ms-auto > a.d-none.btn btn-primary rounded-pill d-lg-flex align-items-center btn-arrow" ref="css" pref="8"/>
+        <Property value="a" ref="type" pref="9"/>
+        <Property value="" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="*First Name">
+      <Object frame="" ref="*First Name">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="FirstName" ref="name" pref="2"/>
+        <Property value="FirstName" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="//input[@name='FirstName']" ref="relative_xpath" pref="5"/>
+        <Property value="(/html/body/div[8]/div[2]/div/div/div[2]/div/div/div/div/form/div/fieldset/div/div/div[2]/input)[1]" ref="xpath" pref="6"/>
+        <Property value="mktoField mktoTextField mktoHasWidth mktoRequired mktoInvalid" ref="class" pref="7"/>
+        <Property value="#FirstName" ref="css" pref="8"/>
+        <Property value="text" ref="type" pref="9"/>
+        <Property value="" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="*First Name1">
+      <Object frame="" ref="*First Name1">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="FirstName" ref="name" pref="2"/>
+        <Property value="FirstName" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="//input[@name='FirstName']" ref="relative_xpath" pref="5"/>
+        <Property value="(/html/body/div[8]/div[2]/div/div/div[2]/div/div/div/div/form/div/fieldset/div/div/div[2]/input)[1]" ref="xpath" pref="6"/>
+        <Property value="mktoField mktoTextField mktoHasWidth mktoRequired mktoValid" ref="class" pref="7"/>
+        <Property value="#FirstName" ref="css" pref="8"/>
+        <Property value="text" ref="type" pref="9"/>
+        <Property value="" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="*Last Name">
+      <Object frame="" ref="*Last Name">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="LastName" ref="name" pref="2"/>
+        <Property value="LastName" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="//input[@name='LastName']" ref="relative_xpath" pref="5"/>
+        <Property value="/html/body/div[8]/div[2]/div/div/div[2]/div/div/div/div/form/div/fieldset/div[2]/div/div[2]/input" ref="xpath" pref="6"/>
+        <Property value="mktoField mktoTextField mktoHasWidth mktoRequired mktoInvalid" ref="class" pref="7"/>
+        <Property value="#LastName" ref="css" pref="8"/>
+        <Property value="text" ref="type" pref="9"/>
+        <Property value="" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="*Last Name1">
+      <Object frame="" ref="*Last Name1">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="LastName" ref="name" pref="2"/>
+        <Property value="LastName" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="//input[@name='LastName']" ref="relative_xpath" pref="5"/>
+        <Property value="/html/body/div[8]/div[2]/div/div/div[2]/div/div/div/div/form/div/fieldset/div[2]/div/div[2]/input" ref="xpath" pref="6"/>
+        <Property value="mktoField mktoTextField mktoHasWidth mktoRequired mktoValid" ref="class" pref="7"/>
+        <Property value="#LastName" ref="css" pref="8"/>
+        <Property value="text" ref="type" pref="9"/>
+        <Property value="" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="+91">
+      <Object frame="" ref="+91">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="(//*[normalize-space(text())='+91'])[1]" ref="relative_xpath" pref="5"/>
+        <Property value="/html/body/div[8]/div[2]/div/div/div[2]/div/div/div/div/form/div/fieldset/div[3]/div/div[2]/div[2]/div/button/div[2]" ref="xpath" pref="6"/>
+        <Property value="iti__selected-dial-code" ref="class" pref="7"/>
+        <Property value="div.iti__selected-dial-code" ref="css" pref="8"/>
+        <Property value="div" ref="type" pref="9"/>
+        <Property value="" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="iti__arrow">
+      <Object frame="" ref="iti__arrow">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="//button/div/div[2]" ref="relative_xpath" pref="5"/>
+        <Property value="/html/body/div[8]/div[2]/div/div/div[2]/div/div/div/div/form/div/fieldset/div[3]/div/div[2]/div[2]/div/button/div/div[2]" ref="xpath" pref="6"/>
+        <Property value="iti__arrow" ref="class" pref="7"/>
+        <Property value="div.iti__arrow" ref="css" pref="8"/>
+        <Property value="div" ref="type" pref="9"/>
+        <Property value="" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="India +91">
+      <Object frame="" ref="India +91">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="//*[normalize-space(text())='India +91']" ref="relative_xpath" pref="5"/>
+        <Property value="(/html/body/div[8]/div[2]/div/div/div[2]/div/div/div/div/form/div/fieldset/div[3]/div/div[2]/div[2]/div/button/div/div)[1]" ref="xpath" pref="6"/>
+        <Property value="iti__flag iti__in" ref="class" pref="7"/>
+        <Property value="div.iti__selected-country-primary > div.iti__flag.iti__in" ref="css" pref="8"/>
+        <Property value="div" ref="type" pref="9"/>
+        <Property value="" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="India +91+91">
+      <Object frame="" ref="India +91+91">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="//button[@title='India']" ref="relative_xpath" pref="5"/>
+        <Property value="/html/body/div[8]/div[2]/div/div/div[2]/div/div/div/div/form/div/fieldset/div[3]/div/div[2]/div[2]/div/button" ref="xpath" pref="6"/>
+        <Property value="iti__selected-country" ref="class" pref="7"/>
+        <Property value="button.iti__selected-country" ref="css" pref="8"/>
+        <Property value="button" ref="type" pref="9"/>
+        <Property value="" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="Search">
+      <Object frame="" ref="Search">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="//input[@placeholder='Search']" ref="relative_xpath" pref="5"/>
+        <Property value="/html/body/div[8]/div[2]/div/div/div[2]/div/div/div/div/form/div/fieldset/div[3]/div/div[2]/div[2]/div/div/input" ref="xpath" pref="6"/>
+        <Property value="iti__search-input" ref="class" pref="7"/>
+        <Property value="input.iti__search-input" ref="css" pref="8"/>
+        <Property value="text" ref="type" pref="9"/>
+        <Property value="" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="81234 56789">
+      <Object frame="" ref="81234 56789">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="MobilePhone" ref="name" pref="2"/>
+        <Property value="MobilePhone" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="//input[@placeholder='81234 56789']" ref="relative_xpath" pref="5"/>
+        <Property value="/html/body/div[8]/div[2]/div/div/div[2]/div/div/div/div/form/div/fieldset/div[3]/div/div[2]/div[2]/input" ref="xpath" pref="6"/>
+        <Property value="mktoField mktoTelField mktoHasWidth mktoRequired iti__tel-input mktoInvalid" ref="class" pref="7"/>
+        <Property value="#MobilePhone" ref="css" pref="8"/>
+        <Property value="tel" ref="type" pref="9"/>
+        <Property value="" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="India +911">
+      <Object frame="" ref="India +911">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="//*[normalize-space(text())='India +91']" ref="relative_xpath" pref="5"/>
+        <Property value="(/html/body/div[8]/div[2]/div/div/div[2]/div/div/div/div/form/div/fieldset/div[3]/div/div[2]/div[2]/div/button/div)[1]" ref="xpath" pref="6"/>
+        <Property value="iti__selected-country-primary" ref="class" pref="7"/>
+        <Property value="div.iti__selected-country-primary" ref="css" pref="8"/>
+        <Property value="div" ref="type" pref="9"/>
+        <Property value="" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="+911">
+      <Object frame="" ref="+911">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="//*[normalize-space(text())='+91']" ref="relative_xpath" pref="5"/>
+        <Property value="/html/body/div[8]/div[2]/div/div/div[2]/div/div/div/div/form/div/fieldset/div[3]/div/div[2]/div[2]/div/button/div[2]" ref="xpath" pref="6"/>
+        <Property value="iti__selected-dial-code" ref="class" pref="7"/>
+        <Property value="div.iti__selected-dial-code" ref="css" pref="8"/>
+        <Property value="div" ref="type" pref="9"/>
+        <Property value="" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="India +912">
+      <Object frame="" ref="India +912">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="//*[normalize-space(text())='India +91']" ref="relative_xpath" pref="5"/>
+        <Property value="(/html/body/div[8]/div[2]/div/div/div[2]/div/div/div/div/form/div/fieldset/div[3]/div/div[2]/div[2]/div/button/div/div)[1]" ref="xpath" pref="6"/>
+        <Property value="iti__flag iti__in" ref="class" pref="7"/>
+        <Property value="div.iti__flag.iti__in" ref="css" pref="8"/>
+        <Property value="div" ref="type" pref="9"/>
+        <Property value="" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="Country">
+      <Object frame="" ref="Country">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="Country" ref="name" pref="2"/>
+        <Property value="Country" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="//select[@name='Country']" ref="relative_xpath" pref="5"/>
+        <Property value="/html/body/div[8]/div[2]/div/div/div[2]/div/div/div/div/form/div/fieldset/div[7]/div/div[2]/select" ref="xpath" pref="6"/>
+        <Property value="mktoField mktoHasWidth mktoRequired mktoValid" ref="class" pref="7"/>
+        <Property value="#Country" ref="css" pref="8"/>
+        <Property value="select-one" ref="type" pref="9"/>
+        <Property value="" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="Company_type__c">
+      <Object frame="" ref="Company_type__c">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="Company_type__c" ref="name" pref="2"/>
+        <Property value="Company_type__c" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="//select[@name='Company_type__c']" ref="relative_xpath" pref="5"/>
+        <Property value="(/html/body/div[8]/div[2]/div/div/div[2]/div/div/div/div/form/div[2]/fieldset/div/div/div[2]/select)[1]" ref="xpath" pref="6"/>
+        <Property value="mktoField mktoHasWidth mktoRequired mktoInvalid" ref="class" pref="7"/>
+        <Property value="#Company_type__c" ref="css" pref="8"/>
+        <Property value="select-one" ref="type" pref="9"/>
+        <Property value="" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="Register">
+      <Object frame="" ref="Register">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="Register" ref="link_text" pref="4"/>
+        <Property value="(//a[@data-cta-type='Register Button'])[1]" ref="relative_xpath" pref="5"/>
+        <Property value="(/html/body/div[8]/div/header/div[2]/div/div/div[3]/div/a)[1]" ref="xpath" pref="6"/>
+        <Property value="d-none btn btn-primary rounded-pill d-lg-flex align-items-center btn-arrow" ref="class" pref="7"/>
+        <Property value="html > body.mm-wrapper.mm-wrapper--position-left-front > #mm-22 > #page > #masthead > div.bottom-header.has-payoneer-white-background-color > div.container.px-3 px-xl-0 > div.d-flex > div.d-flex.align-items-center > div.flex-fill.d-flex align-items-center ms-auto > a.d-none.btn btn-primary rounded-pill d-lg-flex align-items-center btn-arrow" ref="css" pref="8"/>
+        <Property value="a" ref="type" pref="9"/>
+        <Property value="" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="Marketo_Form_Unique_Question_2__c">
+      <Object frame="" ref="Marketo_Form_Unique_Question_2__c">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="Marketo_Form_Unique_Question_2__c" ref="name" pref="2"/>
+        <Property value="Marketo_Form_Unique_Question_2__c" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="//select[@name='Marketo_Form_Unique_Question_2__c']" ref="relative_xpath" pref="5"/>
+        <Property value="/html/body/div[8]/div[2]/div/div/div[2]/div/div/div/div/form/div[2]/fieldset/div[4]/div/div[2]/select" ref="xpath" pref="6"/>
+        <Property value="mktoField mktoHasWidth mktoRequired mktoInvalid" ref="class" pref="7"/>
+        <Property value="#Marketo_Form_Unique_Question_2__c" ref="css" pref="8"/>
+        <Property value="select-one" ref="type" pref="9"/>
+        <Property value="" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="consentCollected">
+      <Object frame="" ref="consentCollected">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="consentCollected" ref="name" pref="2"/>
+        <Property value="mktoRadio_407092_0" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="//input[@value='true']" ref="relative_xpath" pref="5"/>
+        <Property value="(/html/body/div[8]/div[2]/div/div/div[2]/div/div/div/div/form/div[15]/div/div[2]/div[2]/div/input)[1]" ref="xpath" pref="6"/>
+        <Property value="mktoField" ref="class" pref="7"/>
+        <Property value="#mktoRadio_407092_0" ref="css" pref="8"/>
+        <Property value="radio" ref="type" pref="9"/>
+        <Property value="" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="consentCollected1">
+      <Object frame="" ref="consentCollected1">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="consentCollected" ref="name" pref="2"/>
+        <Property value="mktoRadio_407092_1" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="//input[@value='false']" ref="relative_xpath" pref="5"/>
+        <Property value="/html/body/div[8]/div[2]/div/div/div[2]/div/div/div/div/form/div[15]/div/div[2]/div[2]/div[2]/input" ref="xpath" pref="6"/>
+        <Property value="mktoField" ref="class" pref="7"/>
+        <Property value="#mktoRadio_407092_1" ref="css" pref="8"/>
+        <Property value="radio" ref="type" pref="9"/>
+        <Property value="" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="Next">
+      <Object frame="" ref="Next">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="//button[@type='submit']" ref="relative_xpath" pref="5"/>
+        <Property value="/html/body/div[8]/div[2]/div/div/div[2]/div/div/div/div/form/div[23]/span/button" ref="xpath" pref="6"/>
+        <Property value="mktoButton" ref="class" pref="7"/>
+        <Property value="button.mktoButton" ref="css" pref="8"/>
+        <Property value="submit" ref="type" pref="9"/>
+        <Property value="" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+  </Page>
+  <Page title="" ref="Payoneer">
+    <ObjectGroup ref="RegisterButton">
+      <Object frame="" ref="RegisterButton">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="(//a[contains(text(),'Register')] | //a[contains(text(),'Get Started')] | //a[contains(text(),'Open your account')] | //a[contains(text(),'Sign Up')])[1] " ref="relative_xpath" pref="5"/>
+        <Property value="/html/body/div[8]/div[1]/header/div[2]/div/div/div[3]/div[1]/a" ref="xpath" pref="6"/>
+        <Property value="Sign Up" ref="link_text" pref="4"/>
+        <Property value="" ref="class" pref="7"/>
+        <Property value="" ref="css" pref="8"/>
+        <Property value="" ref="type" pref="9"/>
+        <Property value="&lt;a href=&quot;#main-modal&quot; class=&quot;d-none btn btn-primary rounded-pill d-lg-flex align-items-center btn-arrow&quot; data-cta-type=&quot;Register Button&quot; data-optly-88895c0a-9467-4368-a706-8d15008a3c07=&quot;&quot;>Sign Up&lt;/a>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="FirstName">
+      <Object frame="" ref="FirstName">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="//input[@name=&quot;FirstName&quot;]" ref="relative_xpath" pref="5"/>
+        <Property value="FirstName" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="" ref="xpath" pref="6"/>
+        <Property value="" ref="class" pref="7"/>
+        <Property value="" ref="css" pref="8"/>
+        <Property value="" ref="type" pref="9"/>
+        <Property value="&lt;input id=&quot;FirstName&quot; name=&quot;FirstName&quot; maxlength=&quot;2000&quot; aria-labelledby=&quot;LblFirstName InstructFirstName&quot; type=&quot;text&quot; class=&quot;mktoField mktoTextField mktoHasWidth mktoRequired&quot; aria-required=&quot;true&quot; data-uw-rm-form=&quot;nfx&quot;>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="LastName">
+      <Object frame="" ref="LastName">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="//input[@name=&quot;LastName&quot;]" ref="relative_xpath" pref="5"/>
+        <Property value="LastName" ref="id" pref="3"/>
+        <Property value="" ref="xpath" pref="6"/>
+        <Property value="" ref="class" pref="7"/>
+        <Property value="" ref="css" pref="8"/>
+        <Property value="" ref="type" pref="9"/>
+        <Property value="&lt;input id=&quot;LastName&quot; name=&quot;LastName&quot; maxlength=&quot;2000&quot; aria-labelledby=&quot;LblLastName InstructLastName&quot; type=&quot;text&quot; class=&quot;mktoField mktoTextField mktoHasWidth mktoRequired&quot; aria-required=&quot;true&quot; data-uw-rm-form=&quot;nfx&quot;>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="SelectCountry">
+      <Object frame="" ref="SelectCountry">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="" ref="xpath" pref="6"/>
+        <Property value="(//button[@aria-label=&quot;Selected country&quot;])[1]/div[1]" ref="relative_xpath" pref="5"/>
+        <Property value="" ref="class" pref="7"/>
+        <Property value="" ref="css" pref="8"/>
+        <Property value="" ref="type" pref="9"/>
+        <Property value="&lt;div class=&quot;iti__selected-country-primary&quot;>&lt;div class=&quot;iti__flag iti__in&quot;>&lt;span class=&quot;iti__a11y-text&quot;>India +91&lt;/span>&lt;/div>&lt;div class=&quot;iti__arrow&quot; aria-hidden=&quot;true&quot;>&lt;/div>&lt;/div>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="CountrySearch">
+      <Object frame="" ref="CountrySearch">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="" ref="relative_xpath" pref="5"/>
+        <Property value="//input[@placeholder=&quot;Search&quot;]" ref="xpath" pref="6"/>
+        <Property value="" ref="class" pref="7"/>
+        <Property value="" ref="css" pref="8"/>
+        <Property value="" ref="type" pref="9"/>
+        <Property value="&lt;input type=&quot;text&quot; class=&quot;iti__search-input&quot; placeholder=&quot;Search&quot; role=&quot;combobox&quot; aria-expanded=&quot;true&quot; aria-label=&quot;Search&quot; aria-controls=&quot;iti-0__country-listbox&quot; aria-autocomplete=&quot;list&quot; autocomplete=&quot;off&quot; data-uw-rm-form=&quot;nfx&quot; aria-activedescendant=&quot;iti-0__item-af&quot;>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="ClickFirstCountry">
+      <Object frame="" ref="ClickFirstCountry">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="//ul[@aria-label=&quot;List of countries&quot;]/li" ref="relative_xpath" pref="5"/>
+        <Property value="" ref="xpath" pref="6"/>
+        <Property value="" ref="class" pref="7"/>
+        <Property value="" ref="css" pref="8"/>
+        <Property value="" ref="type" pref="9"/>
+        <Property value="&lt;li id=&quot;iti-0__item-ao&quot; class=&quot;iti__country iti__highlight&quot; tabindex=&quot;-1&quot; role=&quot;option&quot; data-dial-code=&quot;244&quot; data-country-code=&quot;ao&quot; aria-selected=&quot;true&quot;>&lt;div class=&quot;iti__flag iti__ao&quot;>&lt;/div>&lt;span class=&quot;iti__country-name&quot;>Angola&lt;/span>&lt;span class=&quot;iti__dial-code&quot;>+244&lt;/span>&lt;/li>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="MobileNumber">
+      <Object frame="" ref="MobileNumber">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="//input[@id=&quot;MobilePhone&quot;]" ref="relative_xpath" pref="5"/>
+        <Property value="" ref="xpath" pref="6"/>
+        <Property value="" ref="class" pref="7"/>
+        <Property value="" ref="css" pref="8"/>
+        <Property value="" ref="type" pref="9"/>
+        <Property value="&lt;input id=&quot;MobilePhone&quot; name=&quot;MobilePhone&quot; maxlength=&quot;255&quot; aria-labelledby=&quot;LblMobilePhone InstructMobilePhone&quot; type=&quot;tel&quot; class=&quot;mktoField mktoTelField mktoHasWidth mktoRequired iti__tel-input mktoInvalid&quot; aria-required=&quot;true&quot; autocomplete=&quot;off&quot; placeholder=&quot;923 123 456&quot; data-intl-tel-input-id=&quot;0&quot; style=&quot;padding-left: 92px;&quot; data-uw-rm-form=&quot;nfx&quot; aria-describedby=&quot;ValidMsgMobilePhone&quot; aria-invalid=&quot;true&quot;>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="Email">
+      <Object frame="" ref="Email">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="Email" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="//input[@name=&quot;Email&quot;]" ref="relative_xpath" pref="5"/>
+        <Property value="" ref="xpath" pref="6"/>
+        <Property value="" ref="class" pref="7"/>
+        <Property value="" ref="css" pref="8"/>
+        <Property value="" ref="type" pref="9"/>
+        <Property value="" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+  </Page>
+  <Page title="Sign Up" ref="Sign">
+    <ObjectGroup ref="First name">
+      <Object frame="" ref="First name">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="ctl00$cphBodyContent$PersonalDetails1$txtFirstName" ref="name" pref="2"/>
+        <Property value="txtFirstName" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="//input[@placeholder='First name']" ref="relative_xpath" pref="5"/>
+        <Property value="/html/body/div[10]/div/form/section[2]/div/div/div/div/ul/li/div/div/div[2]/div/div/div/div[12]/div[2]/input" ref="xpath" pref="6"/>
+        <Property value="field-data watermark" ref="class" pref="7"/>
+        <Property value="#txtFirstName" ref="css" pref="8"/>
+        <Property value="text" ref="type" pref="9"/>
+        <Property value="&lt;input payoneer=&quot;TextBox&quot; type=&quot;text&quot; validate=&quot;validate&quot; data-rule-required=&quot;true&quot; data-msg-required=&quot;The first name field is required.&quot; data-rule-pattern=&quot;^[a-z A-Z]+$&quot; data-msg-pattern=&quot;Please fill in a valid first name in English characters only&quot; data-rule-minlength=&quot;2&quot; data-msg-minlength=&quot;The first name field must contain at least {0} characters.&quot; data-rule-maxlength=&quot;26&quot; data-msg-maxlength=&quot;Maximum field length of {0} for first name was exceeded.&quot; data-charstoreplace=&quot;　&amp;amp;-.',/+()&amp;quot;@:*`?̈ $̀#°;!\–̈́’￼_²，´%º&lt;９о=５‘[​。‐℅＆－½§¤ð|]>Â&amp;nbsp;ï»¿âÃ¢ÂÂ?ââ‎‎¦&quot; name=&quot;ctl00$cphBodyContent$PersonalDetails1$txtFirstName&quot; class=&quot;field-data watermark&quot; placeholder=&quot;First name&quot; id=&quot;txtFirstName&quot; data-uw-rm-form=&quot;fx&quot; aria-label=&quot;First name&quot; data-uw-hidden-control=&quot;hidden-control-element&quot; data-gtm-form-interact-field-id=&quot;0&quot;>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="Last name">
+      <Object frame="" ref="Last name">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="ctl00$cphBodyContent$PersonalDetails1$txtLastName" ref="name" pref="2"/>
+        <Property value="txtLastName" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="//input[@placeholder='Last name']" ref="relative_xpath" pref="5"/>
+        <Property value="/html/body/div[10]/div/form/section[2]/div/div/div/div/ul/li/div/div/div[2]/div/div/div/div[13]/div[2]/input" ref="xpath" pref="6"/>
+        <Property value="field-data watermark" ref="class" pref="7"/>
+        <Property value="#txtLastName" ref="css" pref="8"/>
+        <Property value="text" ref="type" pref="9"/>
+        <Property value="&lt;input payoneer=&quot;TextBox&quot; type=&quot;text&quot; validate=&quot;validate&quot; data-rule-required=&quot;true&quot; data-msg-required=&quot;The last name field is required.&quot; data-rule-pattern=&quot;^[a-z A-Z]+$&quot; data-msg-pattern=&quot;Please fill in a valid last name in English characters only&quot; data-rule-minlength=&quot;2&quot; data-msg-minlength=&quot;The last name field must contain at least {0} characters.&quot; data-rule-maxlength=&quot;26&quot; data-msg-maxlength=&quot;Maximum field length of {0} for last name was exceeded.&quot; data-charstoreplace=&quot;　&amp;amp;-.',/+()&amp;quot;@:*`?̈ $̀#°;!\–̈́’￼_²，´%º&lt;９о=５‘[​。‐℅＆－½§¤ð|]>Â&amp;nbsp;ï»¿âÃ¢ÂÂ?ââ‎‎¦&quot; name=&quot;ctl00$cphBodyContent$PersonalDetails1$txtLastName&quot; class=&quot;field-data watermark&quot; placeholder=&quot;Last name&quot; id=&quot;txtLastName&quot; data-uw-rm-form=&quot;fx&quot; aria-label=&quot;Last name&quot; data-uw-hidden-control=&quot;hidden-control-element&quot;>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="Email address">
+      <Object frame="" ref="Email address">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="ctl00$cphBodyContent$PersonalDetails1$txtEmail" ref="name" pref="2"/>
+        <Property value="txtEmail" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="//input[@placeholder='Email address']" ref="relative_xpath" pref="5"/>
+        <Property value="/html/body/div[10]/div/form/section[2]/div/div/div/div/ul/li/div/div/div[2]/div/div/div/div[14]/div[2]/input" ref="xpath" pref="6"/>
+        <Property value="field-data watermark" ref="class" pref="7"/>
+        <Property value="#txtEmail" ref="css" pref="8"/>
+        <Property value="email" ref="type" pref="9"/>
+        <Property value="&lt;input payoneer=&quot;TextBox&quot; type=&quot;email&quot; validate=&quot;validate&quot; data-rule-required=&quot;true&quot; data-msg-required=&quot;The email address field is required.&quot; data-rule-pattern=&quot;^([a-zA-Z0-9_\-]+[\+\.])*([a-zA-Z0-9_\-])+@[a-zA-Z0-9]+([_\-\.][a-zA-Z0-9]+)*\.[a-zA-Z0-9]+([\-.][a-zA-Z0-9]+)*$&quot; data-msg-pattern=&quot;Please fill in a valid email address&quot; data-rule-minlength=&quot;0&quot; data-msg-minlength=&quot;The email address field must contain at least {0} characters.&quot; data-rule-maxlength=&quot;50&quot; data-msg-maxlength=&quot;Maximum field length of {0} for email address was exceeded.&quot; data-charstoreplace=&quot;　&quot; name=&quot;ctl00$cphBodyContent$PersonalDetails1$txtEmail&quot; class=&quot;field-data watermark&quot; placeholder=&quot;Email address&quot; id=&quot;txtEmail&quot; data-uw-rm-form=&quot;fx&quot; aria-label=&quot;Email address&quot; data-uw-hidden-control=&quot;hidden-control-element&quot;>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="Re-enter email address">
+      <Object frame="" ref="Re-enter email address">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="ctl00$cphBodyContent$PersonalDetails1$txtRetypeEmail" ref="name" pref="2"/>
+        <Property value="txtRetypeEmail" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="//input[@placeholder='Re-enter email address']" ref="relative_xpath" pref="5"/>
+        <Property value="/html/body/div[10]/div/form/section[2]/div/div/div/div/ul/li/div/div/div[2]/div/div/div/div[15]/div[2]/input" ref="xpath" pref="6"/>
+        <Property value="field-data watermark" ref="class" pref="7"/>
+        <Property value="#txtRetypeEmail" ref="css" pref="8"/>
+        <Property value="email" ref="type" pref="9"/>
+        <Property value="&lt;input payoneer=&quot;TextBox&quot; type=&quot;email&quot; validate=&quot;validate&quot; data-rule-required=&quot;true&quot; data-msg-required=&quot;This field is required.&quot; data-rule-equalto=&quot;#txtEmail&quot; data-msg-equalto=&quot;Please enter the same value again&quot; name=&quot;ctl00$cphBodyContent$PersonalDetails1$txtRetypeEmail&quot; class=&quot;field-data watermark&quot; placeholder=&quot;Re-enter email address&quot; id=&quot;txtRetypeEmail&quot; data-uw-rm-form=&quot;fx&quot; aria-label=&quot;Re-enter email address&quot; data-uw-hidden-control=&quot;hidden-control-element&quot;>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="Data">
+      <Object frame="" ref="Data">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="datepicker5" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="(//input[@payoneer=&quot;DateTimePicker&quot;])[1]" ref="relative_xpath" pref="5"/>
+        <Property value="/html/body/div[11]/div/div/select[2]" ref="xpath" pref="6"/>
+        <Property value="ui-datepicker-year" ref="class" pref="7"/>
+        <Property value="select.ui-datepicker-year" ref="css" pref="8"/>
+        <Property value="select-one" ref="type" pref="9"/>
+        <Property value="&lt;input payoneer=&quot;DateTimePicker&quot; data-mode=&quot;datepicker&quot; type=&quot;text&quot; name=&quot;ctl00$cphBodyContent$PersonalDetails1$datepicker5&quot; maxlength=&quot;10&quot; data-showon=&quot;both&quot; data-changemonth=&quot;true&quot; data-changeyear=&quot;true&quot; data-maxdate=&quot;1&quot; data-defaultdate=&quot;02/28/2025 00:00&quot; class=&quot;field-data watermark hasDatepicker&quot; validate=&quot;validate&quot; data-rule-required=&quot;true&quot; data-msg-required=&quot;This field is required.&quot; data-rule-pattern=&quot;^[a-zA-Z0-9 ;,\.\/\\_\-\)\(:]+$&quot; data-msg-pattern=&quot;Please fill in valid date&quot; data-rule-minlength=&quot;0&quot; data-msg-minlength=&quot;The field must contain at least {0} characters.&quot; data-rule-maxlength=&quot;50&quot; data-msg-maxlength=&quot;Maximum field length of {0} for date was exceeded.&quot; data-charstoreplace=&quot;　&quot; autocomplete=&quot;off&quot; placeholder=&quot;Date of birth&quot; id=&quot;datepicker5&quot; data-uw-rm-form=&quot;fx&quot; aria-label=&quot;Date of birth&quot; data-uw-hidden-control=&quot;hidden-control-element&quot; data-uw-rm-cpr-jqdp=&quot;true&quot;>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="1">
+      <Object frame="" ref="1">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="1" ref="link_text" pref="4"/>
+        <Property value="(//a[contains(normalize-space(text()),'1')])[1]" ref="relative_xpath" pref="5"/>
+        <Property value="(/html/body/div[11]/table/tbody/tr/td[3]/a)[1]" ref="xpath" pref="6"/>
+        <Property value="ui-state-default ui-state-hover" ref="class" pref="7"/>
+        <Property value="a.ui-state-default.ui-state-hover" ref="css" pref="8"/>
+        <Property value="a" ref="type" pref="9"/>
+        <Property value="" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="Next">
+      <Object frame="" ref="Next">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="PersonalDetailsButtonArkose" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="(//input[@value='Next'])[1]" ref="relative_xpath" pref="5"/>
+        <Property value="/html/body/div[10]/div/form/section[2]/div/div/div/div/ul/li/div/div/div[2]/div[2]/div[3]/span/input" ref="xpath" pref="6"/>
+        <Property value="button" ref="class" pref="7"/>
+        <Property value="#PersonalDetailsButtonArkose" ref="css" pref="8"/>
+        <Property value="button" ref="type" pref="9"/>
+        <Property value="&lt;input type=&quot;button&quot; value=&quot;Next&quot; class=&quot;button&quot; payoneer=&quot;Button&quot; data-controltovalidate=&quot;PersonalDetails&quot; data-onfieldsvalidation=&quot;ToggleNextButtonWithCaptcha&quot; id=&quot;PersonalDetailsButtonArkose&quot; data-uw-rm-form=&quot;fx&quot; aria-label=&quot;Button&quot; data-uw-hidden-control=&quot;hidden-control-element&quot;>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+  </Page>
+  <Page title="Under Armour® Official Store | FREE Shipping Available" ref="Under">
+    <ObjectGroup ref="See All">
+      <Object frame="" ref="See All">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="See All" ref="link_text" pref="4"/>
+        <Property value="(//a[contains(normalize-space(text()),'See All')])[2]" ref="relative_xpath" pref="5"/>
+        <Property value="/html/body/dialog[2]/div/div/div[2]/a" ref="xpath" pref="6"/>
+        <Property value="text-h6" ref="class" pref="7"/>
+        <Property value="a.text-h6" ref="css" pref="8"/>
+        <Property value="a" ref="type" pref="9"/>
+        <Property value="&lt;a class=&quot;text-h6&quot; href=&quot;/en-us/change-location/&quot;>See All&lt;/a>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+  </Page>
+  <Page title="Change Your Shipping Location | Under Armour" ref="Change">
+    <ObjectGroup ref="Join &amp; Create an Account">
+      <Object frame="" ref="Join &amp; Create an Account">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="(//button[@type='button'])[2]" ref="relative_xpath" pref="5"/>
+        <Property value="/html/body/dialog/div/div/div/div[2]/div/div/button" ref="xpath" pref="6"/>
+        <Property value="Button_btn__8I_Ow Button_btn__primary__7tg_G" ref="class" pref="7"/>
+        <Property value="div.LoyaltyDialogSignUp_primary-button-wrapper__Iuix6 > button.Button_btn__8I_Ow.Button_btn__primary__7tg_G" ref="css" pref="8"/>
+        <Property value="button" ref="type" pref="9"/>
+        <Property value="&lt;button type=&quot;button&quot; aria-haspopup=&quot;dialog&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;radix-:r8u:&quot; data-state=&quot;closed&quot; class=&quot;underline text-ua_dark_grey hidden lg:block lg:text-sm&quot;>Learn more&lt;/button>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="email">
+      <Object frame="" ref="email">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="email" ref="name" pref="2"/>
+        <Property value="email" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="(//input[@placeholder=' '])[1]" ref="relative_xpath" pref="5"/>
+        <Property value="/html/body/dialog/div/div/div/form/div/input" ref="xpath" pref="6"/>
+        <Property value="RegisterUser_login-input__klU2r undefined" ref="class" pref="7"/>
+        <Property value="html > body.__variable_f6ca55.__variable_e1c878 > dialog. Dialog_dialog--ua-dialog__hzXD1 ua-dialog.UserAuthModal_user-auth-modal__R9kTJ undefined Dialog_dialog__sprrr > div.Dialog_dialog--ua-dialog--content__q_Y4K > div.Dialog_content-wrapper__MihtT. > #register > form > div.forms_form-field__U_MqW.form-field forms_form-field--floating-field__iDuF1 > #email" ref="css" pref="8"/>
+        <Property value="email" ref="type" pref="9"/>
+        <Property value="&lt;input id=&quot;email&quot; class=&quot;EmailForm_email__input__gxYug&quot; placeholder=&quot; &quot; aria-invalid=&quot;false&quot; aria-describedby=&quot;form-errors-email&quot; required=&quot;&quot; type=&quot;email&quot; name=&quot;email&quot;>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="password">
+      <Object frame="" ref="password">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="password" ref="name" pref="2"/>
+        <Property value="pass" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="(//input[@placeholder=' '])[2]" ref="relative_xpath" pref="5"/>
+        <Property value="/html/body/dialog/div/div/div/form/div[2]/div/input" ref="xpath" pref="6"/>
+        <Property value="" ref="class" pref="7"/>
+        <Property value="#pass" ref="css" pref="8"/>
+        <Property value="password" ref="type" pref="9"/>
+        <Property value="&lt;input name=&quot;password&quot; id=&quot;password&quot; type=&quot;text&quot; autocomplete=&quot;current-password&quot; placeholder=&quot;Password&quot; aria-label=&quot;Password&quot; class=&quot;bg-white border-none !ring-ua_dark_grey focus:!ring-ua_dark_grey input-focus placeholder:text-[#B4B4BF] text-ua_dark_grey rounded-[2px] font-np-light text-[16px] h-[50px] flex flex-row items-center w-full &quot; value=&quot;&quot; data-gtm-form-interact-field-id=&quot;3&quot;>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="Create An Account">
+      <Object frame="" ref="Create An Account">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="(//button[@type='submit'])[1]" ref="relative_xpath" pref="5"/>
+        <Property value="/html/body/dialog/div/div/div/form/button" ref="xpath" pref="6"/>
+        <Property value="Button_btn__8I_Ow Button_btn__primary__7tg_G" ref="class" pref="7"/>
+        <Property value="form > button.Button_btn__8I_Ow.Button_btn__primary__7tg_G" ref="css" pref="8"/>
+        <Property value="submit" ref="type" pref="9"/>
+        <Property value="&lt;button name=&quot;_action&quot; value=&quot;&quot; type=&quot;submit&quot; class=&quot;mt-[16px] flex items-center justify-center rounded-[2px] h-[50px] w-full text-white bg-ua_dark_grey mt-[30px] mb-[24px]&quot;>&lt;span class=&quot;relative flex w-5 h-5&quot;>&lt;span class=&quot;animate-ping absolute inline-flex h-full w-full rounded-full bg-white opacity-75&quot;>&lt;/span>&lt;span class=&quot;relative flex justify-center items-center rounded-full bg-white w-5 h-5&quot;>&lt;/span>&lt;/span>&lt;/button>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+  </Page>
+  <Page title="Login" ref="Login">
+    <ObjectGroup ref="SMS verification code login">
+      <Object frame="alibaba-login-box" ref="SMS verification code login">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="//div[contains(text(),'SMS verification code login')]" ref="relative_xpath" pref="5"/>
+        <Property value="/html/body/div/div/div/div[2]" ref="xpath" pref="6"/>
+        <Property value="login-tabs-tab active" ref="class" pref="7"/>
+        <Property value="div.login-tabs-tab.active" ref="css" pref="8"/>
+        <Property value="div" ref="type" pref="9"/>
+        <Property value="&lt;div class=&quot;login-tabs-tab&quot;>SMS verification code login&lt;/div>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+        <Property value="" ref="NewProp" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="search">
+      <Object frame="" ref="search">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="//input[@placeholder='search']" ref="relative_xpath" pref="5"/>
+        <Property value="/html/body/div/div/div[2]/div/form/div/div[2]/ul/div/input" ref="xpath" pref="6"/>
+        <Property value="SearchCodeInput-input" ref="class" pref="7"/>
+        <Property value="input.SearchCodeInput-input" ref="css" pref="8"/>
+        <Property value="text" ref="type" pref="9"/>
+        <Property value="&lt;input type=&quot;text&quot; placeholder=&quot;search&quot; class=&quot;SearchCodeInput-input&quot;>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="Mobile phone number">
+      <Object frame="" ref="Mobile phone number">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="fm-sms-login-id" ref="name" pref="2"/>
+        <Property value="fm-sms-login-id" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="//input[@placeholder='Mobile phone number']" ref="relative_xpath" pref="5"/>
+        <Property value="/html/body/div/div/div[2]/div/form/div/div[3]/input" ref="xpath" pref="6"/>
+        <Property value="fm-text" ref="class" pref="7"/>
+        <Property value="#fm-sms-login-id" ref="css" pref="8"/>
+        <Property value="text" ref="type" pref="9"/>
+        <Property value="&lt;input name=&quot;fm-sms-login-id&quot; type=&quot;text&quot; class=&quot;fm-text&quot; id=&quot;fm-sms-login-id&quot; tabindex=&quot;1&quot; placeholder=&quot;Mobile phone number&quot; autocapitalize=&quot;off&quot; data-spm-anchor-id=&quot;0.0.0.i3.2d3579f4OhlLEg&quot;>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="Get code">
+      <Object frame="" ref="Get code">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="Get code" ref="link_text" pref="4"/>
+        <Property value="//a[contains(normalize-space(text()),'Get code')]" ref="relative_xpath" pref="5"/>
+        <Property value="/html/body/div/div/div[2]/div/form/div[2]/div[3]/a" ref="xpath" pref="6"/>
+        <Property value="send-btn-link" ref="class" pref="7"/>
+        <Property value="a.send-btn-link" ref="css" pref="8"/>
+        <Property value="a" ref="type" pref="9"/>
+        <Property value="&lt;a href=&quot;javascript:void(0);&quot; class=&quot;send-btn-link&quot;>Get code&lt;/a>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="CountryDropDown">
+      <Object frame="" ref="CountryDropDown">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="" ref="relative_xpath" pref="5"/>
+        <Property value="//i[@class=&quot;iconfont icon-arrow&quot;]" ref="xpath" pref="6"/>
+        <Property value="" ref="class" pref="7"/>
+        <Property value="" ref="css" pref="8"/>
+        <Property value="" ref="type" pref="9"/>
+        <Property value="&lt;i class=&quot;iconfont icon-arrow&quot;>&lt;/i>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="SMS verification code login1">
+      <Object frame="" ref="SMS verification code login1">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="//*[normalize-space(text())='SMS verification code login']" ref="relative_xpath" pref="5"/>
+        <Property value="/html/body/div/div/div/div[2]" ref="xpath" pref="6"/>
+        <Property value="login-tabs-tab" ref="class" pref="7"/>
+        <Property value="html > #mini-login-body > #container > #login > #login-tabs > div.login-tabs-tab" ref="css" pref="8"/>
+        <Property value="div" ref="type" pref="9"/>
+        <Property value="&lt;div class=&quot;select-box-lang&quot;>&#xa;                &lt;div class=&quot;select-item-lang&quot;>&#xa;                &lt;div class=&quot;select-item-mark&quot; id=&quot;zh_CN&quot;>&lt;/div>&#xa;                &lt;span>中文&lt;/span>&#xa;                &lt;/div>&#xa;              &#xa;                &lt;div class=&quot;select-item-lang&quot;>&#xa;                &lt;div class=&quot;select-item-mark&quot; id=&quot;zh_TW&quot;>&lt;/div>&#xa;                &lt;span>繁體中文&lt;/span>&#xa;                &lt;/div>&#xa;              &#xa;                &lt;div class=&quot;select-item-lang&quot;>&#xa;                &lt;div class=&quot;select-item-mark&quot; id=&quot;en_US&quot;>&lt;/div>&#xa;                &lt;span>English&lt;/span>&#xa;                &lt;/div>&#xa;              &#xa;                &lt;div class=&quot;select-item-lang&quot;>&#xa;                &lt;div class=&quot;select-item-mark&quot; id=&quot;ru_RU&quot;>&lt;/div>&#xa;                &lt;span>русский&lt;/span>&#xa;                &lt;/div>&#xa;              &#xa;                &lt;div class=&quot;select-item-lang&quot;>&#xa;                &lt;div class=&quot;select-item-mark&quot; id=&quot;pl_PL&quot;>&lt;/div>&#xa;                &lt;span>Polskie&lt;/span>&#xa;                &lt;/div>&#xa;              &#xa;                &lt;div class=&quot;select-item-lang&quot;>&#xa;                &lt;div class=&quot;select-item-mark&quot; id=&quot;fr_FR&quot;>&lt;/div>&#xa;                &lt;span>French&lt;/span>&#xa;                &lt;/div>&#xa;              &#xa;                &lt;div class=&quot;select-item-lang&quot;>&#xa;                &lt;div class=&quot;select-item-mark&quot; id=&quot;es_ES&quot;>&lt;/div>&#xa;                &lt;span>Spanish&lt;/span>&#xa;                &lt;/div>&#xa;              &#xa;                &lt;div class=&quot;select-item-lang&quot;>&#xa;                &lt;div class=&quot;select-item-mark&quot; id=&quot;es_LA&quot;>&lt;/div>&#xa;                &lt;span>Spanish(Latin)&lt;/span>&#xa;                &lt;/div>&#xa;              &#xa;                &lt;div class=&quot;select-item-lang&quot;>&#xa;                &lt;div class=&quot;select-item-mark&quot; id=&quot;pt_BR&quot;>&lt;/div>&#xa;                &lt;span>Português(Brasil)&lt;/span>&#xa;                &lt;/div>&#xa;              &#xa;                &lt;div class=&quot;select-item-lang&quot;>&#xa;                &lt;div class=&quot;select-item-mark&quot; id=&quot;ja_JP&quot;>&lt;/div>&#xa;                &lt;span>日本語&lt;/span>&#xa;                &lt;/div>&#xa;              &#xa;                &lt;div class=&quot;select-item-lang&quot;>&#xa;                &lt;div class=&quot;select-item-mark&quot; id=&quot;ko_KR&quot;>&lt;/div>&#xa;                &lt;span>한국인&lt;/span>&#xa;                &lt;/div>&#xa;              &#xa;                &lt;div class=&quot;select-item-lang&quot;>&#xa;                &lt;div class=&quot;select-item-mark&quot; id=&quot;he_IL&quot;>&lt;/div>&#xa;                &lt;span>היברית&lt;/span>&#xa;                &lt;/div>&#xa;              &lt;/div>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="SelectCountry">
+      <Object frame="" ref="SelectCountry">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="//ul[@class=&quot;phone-code-options&quot;]/li" ref="relative_xpath" pref="5"/>
+        <Property value="" ref="xpath" pref="6"/>
+        <Property value="" ref="class" pref="7"/>
+        <Property value="" ref="css" pref="8"/>
+        <Property value="" ref="type" pref="9"/>
+        <Property value="&lt;li class=&quot;&quot;>&lt;span class=&quot;phone-code-options-text&quot;>Angola&lt;/span>&lt;span class=&quot;phone-code-options-code&quot;>+244&lt;/span>&lt;/li>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="DragSource">
+      <Object frame="" ref="DragSource">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="nc_1_n1z" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="//span[@aria-label=&quot;滑块&quot;]" ref="relative_xpath" pref="5"/>
+        <Property value="" ref="xpath" pref="6"/>
+        <Property value="" ref="class" pref="7"/>
+        <Property value="" ref="css" pref="8"/>
+        <Property value="" ref="type" pref="9"/>
+        <Property value="" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="DropDestination">
+      <Object frame="" ref="DropDestination">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="//div[@class=&quot;nc_bg&quot; and contains(@style, &quot;width: 300px;&quot;)]" ref="relative_xpath" pref="5"/>
+        <Property value="" ref="xpath" pref="6"/>
+        <Property value="" ref="class" pref="7"/>
+        <Property value="" ref="css" pref="8"/>
+        <Property value="" ref="type" pref="9"/>
+        <Property value="" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+  </Page>
+  <Page title="Uber" ref="Uber">
+    <ObjectGroup ref="Enter phone number or email">
+      <Object frame="" ref="Enter phone number or email">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="email" ref="name" pref="2"/>
+        <Property value="PHONE_NUMBER_or_EMAIL_ADDRESS" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="//input[@placeholder='Enter phone number or email']" ref="relative_xpath" pref="5"/>
+        <Property value="/html/body/div/div/div[3]/div/div/div/div/div[2]/div/bdi/div[2]/div/input" ref="xpath" pref="6"/>
+        <Property value="bw bx by bd bz c0 bk au c1 c2 c3" ref="class" pref="7"/>
+        <Property value="#PHONE_NUMBER_or_EMAIL_ADDRESS" ref="css" pref="8"/>
+        <Property value="email" ref="type" pref="9"/>
+        <Property value="&lt;input id=&quot;PHONE_NUMBER_or_EMAIL_ADDRESS&quot; title=&quot;Enter phone number or email&quot; autocomplete=&quot;email webauthn&quot; inputmode=&quot;email&quot; name=&quot;email&quot; type=&quot;email&quot; autocorrect=&quot;off&quot; autocapitalize=&quot;off&quot; spellcheck=&quot;false&quot; autofocus=&quot;&quot; placeholder=&quot;Enter phone number or email&quot; aria-label=&quot;Enter phone number or email&quot; class=&quot;bw bx by bd bz c0 bk au c1 c2 c3&quot; value=&quot;&quot;>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="Enter phone number or email1">
+      <Object frame="" ref="Enter phone number or email1">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="email" ref="name" pref="2"/>
+        <Property value="PHONE_NUMBER_or_EMAIL_ADDRESS" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="//input[@placeholder='Enter phone number or email']" ref="relative_xpath" pref="5"/>
+        <Property value="/html/body/div/div/div[3]/div/div/div/div/div[2]/div/bdi/div[2]/div[2]/input" ref="xpath" pref="6"/>
+        <Property value="bw bx by bd bz c0 bk au c1 c2 c3" ref="class" pref="7"/>
+        <Property value="#PHONE_NUMBER_or_EMAIL_ADDRESS" ref="css" pref="8"/>
+        <Property value="email" ref="type" pref="9"/>
+        <Property value="&lt;input id=&quot;PHONE_NUMBER_or_EMAIL_ADDRESS&quot; title=&quot;Enter phone number or email&quot; autocomplete=&quot;email webauthn&quot; inputmode=&quot;email&quot; name=&quot;email&quot; type=&quot;email&quot; autocorrect=&quot;off&quot; autocapitalize=&quot;off&quot; spellcheck=&quot;false&quot; autofocus=&quot;&quot; placeholder=&quot;Enter phone number or email&quot; aria-label=&quot;Enter phone number or email&quot; class=&quot;bw bx by bd bz c0 bk au c1 c2 c3&quot; value=&quot;&quot;>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="Enter phone number or email2">
+      <Object frame="" ref="Enter phone number or email2">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="email" ref="name" pref="2"/>
+        <Property value="PHONE_NUMBER_or_EMAIL_ADDRESS" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="//input[@placeholder='Enter phone number or email']" ref="relative_xpath" pref="5"/>
+        <Property value="/html/body/div/div/div[4]/div/div/div/div/div[2]/div/bdi/div[2]/div[2]/input" ref="xpath" pref="6"/>
+        <Property value="bw bx by bd bz c0 bk au c1 c2 c3" ref="class" pref="7"/>
+        <Property value="#PHONE_NUMBER_or_EMAIL_ADDRESS" ref="css" pref="8"/>
+        <Property value="email" ref="type" pref="9"/>
+        <Property value="&lt;input id=&quot;PHONE_NUMBER_or_EMAIL_ADDRESS&quot; title=&quot;Enter phone number or email&quot; autocomplete=&quot;email webauthn&quot; inputmode=&quot;email&quot; name=&quot;email&quot; type=&quot;email&quot; autocorrect=&quot;off&quot; autocapitalize=&quot;off&quot; spellcheck=&quot;false&quot; autofocus=&quot;&quot; placeholder=&quot;Enter phone number or email&quot; aria-label=&quot;Enter phone number or email&quot; class=&quot;bw bx by bd bz c0 bk au c1 c2 c3&quot; value=&quot;999535025&quot;>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="Enter the 4-digit code sent vi">
+      <Object frame="" ref="Enter the 4-digit code sent vi">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="//*[contains(text(),'Enter the 4-digit code')]" ref="relative_xpath" pref="5"/>
+        <Property value="/html/body/div/div/div[3]/div/div/div/div/h1/span" ref="xpath" pref="6"/>
+        <Property value="" ref="class" pref="7"/>
+        <Property value="#title > span" ref="css" pref="8"/>
+        <Property value="span" ref="type" pref="9"/>
+        <Property value="&lt;span>Enter the 4-digit code sent via SMS at &lt;span dir=&quot;ltr&quot;>998 955 921&lt;/span>.&lt;/span>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="CountryDropDown">
+      <Object frame="" ref="CountryDropDown">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="//div[@id=&quot;PHONE_COUNTRY_CODE&quot;]/div/div[2]" ref="relative_xpath" pref="5"/>
+        <Property value="" ref="xpath" pref="6"/>
+        <Property value="" ref="class" pref="7"/>
+        <Property value="" ref="css" pref="8"/>
+        <Property value="" ref="type" pref="9"/>
+        <Property value="&lt;div class=&quot;ae ak&quot;>&lt;svg height=&quot;16&quot; width=&quot;16&quot; viewBox=&quot;0 0 24 24&quot;>&lt;path d=&quot;M12.7071 15.2929L17.1464 10.8536C17.4614 10.5386 17.2383 10 16.7929 10L7.20711 10C6.76165 10 6.53857 10.5386 6.85355 10.8536L11.2929 15.2929C11.6834 15.6834 12.3166 15.6834 12.7071 15.2929Z&quot;>&lt;/path>&lt;/svg>&lt;/div>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="SelectCountry">
+      <Object frame="" ref="SelectCountry">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="//ul/li/div[contains(text(),'#C')]" ref="xpath" pref="6"/>
+        <Property value="//ul[@role=&quot;listbox&quot;]" ref="relative_xpath" pref="5"/>
+        <Property value="" ref="class" pref="7"/>
+        <Property value="" ref="css" pref="8"/>
+        <Property value="" ref="type" pref="9"/>
+        <Property value="&lt;div class=&quot;h6&quot;>Burundi (Uburundi)&lt;/div>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="ContinueBUtton">
+      <Object frame="" ref="ContinueBUtton">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="//button[@type=&quot;submit&quot;]" ref="relative_xpath" pref="5"/>
+        <Property value="" ref="xpath" pref="6"/>
+        <Property value="" ref="class" pref="7"/>
+        <Property value="" ref="css" pref="8"/>
+        <Property value="" ref="type" pref="9"/>
+        <Property value="&lt;button class=&quot;ew ex by d9 ae bx ak bh da bw db dc c0 dd de df bm dg dh ey ez&quot; id=&quot;forward-button&quot; type=&quot;submit&quot; data-testid=&quot;forward-button&quot;>&lt;div class=&quot;ae ao ak au&quot;>&lt;div class=&quot;ae ak&quot;>&lt;/div>&lt;div class=&quot;ae ak&quot;>Continue&lt;/div>&lt;div class=&quot;ae ak&quot;>&lt;/div>&lt;/div>&lt;/button>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="EnterMobileNumber">
+      <Object frame="" ref="EnterMobileNumber">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="//input[@id=&quot;PHONE_NUMBER_or_EMAIL_ADDRESS&quot;]" ref="relative_xpath" pref="5"/>
+        <Property value="" ref="xpath" pref="6"/>
+        <Property value="" ref="class" pref="7"/>
+        <Property value="" ref="css" pref="8"/>
+        <Property value="" ref="type" pref="9"/>
+        <Property value="&lt;input id=&quot;PHONE_NUMBER_or_EMAIL_ADDRESS&quot; title=&quot;Enter phone number or email&quot; autocomplete=&quot;email webauthn&quot; inputmode=&quot;email&quot; name=&quot;email&quot; type=&quot;email&quot; autocorrect=&quot;off&quot; autocapitalize=&quot;off&quot; spellcheck=&quot;false&quot; autofocus=&quot;&quot; placeholder=&quot;Enter phone number or email&quot; aria-label=&quot;Enter phone number or email&quot; class=&quot;bw bx by bd bz c0 bk au c1 c2 c3&quot; value=&quot;999535025999535025&quot;>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="SignUpButton">
+      <Object frame="" ref="SignUpButton">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="//span[contains(text(),'Don’t have an Uber account? Sign up')]" ref="relative_xpath" pref="5"/>
+        <Property value="" ref="xpath" pref="6"/>
+        <Property value="" ref="class" pref="7"/>
+        <Property value="" ref="css" pref="8"/>
+        <Property value="" ref="type" pref="9"/>
+        <Property value="&lt;span data-testid=&quot;text-cta&quot; class=&quot;css-dogPVS&quot;>Don’t have an Uber account? Sign up&lt;/span>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+  </Page>
+  <Page title="Tinder | Dating, Make Friends &amp; Meet New People" ref="Tinder">
+    <ObjectGroup ref="Create account">
+      <Object frame="" ref="Create account">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="//div[contains(text(),'Create account')]" ref="relative_xpath" pref="5"/>
+        <Property value="/html/body/div/div/div/div/main/div/div/div/div/div/div/div[3]/div/div[2]/button/div[2]/div[2]/div" ref="xpath" pref="6"/>
+        <Property value="lxn9zzn" ref="class" pref="7"/>
+        <Property value="#Tinder > body.M(0).Pos(f) Ov(h) P(0) Expand Fz($s) C($c-ds-text-primary) Ovsby(n) theme-light > #s187265716 > div.App.Expand Ovy(a) Ovx(h) animation-fade-in-out-enter-done animation-fade-in-out-exit-done > div.App__body.H(100%) Pos(r) Z(0) > div.D(f).Fxd(r) Fx($flx1) H(100%) > main.Fx($flx1).Expand Ov(h) Pos(r) Z(1) > div.H(100%) > div.H(100%) > div.H(100%) > div.Pos(r).Bgc($c-ds-background-primary) H(100%) Us(n) Mih(600px) > div.Expand.Ovy(s) > div.Expand.Iso(i) Pos(r) Bgc($c-ds-background-primary-inverse) CenterAlign Fxd(c) Bxsh($bxsh-card) Mb(20px) > #main-content > div.Pos(r).D(f) Fxd(c) Mih(200px) Expand CenterAlign > div.D(f).Fxd(c) W(100%) Ai(c) > button.c1p6lbu0.Mt(20px) > div.w1u9t036 > div.c9iqosj > div.lxn9zzn" ref="css" pref="8"/>
+        <Property value="div" ref="type" pref="9"/>
+        <Property value="&lt;div class=&quot;lxn9zzn&quot;>Create account&lt;/div>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="More Options">
+      <Object frame="" ref="More Options">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="//button[contains(text(),'More Options')]" ref="relative_xpath" pref="5"/>
+        <Property value="" ref="xpath" pref="6"/>
+        <Property value="" ref="class" pref="7"/>
+        <Property value="" ref="css" pref="8"/>
+        <Property value="" ref="type" pref="9"/>
+        <Property value="&lt;button class=&quot;Cur(p) C($c-ds-text-link) Typs(button-2) Td(u) Td(n):h focus-outline-style&quot; type=&quot;button&quot;>Trouble Logging In?&lt;/button>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="Log in with phone number">
+      <Object frame="" ref="Log in with phone number">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="//*[normalize-space(text())='Log in with phone number']" ref="relative_xpath" pref="5"/>
+        <Property value="/html/body/div[2]/div/div/div/div/div/div/div[2]/div[2]/span/div[3]/button/div[2]/div[2]/div[2]/div/div" ref="xpath" pref="6"/>
+        <Property value="Mend(a)" ref="class" pref="7"/>
+        <Property value="#Tinder > body.M(0).Pos(f) Ov(h) P(0) Expand Fz($s) C($c-ds-text-primary) Ovsby(n) theme-light > #s408606152 > div.Z(1).StretchedBox CenterAlign > div.Expand--s.theme-light > div.Ovy(h).Ta(c) Bgc($c-ds-background-primary) Bdrs(8px) W(440px) H(a) Pos(r) Ov(v) Ovy(s) Bgc($c-ds-background-primary) Pos(r) Ov(v) Py(36px) Px(44px) Py(12px)--s Px(20px)--s M(10px) P(24px) P(12px)--s Ovy(s)--sm Ovy(h)--md Mah(100vh)--sm Mah(a)--md Jc(fs) > div.Ta(c).H(100%) D(f) Fxd(c) Pos(r) > div.CenterAlign.Expand FlexColumn Mx(a) > div.FlexColumn > div.H(100%).D(f) Fxd(c) > div.Mt(a) > span.D(ib)--s.W(100%)--s My(12px)--s My(8px)--xs C($c-ds-text-secondary) > div.My(12px).My(16px)--ml > button.c1p6lbu0.W(100%) Maw(315px)--s > div.w1u9t036 > div.c9iqosj > div.lxn9zzn > div.W(100%).CenterAlign Typs(button-1) > div.Mend(a)" ref="css" pref="8"/>
+        <Property value="div" ref="type" pref="9"/>
+        <Property value="&lt;div class=&quot;Mend(a)&quot;>Log in with phone number&lt;/div>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="Search">
+      <Object frame="" ref="Search">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="searchQuery" ref="name" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="//input[@placeholder='Search']" ref="relative_xpath" pref="5"/>
+        <Property value="/html/body/div[2]/div/div/div/div/div[2]/div/div/input" ref="xpath" pref="6"/>
+        <Property value="Mstart(36px) H(100%) Va(m) Fx($flx1)" ref="class" pref="7"/>
+        <Property value="input[name=&quot;searchQuery&quot;]" ref="css" pref="8"/>
+        <Property value="text" ref="type" pref="9"/>
+        <Property value="&lt;input name=&quot;searchQuery&quot; type=&quot;text&quot; placeholder=&quot;Search&quot; class=&quot;Mstart(36px) H(100%) Va(m) Fx($flx1)&quot;>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="phone_number">
+      <Object frame="" ref="phone_number">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="phone_number" ref="name" pref="2"/>
+        <Property value="phone_number" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="//input[@name='phone_number']" ref="relative_xpath" pref="5"/>
+        <Property value="/html/body/div[2]/div/div/div/div/div[2]/div/div[2]/div/div[2]/input" ref="xpath" pref="6"/>
+        <Property value="i1si00ql D(ib) Miw(240px)--ml W(100%)--s Bdrs(8px)" ref="class" pref="7"/>
+        <Property value="#phone_number" ref="css" pref="8"/>
+        <Property value="text" ref="type" pref="9"/>
+        <Property value="&lt;input id=&quot;phone_number&quot; autocomplete=&quot;tel&quot; name=&quot;phone_number&quot; inputmode=&quot;numeric&quot; aria-describedby=&quot;phone-number-error-msg&quot; aria-invalid=&quot;false&quot; class=&quot;i1si00ql D(ib) Miw(240px)--ml W(100%)--s Bdrs(8px)&quot; type=&quot;text&quot; style=&quot;min-height: calc((var(--line-height--body-1-regular, 1) * 1) + 2 * (var(--sizing--padding-medium, 0) - var(--sizing--border-width-thin, 0)));&quot;>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="Next">
+      <Object frame="" ref="Next">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="//*[normalize-space(text())='Next']" ref="relative_xpath" pref="5"/>
+        <Property value="/html/body/div[2]/div/div/div/div/div[3]/button/div[2]/div[2]" ref="xpath" pref="6"/>
+        <Property value="c9iqosj" ref="class" pref="7"/>
+        <Property value="#Tinder > body.M(0).Pos(f) Ov(h) P(0) Expand Fz($s) C($c-ds-text-primary) Ovsby(n) theme-light > #s408606152 > div.Z(1).StretchedBox CenterAlign > div.Ovy(h).Ta(c) Bgc($c-ds-background-primary) Bdrs(8px) W(440px) H(a) Pos(r) Ov(v) Ovy(s) Bgc($c-ds-background-primary) Maw(380px)--ml Pt(0)--s M(10px) P(24px) P(12px)--s Ovy(s)--sm Ovy(h)--md Mah(100vh)--sm Mah(a)--md Jc(fs) > div.Ta(c).Bgc($c-ds-background-primary) Expand Mx(a) Maw(332px)--ml P(16px)--s Mx(0) D(ib) H(100%)--s > div > div.Mt(a) > button.c1p6lbu0.W(70%) W(100%)--s > div.w1u9t036 > div.c9iqosj" ref="css" pref="8"/>
+        <Property value="div" ref="type" pref="9"/>
+        <Property value="&lt;div class=&quot;lxn9zzn&quot;>Next&lt;/div>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="Enter your code">
+      <Object frame="" ref="Enter your code">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="//*[normalize-space(text())='Enter your code']" ref="relative_xpath" pref="5"/>
+        <Property value="/html/body/div[2]/div/div/div/div/div/h2" ref="xpath" pref="6"/>
+        <Property value="MODAL_LOGIN" ref="id" pref="3"/>
+        <Property value="Fz($ml) C($c-ds-text-primary) Typs(display-2-strong) Mb(12px) Py(12px)--s Mb(12px)--s Mt(8px)--s Ta(start)--s" ref="class" pref="7"/>
+        <Property value="#MODAL_LOGIN" ref="css" pref="8"/>
+        <Property value="h2" ref="type" pref="9"/>
+        <Property value="&lt;h2 class=&quot;Fz($ml) C($c-ds-text-primary) Typs(display-2-strong) Mb(12px) Py(12px)--s Mb(12px)--s Mt(8px)--s Ta(start)--s&quot; id=&quot;MODAL_LOGIN&quot;>Enter your code&lt;/h2>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="CountryDropDown">
+      <Object frame="" ref="CountryDropDown">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="" ref="relative_xpath" pref="5"/>
+        <Property value="//div[@aria-label=&quot;Select your phone country code&quot;]//div[2]/*/*" ref="xpath" pref="6"/>
+        <Property value="" ref="class" pref="7"/>
+        <Property value="" ref="css" pref="8"/>
+        <Property value="" ref="type" pref="9"/>
+        <Property value="&lt;path d=&quot;M0 3.375L6 9.375L12 3.375H0Z&quot;>&lt;/path>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="First Country">
+      <Object frame="" ref="First Country">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="//span[@class=&quot;Fl(start)&quot;]" ref="relative_xpath" pref="5"/>
+        <Property value="" ref="xpath" pref="6"/>
+        <Property value="" ref="class" pref="7"/>
+        <Property value="" ref="css" pref="8"/>
+        <Property value="" ref="type" pref="9"/>
+        <Property value="&lt;span class=&quot;Fl(start)&quot;>Angola&lt;/span>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+  </Page>
+  <Page title="Airwallex" ref="Airwallex">
+    <ObjectGroup ref="Mobile number">
+      <Object frame="" ref="Mobile number">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="(//*[normalize-space(text())='Mobile number'])[1]" ref="relative_xpath" pref="5"/>
+        <Property value="/html/body/div/div/div/div/div/div/div[2]/div/div[2]/form/div/div/div/h3[2]" ref="xpath" pref="6"/>
+        <Property value="css-1k5i4a6" ref="class" pref="7"/>
+        <Property value="h3.css-1k5i4a6" ref="css" pref="8"/>
+        <Property value="h3" ref="type" pref="9"/>
+        <Property value="&lt;h3 color=&quot;#612FFF&quot; data-test=&quot;switch_PHONE&quot; class=&quot;css-jb2s7f&quot;>Mobile number&lt;/h3>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="phone">
+      <Object frame="" ref="phone">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="phone" ref="name" pref="2"/>
+        <Property value="phone" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="//div[2]/div/div[2]/div/input" ref="relative_xpath" pref="5"/>
+        <Property value="/html/body/div/div/div/div/div/div/div[2]/div/div[2]/form/div/div/div[2]/div/div[2]/div/input" ref="xpath" pref="6"/>
+        <Property value="css-czhevq" ref="class" pref="7"/>
+        <Property value="#phone" ref="css" pref="8"/>
+        <Property value="tel" ref="type" pref="9"/>
+        <Property value="" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="Forgot password?">
+      <Object frame="" ref="Forgot password?">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="(//a[contains(normalize-space(text()),'Forgot password?')])[1]" ref="relative_xpath" pref="5"/>
+        <Property value="exact:Forgot password?" ref="link_text" pref="4"/>
+        <Property value="/html/body/div/div/div/div/div/div/div[2]/div/div[2]/form/div[2]/div/label/a" ref="xpath" pref="6"/>
+        <Property value="css-178ghyi" ref="class" pref="7"/>
+        <Property value="a.css-178ghyi" ref="css" pref="8"/>
+        <Property value="a" ref="type" pref="9"/>
+        <Property value="&lt;a color=&quot;#612FFF&quot; class=&quot;css-178ghyi&quot;>Forgot password?&lt;/a>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="Your mobile number">
+      <Object frame="" ref="Your mobile number">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="phone" ref="name" pref="2"/>
+        <Property value="phone" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="//input[@placeholder='Your mobile number']" ref="relative_xpath" pref="5"/>
+        <Property value="/html/body/div/div/div/div/div/div/div[2]/div/div/div[4]/form/div/div/div[2]/div/div[2]/div/input" ref="xpath" pref="6"/>
+        <Property value="css-czhevq" ref="class" pref="7"/>
+        <Property value="#phone" ref="css" pref="8"/>
+        <Property value="tel" ref="type" pref="9"/>
+        <Property value="&lt;input name=&quot;phone&quot; id=&quot;phone&quot; data-test=&quot;phone&quot; autocomplete=&quot;username&quot; inputmode=&quot;tel&quot; placeholder=&quot;Your mobile number&quot; type=&quot;tel&quot; class=&quot;css-czhevq&quot; value=&quot;&quot;>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="Continue">
+      <Object frame="" ref="Continue">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="//button[@type='submit']" ref="relative_xpath" pref="5"/>
+        <Property value="/html/body/div/div/div/div/div/div/div[2]/div/div/div[4]/form/div[2]/button" ref="xpath" pref="6"/>
+        <Property value="css-193150b" ref="class" pref="7"/>
+        <Property value="button.css-193150b" ref="css" pref="8"/>
+        <Property value="submit" ref="type" pref="9"/>
+        <Property value="&lt;button type=&quot;submit&quot; class=&quot;css-193150b&quot;>&lt;span class=&quot;css-1em80e1&quot;>Continue&lt;/span>&lt;/button>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="We've sent you an SMS">
+      <Object frame="" ref="We've sent you an SMS">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="//h1" ref="relative_xpath" pref="5"/>
+        <Property value="/html/body/div/div/div/div/div/div/div[2]/div/div/div[2]/h1" ref="xpath" pref="6"/>
+        <Property value="css-1gl0y5p" ref="class" pref="7"/>
+        <Property value="h1.css-1gl0y5p" ref="css" pref="8"/>
+        <Property value="h1" ref="type" pref="9"/>
+        <Property value="&lt;h1 class=&quot;css-1pi2xwu&quot;>Forgot password?&lt;/h1>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="CountryDropDown">
+      <Object frame="" ref="CountryDropDown">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="//div[contains(text(), '+')]" ref="xpath" pref="6"/>
+        <Property value="//label[@for=&quot;phone&quot;]//following-sibling::div/div/div/div/*[2]" ref="relative_xpath" pref="5"/>
+        <Property value="" ref="class" pref="7"/>
+        <Property value="" ref="css" pref="8"/>
+        <Property value="" ref="type" pref="9"/>
+        <Property value="&lt;div class=&quot; css-15c2b74-singleValue&quot;>+ 86&lt;/div>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="SelectCountries">
+      <Object frame="" ref="SelectCountries">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="//div[contains(text(),'#C')]" ref="relative_xpath" pref="5"/>
+        <Property value="" ref="xpath" pref="6"/>
+        <Property value="" ref="class" pref="7"/>
+        <Property value="" ref="css" pref="8"/>
+        <Property value="" ref="type" pref="9"/>
+        <Property value="&lt;div class=&quot; css-mnr5f5-option&quot; id=&quot;react-select-3-option-36&quot; tabindex=&quot;-1&quot;>+257  Burundi&lt;/div>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+  </Page>
+  <Page title="" ref="Revolut">
+    <ObjectGroup ref="SignUpButton">
+      <Object frame="" ref="SignUpButton">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="" ref="relative_xpath" pref="5"/>
+        <Property value="//a[@data-blockid=&quot;signup-button&quot;]" ref="xpath" pref="6"/>
+        <Property value="" ref="class" pref="7"/>
+        <Property value="" ref="css" pref="8"/>
+        <Property value="" ref="type" pref="9"/>
+        <Property value="&lt;a data-blockid=&quot;signup-button&quot; href=&quot;https://get.revolut.com/E528/?af_channel=website_direct&amp;amp;af_dp=revolut%3A%2F%2Fapp&amp;amp;af_sub1=%7B%22conversion_page_url%22%3A%22https%3A%2F%2Fwww.revolut.com%2F%22%2C%22cookie_consent%22%3A%5B%22ads%22%2C%22analytics%22%5D%2C%22landing_page_url%22%3A%22https%3A%2F%2Fwww.revolut.com%2F%22%2C%22qr_code%22%3Afalse%2C%22website_client_id%22%3A%22222bc778-18f4-43ce-a4d0-bce7c8d2ca7a%22%7D&amp;amp;deep_link_sub1=DEEPLINK&amp;amp;deep_link_value=revolut%3A%2F%2Fapp&amp;amp;pid=website&quot; class=&quot;ButtonBase__ButtonBaseWrapper-rui__sc-1aqanxw-1 ebyqwN ButtonBase-rui__sc-1aqanxw-2 ButtonLayout___StyledButtonBase-rui__sc-15pyc45-2 iHLlRu cFZUmK Button-rui__sc-1gvtpv4-0 sc-dd364494-0 iauQim iUOjWo&quot; aria-disabled=&quot;false&quot;>&lt;span data-rui=&quot;state-layer&quot; class=&quot;ButtonBase__ButtonStateLayer-rui__sc-1aqanxw-0 gvbSTM&quot;>&lt;/span>&lt;span class=&quot;Ellipsis__EllipsisBase-rui__sc-1uis3y5-0 ezeIGf&quot;>Sign up&lt;/span>&lt;/a>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="AcceptAll">
+      <Object frame="" ref="AcceptAll">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="" ref="relative_xpath" pref="5"/>
+        <Property value="//span[contains(text(),'Accept all')]" ref="xpath" pref="6"/>
+        <Property value="" ref="class" pref="7"/>
+        <Property value="" ref="css" pref="8"/>
+        <Property value="" ref="type" pref="9"/>
+        <Property value="&lt;span class=&quot;Ellipsis__EllipsisBase-rui__sc-1uis3y5-0 ezeIGf&quot;>Accept all&lt;/span>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="CountryCodeDropDown">
+      <Object frame="" ref="CountryCodeDropDown">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="" ref="relative_xpath" pref="5"/>
+        <Property value="//div[@data-variant=&quot;widget&quot;][1]/label/*" ref="xpath" pref="6"/>
+        <Property value="" ref="class" pref="7"/>
+        <Property value="" ref="css" pref="8"/>
+        <Property value="" ref="type" pref="9"/>
+        <Property value="&lt;div aria-invalid=&quot;false&quot; aria-disabled=&quot;false&quot; class=&quot;Box-rui__sc-1g1k12l-0 InputBox-rui__sc-okizbt-0 GreyInputBox__GreyInputBoxWrapper-rui__sc-1nxv1xn-0 jRpwhl cuzOlh bohzzH&quot;>&lt;span class=&quot;Box-rui__sc-1g1k12l-0 Flex-rui__sc-p3ay74-0 Stack-rui__sc-1t382g5-0 HStack-rui__sc-4zbgg7-0 bKfCUZ fbPNNG imrahr&quot;>&lt;span class=&quot;Box-rui__sc-1g1k12l-0 Flex-rui__sc-p3ay74-0 Stack-rui__sc-1t382g5-0 VStack-rui__sc-e0ymcb-0 cXptZF jZBAfu&quot;>&lt;input placeholder=&quot; &quot; aria-invalid=&quot;false&quot; type=&quot;button&quot; aria-label=&quot;Search phone country codes&quot; aria-haspopup=&quot;listbox&quot; class=&quot;InputBase-rui__sc-gjs15y-0 goVoEa&quot; value=&quot;+44&quot;>&lt;/span>&lt;span class=&quot;Box-rui__sc-1g1k12l-0 Flex-rui__sc-p3ay74-0 Stack-rui__sc-1t382g5-0 HStack-rui__sc-4zbgg7-0 bKfCUZ fbPNNG imrahr&quot;>&lt;/span>&lt;span class=&quot;Box-rui__sc-1g1k12l-0 Flex-rui__sc-p3ay74-0 Stack-rui__sc-1t382g5-0 HStack-rui__sc-4zbgg7-0 kkCCaV fbPNNG imrahr&quot;>&lt;img alt=&quot;GB&quot; src=&quot;https://assets.revolut.com/assets/flags/GB.webp&quot; srcset=&quot;https://assets.revolut.com/assets/flags/GB.webp 1x, https://assets.revolut.com/assets/flags/GB.png 1x&quot; class=&quot;Box-rui__sc-1g1k12l-0 dQukTo sc-10a0aa14-0 iZfWWi&quot;>&lt;/span>&lt;/span>&lt;/div>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="CountrySearch">
+      <Object frame="" ref="CountrySearch">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="" ref="relative_xpath" pref="5"/>
+        <Property value="//input[@role=&quot;combobox&quot;]" ref="xpath" pref="6"/>
+        <Property value="" ref="class" pref="7"/>
+        <Property value="" ref="css" pref="8"/>
+        <Property value="" ref="type" pref="9"/>
+        <Property value="&lt;input type=&quot;search&quot; data-autofocus=&quot;true&quot; role=&quot;combobox&quot; aria-owns=&quot;list-:r8:&quot; aria-autocomplete=&quot;list&quot; aria-expanded=&quot;true&quot; aria-label=&quot;Search&quot; placeholder=&quot;Search&quot; class=&quot;InputBase-rui__sc-gjs15y-0 goVoEa&quot; value=&quot;&quot;>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="SelectFirstCountry">
+      <Object frame="" ref="SelectFirstCountry">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="" ref="relative_xpath" pref="5"/>
+        <Property value="//div[@data-rui=&quot;dropdown&quot;]/*[2]/*[1]/*/*/*/*/*/*[3]" ref="xpath" pref="6"/>
+        <Property value="" ref="class" pref="7"/>
+        <Property value="" ref="css" pref="8"/>
+        <Property value="" ref="type" pref="9"/>
+        <Property value="&lt;span class=&quot;Box-rui__sc-1g1k12l-0 Text-rui__sc-1be7qv6-0 gagcbC jDGqpJ&quot;>Tanzania&lt;/span>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="EnterPhoneNumber">
+      <Object frame="" ref="EnterPhoneNumber">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="" ref="relative_xpath" pref="5"/>
+        <Property value="//input[@placeholder=&quot;Mobile number&quot;]" ref="xpath" pref="6"/>
+        <Property value="" ref="class" pref="7"/>
+        <Property value="" ref="css" pref="8"/>
+        <Property value="" ref="type" pref="9"/>
+        <Property value="&lt;input placeholder=&quot;Mobile number&quot; aria-invalid=&quot;false&quot; type=&quot;tel&quot; autocomplete=&quot;tel-national&quot; name=&quot;phoneNumber&quot; class=&quot;InputBase-rui__sc-gjs15y-0 goVoEa&quot; value=&quot;&quot;>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="SubmitButton">
+      <Object frame="" ref="SubmitButton">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="" ref="relative_xpath" pref="5"/>
+        <Property value="(//button[@aria-label=&quot;Send&quot;])[2]" ref="xpath" pref="6"/>
+        <Property value="" ref="class" pref="7"/>
+        <Property value="" ref="css" pref="8"/>
+        <Property value="" ref="type" pref="9"/>
+        <Property value="&lt;button aria-label=&quot;Send&quot; type=&quot;submit&quot; class=&quot;ButtonBase__ButtonBaseWrapper-rui__sc-1aqanxw-1 cSLkgG ButtonBase-rui__sc-1aqanxw-2 ButtonLayout___StyledButtonBase-rui__sc-15pyc45-2 iHLlRu cFZUmK Button-rui__sc-1gvtpv4-0 jEjxLf&quot;>&lt;span data-rui=&quot;state-layer&quot; class=&quot;ButtonBase__ButtonStateLayer-rui__sc-1aqanxw-0 gvbSTM&quot;>&lt;/span>&lt;span class=&quot;ButtonLayout__IconWrapper-rui__sc-15pyc45-0 itnUNX&quot;>&lt;span data-variant=&quot;mono&quot; data-rui=&quot;icon&quot; class=&quot;Icon-rui__sc-18fefp5-0 efUsTP&quot; style=&quot;--rui-icon-url: url('https://assets.revolut.com/assets/icons/ArrowThinRight.svg');&quot;>&lt;/span>&lt;/span>&lt;span class=&quot;Ellipsis__EllipsisBase-rui__sc-1uis3y5-0 ezeIGf&quot;>&lt;/span>&lt;/button>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="SucessMessage">
+      <Object frame="" ref="SucessMessage">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="" ref="relative_xpath" pref="5"/>
+        <Property value="//span[contains(text(),'Success!')]" ref="xpath" pref="6"/>
+        <Property value="" ref="class" pref="7"/>
+        <Property value="" ref="css" pref="8"/>
+        <Property value="" ref="type" pref="9"/>
+        <Property value="&lt;span id=&quot;header-label-:r1:&quot; class=&quot;Box-rui__sc-1g1k12l-0 Text-rui__sc-1be7qv6-0 StatusPopup__StatusPopupText-rui__sc-1w2lksq-0 fAzJWf bibBUE jljaWm&quot;>Success!&lt;/span>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="SignIn">
+      <Object frame="" ref="SignIn">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="" ref="relative_xpath" pref="5"/>
+        <Property value="//span[contains(text(),'Log in')]" ref="xpath" pref="6"/>
+        <Property value="" ref="class" pref="7"/>
+        <Property value="" ref="css" pref="8"/>
+        <Property value="" ref="type" pref="9"/>
+        <Property value="&lt;span class=&quot;Ellipsis__EllipsisBase-rui__sc-1uis3y5-0 ezeIGf&quot;>Log in&lt;/span>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="SignInCode">
+      <Object frame="" ref="SignInCode">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="" ref="relative_xpath" pref="5"/>
+        <Property value="//form/span/*/*/*[1]/*" ref="xpath" pref="6"/>
+        <Property value="" ref="class" pref="7"/>
+        <Property value="" ref="css" pref="8"/>
+        <Property value="" ref="type" pref="9"/>
+        <Property value="&lt;div aria-invalid=&quot;false&quot; aria-disabled=&quot;false&quot; class=&quot;Box-rui__sc-1475jr3-0 InputBox-rui__sc-88fjkt-0 GreyInputBox__GreyInputBoxWrapper-rui__sc-1jv4ot0-0 bHwyVH PKiQC dytIPG&quot;>&lt;span class=&quot;Box-rui__sc-1475jr3-0 Flex-rui__sc-1tnvnxg-0 Stack-rui__sc-1l68xd2-0 HStack-rui__sc-561s3a-0 fbCYyX hietYc jcviUi&quot;>&lt;span class=&quot;Box-rui__sc-1475jr3-0 Flex-rui__sc-1tnvnxg-0 Stack-rui__sc-1l68xd2-0 VStack-rui__sc-1o1h7kq-0 bPsDTD iscLCh&quot;>&lt;input placeholder=&quot; &quot; aria-label=&quot;Country&quot; aria-invalid=&quot;false&quot; aria-haspopup=&quot;listbox&quot; aria-expanded=&quot;false&quot; class=&quot;InputBase-rui__sc-owrjpi-0 dQtCQV&quot; type=&quot;button&quot; value=&quot;+91&quot;>&lt;/span>&lt;span class=&quot;Box-rui__sc-1475jr3-0 Flex-rui__sc-1tnvnxg-0 Stack-rui__sc-1l68xd2-0 HStack-rui__sc-561s3a-0 fbCYyX hietYc jcviUi&quot;>&lt;/span>&lt;span class=&quot;Box-rui__sc-1475jr3-0 Flex-rui__sc-1tnvnxg-0 Stack-rui__sc-1l68xd2-0 HStack-rui__sc-561s3a-0 fHodWL hietYc jcviUi&quot;>&lt;span data-rui=&quot;avatar&quot; data-glow=&quot;true&quot; class=&quot;Box-rui__sc-1475jr3-0 ZStack-rui__sc-1gtdgzv-0 Avatar__AvatarStack-rui__sc-14ajy16-5 dgxHkI eABHph eMthnA&quot; style=&quot;--rui-avatar-glow: rgb(var(--rui-color-channel-accent-neutral) / 0.1); --rui-avatar-icon-size: 24px; --rui-avatar-badge-offset: calc(-1 * var(--rui-space-s6)); --rui-badge-mask-offset: var(--rui-space-s4); --rui-avatar-shadow-size: 1px;&quot;>&lt;span class=&quot;Box-rui__sc-1475jr3-0 ZStack-rui__sc-1gtdgzv-0 Avatar__AvatarButtonStackBase-rui__sc-14ajy16-7 gWUEYD eABHph bImdTZ&quot;>&lt;div class=&quot;Box-rui__sc-1475jr3-0 Avatar__AvatarBackground-rui__sc-14ajy16-0 kCEFiJ drTetu&quot;>&lt;/div>&lt;div class=&quot;Box-rui__sc-1475jr3-0 Avatar__AvatarImage-rui__sc-14ajy16-1 gWUEYD hsbiaO&quot; style=&quot;--rui-image-url: url(&amp;quot;https://assets.revolut.com/assets/flags/IN.png&amp;quot;); background-image: image-set(url(&amp;quot;https://assets.revolut.com/assets/flags/IN@2x.webp&amp;quot;) 2x, url(&amp;quot;https://assets.revolut.com/assets/flags/IN@2x.png&amp;quot;) 2x, url(&amp;quot;https://assets.revolut.com/assets/flags/IN@3x.webp&amp;quot;) 3x, url(&amp;quot;https://assets.revolut.com/assets/flags/IN@3x.png&amp;quot;) 3x, url(&amp;quot;https://assets.revolut.com/assets/flags/IN.png&amp;quot;) 1x);&quot;>&lt;/div>&lt;/span>&lt;span class=&quot;Box-rui__sc-1475jr3-0 ZStack-rui__sc-1gtdgzv-0 Avatar__BadgesStack-rui__sc-14ajy16-8 csHoin eABHph kuhLkS&quot;>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/div>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="SignInSearch">
+      <Object frame="" ref="SignInSearch">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="" ref="relative_xpath" pref="5"/>
+        <Property value="//input[@placeholder=&quot;Search&quot;]" ref="xpath" pref="6"/>
+        <Property value="" ref="class" pref="7"/>
+        <Property value="" ref="css" pref="8"/>
+        <Property value="" ref="type" pref="9"/>
+        <Property value="&lt;input data-autofocus=&quot;true&quot; role=&quot;combobox&quot; aria-owns=&quot;list-:r2:&quot; aria-autocomplete=&quot;list&quot; aria-expanded=&quot;true&quot; aria-label=&quot;Search&quot; placeholder=&quot;Search&quot; class=&quot;InputBase-rui__sc-owrjpi-0 dQtCQV&quot; type=&quot;search&quot; value=&quot;&quot;>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="SignInFirstCountry">
+      <Object frame="" ref="SignInFirstCountry">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="" ref="relative_xpath" pref="5"/>
+        <Property value="(//div[@data-variant=&quot;compact&quot;]/button)[1]" ref="xpath" pref="6"/>
+        <Property value="" ref="class" pref="7"/>
+        <Property value="" ref="css" pref="8"/>
+        <Property value="" ref="type" pref="9"/>
+        <Property value="&lt;button id=&quot;list-:r2:-option-TZ&quot; role=&quot;option&quot; aria-selected=&quot;false&quot; type=&quot;button&quot; class=&quot;Box-rui__sc-1475jr3-0 Flex-rui__sc-1tnvnxg-0 Cell__CellBase-rui__sc-105j9f-1 jGMihc kRMNYi DropdownItemBase___StyledCell-rui__sc-1ajlh3k-1 dFsGop&quot;>&lt;div class=&quot;Box-rui__sc-1475jr3-0 leqWqU&quot;>&lt;span class=&quot;Box-rui__sc-1475jr3-0 Text-rui__sc-1mtagir-0 kakQBt&quot;>&lt;span class=&quot;Box-rui__sc-1475jr3-0 Flex-rui__sc-1tnvnxg-0 Stack-rui__sc-1l68xd2-0 HStack-rui__sc-561s3a-0 bnrQuQ jWgYQR jcviUi&quot;>&lt;span data-rui=&quot;avatar&quot; data-glow=&quot;true&quot; class=&quot;Box-rui__sc-1475jr3-0 ZStack-rui__sc-1gtdgzv-0 Avatar__AvatarStack-rui__sc-14ajy16-5 dOhnyk eABHph eMthnA&quot; style=&quot;--rui-avatar-glow: rgb(var(--rui-color-channel-accent-neutral) / 0.1); --rui-avatar-icon-size: 40px; --rui-avatar-badge-offset: calc(-1 * var(--rui-space-s4)); --rui-badge-mask-offset: var(--rui-space-s6); --rui-avatar-shadow-size: 1px;&quot;>&lt;span class=&quot;Box-rui__sc-1475jr3-0 ZStack-rui__sc-1gtdgzv-0 Avatar__AvatarButtonStackBase-rui__sc-14ajy16-7 gWUEYD eABHph bImdTZ&quot;>&lt;div class=&quot;Box-rui__sc-1475jr3-0 Avatar__AvatarBackground-rui__sc-14ajy16-0 kCEFiJ drTetu&quot;>&lt;/div>&lt;div class=&quot;Box-rui__sc-1475jr3-0 Avatar__AvatarImage-rui__sc-14ajy16-1 gWUEYD hsbiaO&quot; style=&quot;--rui-image-url: url(&amp;quot;https://assets.revolut.com/assets/flags/TZ.png&amp;quot;); background-image: image-set(url(&amp;quot;https://assets.revolut.com/assets/flags/TZ@2x.webp&amp;quot;) 2x, url(&amp;quot;https://assets.revolut.com/assets/flags/TZ@2x.png&amp;quot;) 2x, url(&amp;quot;https://assets.revolut.com/assets/flags/TZ@3x.webp&amp;quot;) 3x, url(&amp;quot;https://assets.revolut.com/assets/flags/TZ@3x.png&amp;quot;) 3x, url(&amp;quot;https://assets.revolut.com/assets/flags/TZ.png&amp;quot;) 1x);&quot;>&lt;/div>&lt;/span>&lt;span class=&quot;Box-rui__sc-1475jr3-0 ZStack-rui__sc-1gtdgzv-0 Avatar__BadgesStack-rui__sc-14ajy16-8 csHoin eABHph kuhLkS&quot;>&lt;/span>&lt;/span>&lt;div class=&quot;Box-rui__sc-1475jr3-0 Text-rui__sc-1mtagir-0 FkieU&quot;>+255&lt;/div>&lt;span class=&quot;Ellipsis__EllipsisBase-rui__sc-88yoza-0 drpGVq&quot;>Tanzania&lt;/span>&lt;/span>&lt;/span>&lt;/div>&lt;/button>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="EnterPhoneNumberSignIn">
+      <Object frame="" ref="EnterPhoneNumberSignIn">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="" ref="relative_xpath" pref="5"/>
+        <Property value="//form/span/*/*/*[2]/*/*/*/input" ref="xpath" pref="6"/>
+        <Property value="" ref="class" pref="7"/>
+        <Property value="" ref="css" pref="8"/>
+        <Property value="" ref="type" pref="9"/>
+        <Property value="&lt;input placeholder=&quot;Phone number&quot; aria-invalid=&quot;false&quot; data-autofocus=&quot;true&quot; autocomplete=&quot;tel-national&quot; inputmode=&quot;tel&quot; class=&quot;InputBase-rui__sc-owrjpi-0 dQtCQV&quot; type=&quot;text&quot; value=&quot;&quot; name=&quot;phoneNumber&quot;>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="SignInContineButton">
+      <Object frame="" ref="SignInContineButton">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="" ref="relative_xpath" pref="5"/>
+        <Property value="//button[@type=&quot;submit&quot;]/span[2]" ref="xpath" pref="6"/>
+        <Property value="" ref="class" pref="7"/>
+        <Property value="" ref="css" pref="8"/>
+        <Property value="" ref="type" pref="9"/>
+        <Property value="&lt;span class=&quot;Ellipsis__EllipsisBase-rui__sc-88yoza-0 drpGVq&quot;>Continue&lt;/span>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="OptPage">
+      <Object frame="" ref="OptPage">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="" ref="relative_xpath" pref="5"/>
+        <Property value="//*[contains(text(),'Enter passcode')]" ref="xpath" pref="6"/>
+        <Property value="" ref="class" pref="7"/>
+        <Property value="" ref="css" pref="8"/>
+        <Property value="" ref="type" pref="9"/>
+        <Property value="&lt;span max=&quot;3&quot; class=&quot;LineClamp__LineClampBase-rui__sc-9jaji0-0 jSFrQC&quot;>Enter passcode&lt;/span>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+  </Page>
+  <Page title="" ref="Hooper">
+    <ObjectGroup ref="SignUPButton">
+      <Object frame="" ref="SignUPButton">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="" ref="relative_xpath" pref="5"/>
+        <Property value="//button[contains(text(),'Sign in or register')]" ref="xpath" pref="6"/>
+        <Property value="" ref="class" pref="7"/>
+        <Property value="" ref="css" pref="8"/>
+        <Property value="" ref="type" pref="9"/>
+        <Property value="&lt;button class=&quot;MuiButtonBase-root MuiButton-root MuiButton-filled MuiButton-filledOnPrimary MuiButton-sizeMedium MuiButton-filledSizeMedium MuiButton-colorOnPrimary MuiButton-root MuiButton-filled MuiButton-filledOnPrimary MuiButton-sizeMedium MuiButton-filledSizeMedium MuiButton-colorOnPrimary css-omhwqo&quot; tabindex=&quot;0&quot; type=&quot;button&quot;>Sign in or register&lt;/button>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="SelectCountry">
+      <Object frame="" ref="SelectCountry">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="" ref="relative_xpath" pref="5"/>
+        <Property value="//select[@aria-label=&quot;Phone number country&quot;]" ref="xpath" pref="6"/>
+        <Property value="" ref="class" pref="7"/>
+        <Property value="" ref="css" pref="8"/>
+        <Property value="" ref="type" pref="9"/>
+        <Property value="&lt;select aria-label=&quot;Phone number country&quot; class=&quot;PhoneInputCountrySelect&quot;>&lt;option value=&quot;ZZ&quot;>International&lt;/option>&lt;option value=&quot;AF&quot;>Afghanistan&lt;/option>&lt;option value=&quot;AX&quot;>Åland Islands&lt;/option>&lt;option value=&quot;AL&quot;>Albania&lt;/option>&lt;option value=&quot;DZ&quot;>Algeria&lt;/option>&lt;option value=&quot;AS&quot;>American Samoa&lt;/option>&lt;option value=&quot;AD&quot;>Andorra&lt;/option>&lt;option value=&quot;AO&quot;>Angola&lt;/option>&lt;option value=&quot;AI&quot;>Anguilla&lt;/option>&lt;option value=&quot;AG&quot;>Antigua and Barbuda&lt;/option>&lt;option value=&quot;AR&quot;>Argentina&lt;/option>&lt;option value=&quot;AM&quot;>Armenia&lt;/option>&lt;option value=&quot;AW&quot;>Aruba&lt;/option>&lt;option value=&quot;AC&quot;>Ascension Island&lt;/option>&lt;option value=&quot;AU&quot;>Australia&lt;/option>&lt;option value=&quot;AT&quot;>Austria&lt;/option>&lt;option value=&quot;AZ&quot;>Azerbaijan&lt;/option>&lt;option value=&quot;BS&quot;>Bahamas&lt;/option>&lt;option value=&quot;BH&quot;>Bahrain&lt;/option>&lt;option value=&quot;BD&quot;>Bangladesh&lt;/option>&lt;option value=&quot;BB&quot;>Barbados&lt;/option>&lt;option value=&quot;BY&quot;>Belarus&lt;/option>&lt;option value=&quot;BE&quot;>Belgium&lt;/option>&lt;option value=&quot;BZ&quot;>Belize&lt;/option>&lt;option value=&quot;BJ&quot;>Benin&lt;/option>&lt;option value=&quot;BM&quot;>Bermuda&lt;/option>&lt;option value=&quot;BT&quot;>Bhutan&lt;/option>&lt;option value=&quot;BO&quot;>Bolivia&lt;/option>&lt;option value=&quot;BQ&quot;>Bonaire, Sint Eustatius and Saba&lt;/option>&lt;option value=&quot;BA&quot;>Bosnia and Herzegovina&lt;/option>&lt;option value=&quot;BW&quot;>Botswana&lt;/option>&lt;option value=&quot;BR&quot;>Brazil&lt;/option>&lt;option value=&quot;IO&quot;>British Indian Ocean Territory&lt;/option>&lt;option value=&quot;BN&quot;>Brunei Darussalam&lt;/option>&lt;option value=&quot;BG&quot;>Bulgaria&lt;/option>&lt;option value=&quot;BF&quot;>Burkina Faso&lt;/option>&lt;option value=&quot;BI&quot;>Burundi&lt;/option>&lt;option value=&quot;KH&quot;>Cambodia&lt;/option>&lt;option value=&quot;CM&quot;>Cameroon&lt;/option>&lt;option value=&quot;CA&quot;>Canada&lt;/option>&lt;option value=&quot;CV&quot;>Cape Verde&lt;/option>&lt;option value=&quot;KY&quot;>Cayman Islands&lt;/option>&lt;option value=&quot;CF&quot;>Central African Republic&lt;/option>&lt;option value=&quot;TD&quot;>Chad&lt;/option>&lt;option value=&quot;CL&quot;>Chile&lt;/option>&lt;option value=&quot;CN&quot;>China&lt;/option>&lt;option value=&quot;CX&quot;>Christmas Island&lt;/option>&lt;option value=&quot;CC&quot;>Cocos (Keeling) Islands&lt;/option>&lt;option value=&quot;CO&quot;>Colombia&lt;/option>&lt;option value=&quot;KM&quot;>Comoros&lt;/option>&lt;option value=&quot;CG&quot;>Congo&lt;/option>&lt;option value=&quot;CD&quot;>Congo, Democratic Republic of the&lt;/option>&lt;option value=&quot;CK&quot;>Cook Islands&lt;/option>&lt;option value=&quot;CR&quot;>Costa Rica&lt;/option>&lt;option value=&quot;CI&quot;>Cote d'Ivoire&lt;/option>&lt;option value=&quot;HR&quot;>Croatia&lt;/option>&lt;option value=&quot;CU&quot;>Cuba&lt;/option>&lt;option value=&quot;CW&quot;>Curaçao&lt;/option>&lt;option value=&quot;CY&quot;>Cyprus&lt;/option>&lt;option value=&quot;CZ&quot;>Czech Republic&lt;/option>&lt;option value=&quot;DK&quot;>Denmark&lt;/option>&lt;option value=&quot;DJ&quot;>Djibouti&lt;/option>&lt;option value=&quot;DM&quot;>Dominica&lt;/option>&lt;option value=&quot;DO&quot;>Dominican Republic&lt;/option>&lt;option value=&quot;EC&quot;>Ecuador&lt;/option>&lt;option value=&quot;EG&quot;>Egypt&lt;/option>&lt;option value=&quot;SV&quot;>El Salvador&lt;/option>&lt;option value=&quot;GQ&quot;>Equatorial Guinea&lt;/option>&lt;option value=&quot;ER&quot;>Eritrea&lt;/option>&lt;option value=&quot;EE&quot;>Estonia&lt;/option>&lt;option value=&quot;ET&quot;>Ethiopia&lt;/option>&lt;option value=&quot;FK&quot;>Falkland Islands&lt;/option>&lt;option value=&quot;FO&quot;>Faroe Islands&lt;/option>&lt;option value=&quot;FM&quot;>Federated States of Micronesia&lt;/option>&lt;option value=&quot;FJ&quot;>Fiji&lt;/option>&lt;option value=&quot;FI&quot;>Finland&lt;/option>&lt;option value=&quot;FR&quot;>France&lt;/option>&lt;option value=&quot;GF&quot;>French Guiana&lt;/option>&lt;option value=&quot;PF&quot;>French Polynesia&lt;/option>&lt;option value=&quot;GA&quot;>Gabon&lt;/option>&lt;option value=&quot;GM&quot;>Gambia&lt;/option>&lt;option value=&quot;GE&quot;>Georgia&lt;/option>&lt;option value=&quot;DE&quot;>Germany&lt;/option>&lt;option value=&quot;GH&quot;>Ghana&lt;/option>&lt;option value=&quot;GI&quot;>Gibraltar&lt;/option>&lt;option value=&quot;GR&quot;>Greece&lt;/option>&lt;option value=&quot;GL&quot;>Greenland&lt;/option>&lt;option value=&quot;GD&quot;>Grenada&lt;/option>&lt;option value=&quot;GP&quot;>Guadeloupe&lt;/option>&lt;option value=&quot;GU&quot;>Guam&lt;/option>&lt;option value=&quot;GT&quot;>Guatemala&lt;/option>&lt;option value=&quot;GG&quot;>Guernsey&lt;/option>&lt;option value=&quot;GN&quot;>Guinea&lt;/option>&lt;option value=&quot;GW&quot;>Guinea-Bissau&lt;/option>&lt;option value=&quot;GY&quot;>Guyana&lt;/option>&lt;option value=&quot;HT&quot;>Haiti&lt;/option>&lt;option value=&quot;VA&quot;>Holy See (Vatican City State)&lt;/option>&lt;option value=&quot;HN&quot;>Honduras&lt;/option>&lt;option value=&quot;HK&quot;>Hong Kong&lt;/option>&lt;option value=&quot;HU&quot;>Hungary&lt;/option>&lt;option value=&quot;IS&quot;>Iceland&lt;/option>&lt;option value=&quot;IN&quot;>India&lt;/option>&lt;option value=&quot;ID&quot;>Indonesia&lt;/option>&lt;option value=&quot;IR&quot;>Iran&lt;/option>&lt;option value=&quot;IQ&quot;>Iraq&lt;/option>&lt;option value=&quot;IE&quot;>Ireland&lt;/option>&lt;option value=&quot;IM&quot;>Isle of Man&lt;/option>&lt;option value=&quot;IL&quot;>Israel&lt;/option>&lt;option value=&quot;IT&quot;>Italy&lt;/option>&lt;option value=&quot;JM&quot;>Jamaica&lt;/option>&lt;option value=&quot;JP&quot;>Japan&lt;/option>&lt;option value=&quot;JE&quot;>Jersey&lt;/option>&lt;option value=&quot;JO&quot;>Jordan&lt;/option>&lt;option value=&quot;KZ&quot;>Kazakhstan&lt;/option>&lt;option value=&quot;KE&quot;>Kenya&lt;/option>&lt;option value=&quot;KI&quot;>Kiribati&lt;/option>&lt;option value=&quot;XK&quot;>Kosovo&lt;/option>&lt;option value=&quot;KW&quot;>Kuwait&lt;/option>&lt;option value=&quot;KG&quot;>Kyrgyzstan&lt;/option>&lt;option value=&quot;LA&quot;>Laos&lt;/option>&lt;option value=&quot;LV&quot;>Latvia&lt;/option>&lt;option value=&quot;LB&quot;>Lebanon&lt;/option>&lt;option value=&quot;LS&quot;>Lesotho&lt;/option>&lt;option value=&quot;LR&quot;>Liberia&lt;/option>&lt;option value=&quot;LY&quot;>Libya&lt;/option>&lt;option value=&quot;LI&quot;>Liechtenstein&lt;/option>&lt;option value=&quot;LT&quot;>Lithuania&lt;/option>&lt;option value=&quot;LU&quot;>Luxembourg&lt;/option>&lt;option value=&quot;MO&quot;>Macao&lt;/option>&lt;option value=&quot;MG&quot;>Madagascar&lt;/option>&lt;option value=&quot;MW&quot;>Malawi&lt;/option>&lt;option value=&quot;MY&quot;>Malaysia&lt;/option>&lt;option value=&quot;MV&quot;>Maldives&lt;/option>&lt;option value=&quot;ML&quot;>Mali&lt;/option>&lt;option value=&quot;MT&quot;>Malta&lt;/option>&lt;option value=&quot;MH&quot;>Marshall Islands&lt;/option>&lt;option value=&quot;MQ&quot;>Martinique&lt;/option>&lt;option value=&quot;MR&quot;>Mauritania&lt;/option>&lt;option value=&quot;MU&quot;>Mauritius&lt;/option>&lt;option value=&quot;YT&quot;>Mayotte&lt;/option>&lt;option value=&quot;MX&quot;>Mexico&lt;/option>&lt;option value=&quot;MD&quot;>Moldova&lt;/option>&lt;option value=&quot;MC&quot;>Monaco&lt;/option>&lt;option value=&quot;MN&quot;>Mongolia&lt;/option>&lt;option value=&quot;ME&quot;>Montenegro&lt;/option>&lt;option value=&quot;MS&quot;>Montserrat&lt;/option>&lt;option value=&quot;MA&quot;>Morocco&lt;/option>&lt;option value=&quot;MZ&quot;>Mozambique&lt;/option>&lt;option value=&quot;MM&quot;>Myanmar&lt;/option>&lt;option value=&quot;NA&quot;>Namibia&lt;/option>&lt;option value=&quot;NR&quot;>Nauru&lt;/option>&lt;option value=&quot;NP&quot;>Nepal&lt;/option>&lt;option value=&quot;NL&quot;>Netherlands&lt;/option>&lt;option value=&quot;NC&quot;>New Caledonia&lt;/option>&lt;option value=&quot;NZ&quot;>New Zealand&lt;/option>&lt;option value=&quot;NI&quot;>Nicaragua&lt;/option>&lt;option value=&quot;NE&quot;>Niger&lt;/option>&lt;option value=&quot;NG&quot;>Nigeria&lt;/option>&lt;option value=&quot;NU&quot;>Niue&lt;/option>&lt;option value=&quot;NF&quot;>Norfolk Island&lt;/option>&lt;option value=&quot;KP&quot;>North Korea&lt;/option>&lt;option value=&quot;MK&quot;>North Macedonia&lt;/option>&lt;option value=&quot;MP&quot;>Northern Mariana Islands&lt;/option>&lt;option value=&quot;NO&quot;>Norway&lt;/option>&lt;option value=&quot;OM&quot;>Oman&lt;/option>&lt;option value=&quot;PK&quot;>Pakistan&lt;/option>&lt;option value=&quot;PW&quot;>Palau&lt;/option>&lt;option value=&quot;PS&quot;>Palestine&lt;/option>&lt;option value=&quot;PA&quot;>Panama&lt;/option>&lt;option value=&quot;PG&quot;>Papua New Guinea&lt;/option>&lt;option value=&quot;PY&quot;>Paraguay&lt;/option>&lt;option value=&quot;PE&quot;>Peru&lt;/option>&lt;option value=&quot;PH&quot;>Philippines&lt;/option>&lt;option value=&quot;PL&quot;>Poland&lt;/option>&lt;option value=&quot;PT&quot;>Portugal&lt;/option>&lt;option value=&quot;PR&quot;>Puerto Rico&lt;/option>&lt;option value=&quot;QA&quot;>Qatar&lt;/option>&lt;option value=&quot;RE&quot;>Reunion&lt;/option>&lt;option value=&quot;RO&quot;>Romania&lt;/option>&lt;option value=&quot;RU&quot;>Russia&lt;/option>&lt;option value=&quot;RW&quot;>Rwanda&lt;/option>&lt;option value=&quot;BL&quot;>Saint Barthélemy&lt;/option>&lt;option value=&quot;SH&quot;>Saint Helena&lt;/option>&lt;option value=&quot;KN&quot;>Saint Kitts and Nevis&lt;/option>&lt;option value=&quot;LC&quot;>Saint Lucia&lt;/option>&lt;option value=&quot;MF&quot;>Saint Martin (French Part)&lt;/option>&lt;option value=&quot;PM&quot;>Saint Pierre and Miquelon&lt;/option>&lt;option value=&quot;VC&quot;>Saint Vincent and the Grenadines&lt;/option>&lt;option value=&quot;WS&quot;>Samoa&lt;/option>&lt;option value=&quot;SM&quot;>San Marino&lt;/option>&lt;option value=&quot;ST&quot;>Sao Tome and Principe&lt;/option>&lt;option value=&quot;SA&quot;>Saudi Arabia&lt;/option>&lt;option value=&quot;SN&quot;>Senegal&lt;/option>&lt;option value=&quot;RS&quot;>Serbia&lt;/option>&lt;option value=&quot;SC&quot;>Seychelles&lt;/option>&lt;option value=&quot;SL&quot;>Sierra Leone&lt;/option>&lt;option value=&quot;SG&quot;>Singapore&lt;/option>&lt;option value=&quot;SX&quot;>Sint Maarten&lt;/option>&lt;option value=&quot;SK&quot;>Slovakia&lt;/option>&lt;option value=&quot;SI&quot;>Slovenia&lt;/option>&lt;option value=&quot;SB&quot;>Solomon Islands&lt;/option>&lt;option value=&quot;SO&quot;>Somalia&lt;/option>&lt;option value=&quot;ZA&quot;>South Africa&lt;/option>&lt;option value=&quot;KR&quot;>South Korea&lt;/option>&lt;option value=&quot;SS&quot;>South Sudan&lt;/option>&lt;option value=&quot;ES&quot;>Spain&lt;/option>&lt;option value=&quot;LK&quot;>Sri Lanka&lt;/option>&lt;option value=&quot;SD&quot;>Sudan&lt;/option>&lt;option value=&quot;SR&quot;>Suriname&lt;/option>&lt;option value=&quot;SJ&quot;>Svalbard and Jan Mayen&lt;/option>&lt;option value=&quot;SZ&quot;>Swaziland&lt;/option>&lt;option value=&quot;SE&quot;>Sweden&lt;/option>&lt;option value=&quot;CH&quot;>Switzerland&lt;/option>&lt;option value=&quot;SY&quot;>Syria&lt;/option>&lt;option value=&quot;TW&quot;>Taiwan&lt;/option>&lt;option value=&quot;TJ&quot;>Tajikistan&lt;/option>&lt;option value=&quot;TZ&quot;>Tanzania&lt;/option>&lt;option value=&quot;TH&quot;>Thailand&lt;/option>&lt;option value=&quot;TL&quot;>Timor-Leste&lt;/option>&lt;option value=&quot;TG&quot;>Togo&lt;/option>&lt;option value=&quot;TK&quot;>Tokelau&lt;/option>&lt;option value=&quot;TO&quot;>Tonga&lt;/option>&lt;option value=&quot;TT&quot;>Trinidad and Tobago&lt;/option>&lt;option value=&quot;TA&quot;>Tristan da Cunha&lt;/option>&lt;option value=&quot;TN&quot;>Tunisia&lt;/option>&lt;option value=&quot;TR&quot;>Turkey&lt;/option>&lt;option value=&quot;TM&quot;>Turkmenistan&lt;/option>&lt;option value=&quot;TC&quot;>Turks and Caicos Islands&lt;/option>&lt;option value=&quot;TV&quot;>Tuvalu&lt;/option>&lt;option value=&quot;UG&quot;>Uganda&lt;/option>&lt;option value=&quot;UA&quot;>Ukraine&lt;/option>&lt;option value=&quot;AE&quot;>United Arab Emirates&lt;/option>&lt;option value=&quot;GB&quot;>United Kingdom&lt;/option>&lt;option value=&quot;US&quot;>United States&lt;/option>&lt;option value=&quot;UY&quot;>Uruguay&lt;/option>&lt;option value=&quot;UZ&quot;>Uzbekistan&lt;/option>&lt;option value=&quot;VU&quot;>Vanuatu&lt;/option>&lt;option value=&quot;VE&quot;>Venezuela&lt;/option>&lt;option value=&quot;VN&quot;>Vietnam&lt;/option>&lt;option value=&quot;VG&quot;>Virgin Islands, British&lt;/option>&lt;option value=&quot;VI&quot;>Virgin Islands, U.S.&lt;/option>&lt;option value=&quot;WF&quot;>Wallis and Futuna&lt;/option>&lt;option value=&quot;EH&quot;>Western Sahara&lt;/option>&lt;option value=&quot;YE&quot;>Yemen&lt;/option>&lt;option value=&quot;ZM&quot;>Zambia&lt;/option>&lt;option value=&quot;ZW&quot;>Zimbabwe&lt;/option>&lt;/select>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="InputPhoneNumber">
+      <Object frame="" ref="InputPhoneNumber">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="" ref="relative_xpath" pref="5"/>
+        <Property value="//input[@type=&quot;tel&quot;]" ref="xpath" pref="6"/>
+        <Property value="" ref="class" pref="7"/>
+        <Property value="" ref="css" pref="8"/>
+        <Property value="" ref="type" pref="9"/>
+        <Property value="&lt;input aria-invalid=&quot;false&quot; autocomplete=&quot;tel&quot; id=&quot;:r1:&quot; maxlength=&quot;16&quot; class=&quot;MuiInputBase-input MuiFilledInput-input css-8rdb2j&quot; type=&quot;tel&quot; value=&quot;+91&quot;>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="Success">
+      <Object frame="" ref="Success">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="" ref="relative_xpath" pref="5"/>
+        <Property value="//h5" ref="xpath" pref="6"/>
+        <Property value="" ref="class" pref="7"/>
+        <Property value="" ref="css" pref="8"/>
+        <Property value="" ref="type" pref="9"/>
+        <Property value="&lt;h5 class=&quot;MuiTypography-root MuiTypography-headlineMedium css-p4wchc&quot;>Verify your phone number&lt;/h5>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="ContinueBTN">
+      <Object frame="" ref="ContinueBTN">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="" ref="relative_xpath" pref="5"/>
+        <Property value="//button[contains(text(),'Continue')]" ref="xpath" pref="6"/>
+        <Property value="" ref="class" pref="7"/>
+        <Property value="" ref="css" pref="8"/>
+        <Property value="" ref="type" pref="9"/>
+        <Property value="&lt;button class=&quot;MuiButtonBase-root MuiButton-root MuiButton-filled MuiButton-filledPrimary MuiButton-sizeMedium MuiButton-filledSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-filled MuiButton-filledPrimary MuiButton-sizeMedium MuiButton-filledSizeMedium MuiButton-colorPrimary css-zemdfm&quot; tabindex=&quot;0&quot; type=&quot;button&quot;>Continue&lt;/button>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+  </Page>
+  <Page title="" ref="Telegram">
+    <ObjectGroup ref="LoginWithPhone">
+      <Object frame="" ref="LoginWithPhone">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="" ref="relative_xpath" pref="5"/>
+        <Property value="//button" ref="xpath" pref="6"/>
+        <Property value="" ref="class" pref="7"/>
+        <Property value="" ref="css" pref="8"/>
+        <Property value="" ref="type" pref="9"/>
+        <Property value="&lt;button type=&quot;button&quot; class=&quot;Button smaller primary text&quot;>Log in by phone Number&lt;/button>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="CountryCode">
+      <Object frame="" ref="CountryCode">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="" ref="relative_xpath" pref="5"/>
+        <Property value="//*[@id=&quot;sign-in-phone-code&quot;]" ref="xpath" pref="6"/>
+        <Property value="" ref="class" pref="7"/>
+        <Property value="" ref="css" pref="8"/>
+        <Property value="" ref="type" pref="9"/>
+        <Property value="&lt;input class=&quot;form-control&quot; type=&quot;text&quot; id=&quot;sign-in-phone-code&quot; autocomplete=&quot;off&quot;>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="Select Country">
+      <Object frame="" ref="Select Country">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="" ref="relative_xpath" pref="5"/>
+        <Property value="//span[@class=&quot;country-name&quot; and text()='#C']" ref="xpath" pref="6"/>
+        <Property value="" ref="class" pref="7"/>
+        <Property value="" ref="css" pref="8"/>
+        <Property value="" ref="type" pref="9"/>
+        <Property value="&lt;span class=&quot;country-name&quot;>Burundi&lt;/span>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="PhoneNumber">
+      <Object frame="" ref="PhoneNumber">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="" ref="relative_xpath" pref="5"/>
+        <Property value="//input[@id=&quot;sign-in-phone-number&quot;]" ref="xpath" pref="6"/>
+        <Property value="" ref="class" pref="7"/>
+        <Property value="" ref="css" pref="8"/>
+        <Property value="" ref="type" pref="9"/>
+        <Property value="&lt;input class=&quot;form-control&quot; type=&quot;text&quot; id=&quot;sign-in-phone-number&quot; dir=&quot;auto&quot; inputmode=&quot;tel&quot; aria-label=&quot;Your phone number&quot;>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="CheckBox">
+      <Object frame="" ref="CheckBox">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="" ref="relative_xpath" pref="5"/>
+        <Property value="//label[@class=&quot;Checkbox&quot;]" ref="xpath" pref="6"/>
+        <Property value="" ref="class" pref="7"/>
+        <Property value="" ref="css" pref="8"/>
+        <Property value="" ref="type" pref="9"/>
+        <Property value="&lt;label class=&quot;Checkbox&quot;>&lt;input type=&quot;checkbox&quot; id=&quot;sign-in-keep-session&quot;>&lt;div class=&quot;Checkbox-main&quot;>&lt;span class=&quot;label&quot; dir=&quot;auto&quot;>Keep me signed in&lt;/span>&lt;/div>&lt;/label>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="NextButton">
+      <Object frame="" ref="NextButton">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="" ref="relative_xpath" pref="5"/>
+        <Property value="//button[@type=&quot;submit&quot;]" ref="xpath" pref="6"/>
+        <Property value="" ref="class" pref="7"/>
+        <Property value="" ref="css" pref="8"/>
+        <Property value="" ref="type" pref="9"/>
+        <Property value="&lt;button type=&quot;submit&quot; class=&quot;Button smaller primary has-ripple&quot;>Next&lt;div class=&quot;ripple-container&quot;>&lt;/div>&lt;/button>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="OptPage">
+      <Object frame="" ref="OptPage">
+        <Property value="" ref="NLP_locator" pref="1"/>
+        <Property value="" ref="name" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="link_text" pref="4"/>
+        <Property value="" ref="relative_xpath" pref="5"/>
+        <Property value="//label[@for=&quot;sign-in-code&quot;]" ref="xpath" pref="6"/>
+        <Property value="" ref="class" pref="7"/>
+        <Property value="" ref="css" pref="8"/>
+        <Property value="" ref="type" pref="9"/>
+        <Property value="&lt;label for=&quot;sign-in-code&quot;>Code&lt;/label>" ref="outerHTML" pref="10"/>
+        <Property value="" ref="tagName" pref="11"/>
+      </Object>
+    </ObjectGroup>
+  </Page>
+</Root>

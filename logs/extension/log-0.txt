@@ -1,0 +1,9 @@
+2025-02-28 15:54:20:02S +0530 [INFO] com.newvision.assureit.extension.server.ExtensionServer startRecord:Launching Server for Record
+2025-02-28 15:54:20:02S +0530 [INFO] com.newvision.assureit.extension.server.ExtensionServer$1 run:Starting Server
+2025-02-28 15:55:58:02S +0530 [INFO] com.newvision.assureit.extension.server.ExtensionServer$1 run:Server Stopped
+2025-03-03 18:38:40:03S +0530 [INFO] com.newvision.assureit.extension.server.ExtensionServer startRecord:Launching Server for Record
+2025-03-03 18:38:40:03S +0530 [INFO] com.newvision.assureit.extension.server.ExtensionServer$1 run:Starting Server
+2025-03-03 18:40:48:03S +0530 [INFO] com.newvision.assureit.extension.server.ExtensionServer$1 run:Server Stopped
+2025-04-02 16:17:06:04S +0530 [INFO] com.newvision.assureit.extension.server.ExtensionServer startRecord:Launching Server for Record
+2025-04-02 16:17:06:04S +0530 [INFO] com.newvision.assureit.extension.server.ExtensionServer$1 run:Starting Server
+2025-04-02 16:19:48:04S +0530 [INFO] com.newvision.assureit.extension.server.ExtensionServer$1 run:Server Stopped

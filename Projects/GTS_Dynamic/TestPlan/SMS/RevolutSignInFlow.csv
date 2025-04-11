@@ -1,0 +1,21 @@
+Step,ObjectName,Description,Action,Input,Condition,Reference
+1,Browser,print the data [<Data>],print,@startLoop,Start Param,
+2,Browser,Open the Url [<Data>] in the Browser,Open,@https://www.revolut.com/,,
+3,AcceptAll,"Wait for [<Object>] to be clickable ",waitForElementToBeClickable,,,Revolut
+4,AcceptAll,Simulate a tap or click action on an element.,Click,,,Revolut
+5,SignIn,Simulate a tap or click action on an element.,Click,,,Revolut
+6,SignInCode,"Wait for [<Object>] to be visible ",waitForElementToBeVisible,,,Revolut
+7,SignInCode,Simulate a tap or click action on an element.,Click,,,Revolut
+*8,SignInSearch,Simulate a tap or click action on an element.,Click,,,Revolut
+9,SignInSearch,Enter the value [<Data>] in the Field [<Object>],Set,Revolut:CountryCode,,Revolut
+10,Browser,Wait for [<Data>] milli seconds,pause,@1000,,
+*11,SignInFirstCountry,Simulate a tap or click action on an element.,Click,,,Revolut
+12,EnterPhoneNumberSignIn,Simulate a tap or click action on an element.,Click,,,Revolut
+13,EnterPhoneNumberSignIn,Enter the value [<Data>] in the Field [<Object>],Set,Revolut:PhoneNumber,,Revolut
+14,SignInContineButton,"Wait for [<Object>] to be clickable ",waitForElementToBeClickable,,,Revolut
+*15,SignInContineButton,Simulate a tap or click action on an element.,Click,,,Revolut
+16,OptPage,"Wait for [<Object>] to be visible ",waitForElementToBeVisible,,,Revolut
+17,OptPage,Assert if [<Object>] element is displayed,assertElementDisplayed,,,Revolut
+*18,Browser,Wait for [<Data>] milli seconds,pause,@2,,
+19,Browser,To delete all the cookies,ClearCache,,,
+20,Browser,print the data [<Data>],print,@EndLoop,End Param,

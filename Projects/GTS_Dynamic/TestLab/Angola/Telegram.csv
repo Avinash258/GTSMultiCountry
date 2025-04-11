@@ -1,0 +1,2 @@
+Execute,TestScenario,TestCase,Iteration,Status,Browser,BrowserVersion,Platform
+true,SMS,Telegram,Single,Failed,Chrome,Default,Any

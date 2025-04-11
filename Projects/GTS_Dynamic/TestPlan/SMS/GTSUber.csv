@@ -1,0 +1,13 @@
+Step,ObjectName,Description,Action,Input,Condition,Reference
+1,Browser,Open the Url [<Data>] in the Browser,Open,@https://www.uber.com/in/en/,,
+2,SignUpButton,Click on [<Object>],clickByJS,,,Uber
+*3,Browser,"Take a Screen Shot ",takeAlertScreenshot,,,
+4,Enter phone number or email,Simulate a tap or click action on an element.,Click,,,Uber
+//5,Enter phone number or email1,Enter the value [<Data>] in the Field [<Object>],Set,rep:MobileNumber,,Uber
+6,Enter phone number or email1,Enter the value [<Data>] in the Field [<Object>],Set,@919192046,,Uber
+7,CountryDropDown,Simulate a tap or click action on an element.,Click,,,Uber
+8,SelectCountry,Select item in [<Object>] which has text: [<Data>],Click,,,Uber
+9,ContinueBUtton,Simulate a tap or click action on an element.,Click,,,Uber
+10,Browser,Wait for [<Data>] milli seconds,pause,@1000,,
+11,Browser,To delete all the cookies,ClearCache,,,
+//*12,Enter the 4-digit code sent vi,Assert if [<Object>]'s Text Contains [<Data>],assertElementTextContains,@Enter the 4-digit code sent,,Uber

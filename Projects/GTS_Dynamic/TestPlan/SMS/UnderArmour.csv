@@ -1,0 +1,8 @@
+Step,ObjectName,Description,Action,Input,Condition,Reference
+1,Browser,Open the Url [<Data>] in the Browser,Open,@https://underarmour.co.za/,,
+2,See All,Simulate a tap or click action on an element.,Click,,,Under
+3,Join & Create an Account,Simulate a tap or click action on an element.,Click,,,Change
+4,email,Simulate a tap or click action on an element.,Click,,,Change
+5,email,Enter the value [<Data>] in the Field [<Object>],Set,@aivnashedmail@gmail.com,,Change
+6,password,Enter the Decrypted value [<Data>] in the Field [<Object>],setEncrypted,@lGPiqXo8tBfme+VdDZx2KA== Enc,,Change
+7,Create An Account,Simulate a tap or click action on an element.,Click,,,Change

@@ -1,0 +1,11 @@
+Step,ObjectName,Description,Action,Input,Condition,Reference
+1,Browser,Open the Url [<Data>] in the Browser,Open,@https://cnlogin.cainiao.com/login?isNewLogin=true&showoa=true&showae=true&redirect_url=https%3A%2F%2Fwww.cainiao.com%2Fen%2Findex.html&lang=en,,
+2,SMS verification code login,Simulate a tap or click action on an element.,Click,,,Login
+3,CountryDropDown,Simulate a tap or click action on an element.,Click,,,Login
+4,search,Enter the value [<Data>] in the Field [<Object>],Set,@Angola,,Login
+5,SelectCountry,Simulate a tap or click action on an element.,Click,,,Login
+6,Mobile phone number,Simulate a tap or click action on an element.,Click,,,Login
+7,Mobile phone number,Enter the value [<Data>] in the Field [<Object>],Set,@888965478,,Login
+8,Get code,Simulate a tap or click action on an element.,Click,,,Login
+*9,DragSource,"drag and drop operation of ",Slider,,,Login
+*10,Browser,Wait for [<Data>] milli seconds,pause,@3,,

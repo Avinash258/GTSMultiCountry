@@ -1,0 +1,15 @@
+Step,ObjectName,Description,Action,Input,Condition,Reference
+1,Browser,print the data [<Data>],print,@startLoop,Start Param,
+2,Browser,Open the Url [<Data>] in the Browser,Open,@https://hopper.com/,,
+3,SignUPButton,Simulate a tap or click action on an element.,Click,,,Hooper
+4,Browser,Wait for [<Data>] milli seconds,pause,@1000,,
+5,SelectCountry,Select item in [<Object>] which has text: [<Data>],selectByVisibleText,Hooper:Country,,Hooper
+6,InputPhoneNumber,Simulate a tap or click action on an element.,Click,,,Hooper
+7,InputPhoneNumber,Enter the value [<Data>] in the Field [<Object>],Set,Hooper:PhoneNumber,,Hooper
+8,Browser,Wait for [<Data>] milli seconds,pause,@1000,,
+9,ContinueBTN,Simulate a tap or click action on an element.,Click,,,Hooper
+10,Success,"Wait for [<Object>] to be visible ",waitForElementToBeVisible,,,Hooper
+11,Success,Assert if [<Object>]'s Text Contains [<Data>],assertElementTextContains,@Verify your phone number,,Hooper
+*12,Browser,Wait for [<Data>] milli seconds,pause,@2,,
+13,Browser,To delete all the cookies,ClearCache,,,
+14,Browser,print the data [<Data>],print,@EndLoop,End Param,

@@ -1,0 +1,16 @@
+Step,ObjectName,Description,Action,Input,Condition,Reference
+1,Browser,print the data [<Data>],print,@start:,Start Param,
+2,Browser,Open the Url [<Data>] in the Browser,Open,@https://auth.uber.com/v2/,,
+3,Enter phone number or email,Simulate a tap or click action on an element.,Click,,,Uber
+4,Enter phone number or email1,Enter the value [<Data>] in the Field [<Object>],Set,Uber:MobileNumber,,Uber
+5,CountryDropDown,Simulate a tap or click action on an element.,Click,,,Uber
+6,Browser,Wait for [<Data>] milli seconds,pause,@2000,,
+7,SelectCountry,Set object [<Object>] property  as [<Data>] at runtime,setObjectProperty,Uber:Country,"#C",Uber
+8,SelectCountry,Select item in [<Object>] which has text: [<Data>],Click,,,Uber
+9,Browser,Wait for [<Data>] milli seconds,pause,@1000,,
+10,ContinueBUtton,Simulate a tap or click action on an element.,Click,,,Uber
+11,Browser,Wait for [<Data>] milli seconds,pause,@3000,,
+12,Browser,"Take a Screen Shot ",takeAlertScreenshot,,,
+13,Browser,To delete all the cookies,ClearCache,,,
+//14,Enter the 4-digit code sent vi,Assert if [<Object>]'s Text Contains [<Data>],assertElementTextContains,@Enter the 4-digit code sent,,Uber
+15,Browser,Close the current browser session,refreshDriver,,End Param,

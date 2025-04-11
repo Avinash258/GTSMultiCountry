@@ -1,0 +1,10 @@
+Step,ObjectName,Description,Action,Input,Condition,Reference
+1,Browser,Open the Url [<Data>] in the Browser,Open,@https://tinder.com/,,
+2,Create account,"Wait for [<Object>] to be visible ",waitForElementToBeVisible,,,Tinder
+3,Create account,Simulate a tap or click action on an element.,clickByJS,,,Tinder
+4,More Options,Simulate a tap or click action on an element.,ClickIfVisible,,,Tinder
+5,Log in with phone number,"Wait for [<Object>] to be visible ",waitForElementToBeVisible,,,Tinder
+6,Log in with phone number,Simulate a tap or click action on an element.,Click,,,Tinder
+7,CountryDropDown,"Wait for [<Object>] to be visible ",waitForElementToBeVisible,,,Tinder
+8,CountryDropDown,Simulate a tap or click action on an element.,Click,,,Tinder
+9,Search,Simulate a tap or click action on an element.,Click,,,Tinder

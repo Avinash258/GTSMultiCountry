@@ -1,0 +1,8 @@
+<Root ref="GTS_Dynamic" type="RC">
+    <Folder ref="Angola">
+        <Scenario ref="SMS">
+            <TestCase exeType="Executable" ref="TinderSMS"/>
+            <TestCase exeType="Executable" ref="UberSMS"/>
+        </Scenario>
+    </Folder>
+</Root>

@@ -1,0 +1,9 @@
+Step,ObjectName,Description,Action,Input,Condition,Reference
+1,Browser,print the data [<Data>],print,@start,Start Param,
+2,Execute,,SMS:TinderSMS,,,
+*3,Search,Enter the value [<Data>] in the Field [<Object>],Set,Tinder3:Country,,Tinder
+4,First Country,Simulate a tap or click action on an element.,Click,,,Tinder
+5,phone_number,Enter the value [<Data>] in the Field [<Object>],Set,Tinder3:PhoneNumber,,Tinder
+6,Next,Simulate a tap or click action on an element.,Click,,,Tinder
+7,Enter your code,Assert if [<Object>]'s Text Contains [<Data>],assertElementTextContains,@Enter your code,,Tinder
+*8,Browser,print the data [<Data>],print,@Stop,End Param,

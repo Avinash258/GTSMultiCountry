@@ -1,0 +1,2 @@
+Execute,TestScenario,TestCase,Iteration,Status,Browser,BrowserVersion,Platform
+true,SMS,Tinder,Single,Passed,Chrome,Default,Any

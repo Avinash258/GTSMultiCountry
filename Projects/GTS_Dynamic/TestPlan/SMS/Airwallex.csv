@@ -1,0 +1,17 @@
+Step,ObjectName,Description,Action,Input,Condition,Reference
+1,Browser,print the data [<Data>],print,@startLoop,Start Param,
+2,Browser,Open the Url [<Data>] in the Browser,Open,@https://www.airwallex.com/app/login,,
+3,Mobile number,Simulate a tap or click action on an element.,Click,,,Airwallex
+4,Forgot password?,Simulate a tap or click action on an element.,Click,,,Airwallex
+//5,Your mobile number,Simulate a tap or click action on an element.,Click,,,Airwallex
+6,CountryDropDown,"Wait for [<Object>] to be visible ",waitForElementToBeVisible,,,Airwallex
+*7,CountryDropDown,Simulate a tap or click action on an element.,Click,,,Airwallex
+8,SelectCountries,Set object [<Object>] property  as [<Data>] at runtime,setObjectProperty,Airwallex:Country,"#C",Airwallex
+9,Browser,Wait for [<Data>] milli seconds,pause,@3000,,
+10,SelectCountries,Simulate a tap or click action on an element.,Click,,,Airwallex
+11,Your mobile number,Enter the value [<Data>] in the Field [<Object>],SetAndTab,Airwallex:PhoneNumber,,Airwallex
+12,Continue,Simulate a tap or click action on an element.,waitForElementToBeClickable,,,Airwallex
+13,Continue,Simulate a tap or click action on an element.,Click,,,Airwallex
+*14,We've sent you an SMS,Assert if [<Object>]'s Text Contains [<Data>],assertElementTextContains,@We've sent you an SMS,,Airwallex
+15,Browser,To delete all the cookies,ClearCache,,,
+16,Browser,print the data [<Data>],print,@EndLoop,End Param,

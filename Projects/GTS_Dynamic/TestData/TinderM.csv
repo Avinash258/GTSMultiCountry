@@ -1,0 +1,90 @@
+Scenario,Flow,Iteration,SubIteration,PhoneNumber,Country
+SMS,Tinder,1,1,912131122,Angola
+SMS,Tinder,1,2,912515749,Angola
+SMS,Tinder,1,3,912595971,Angola
+SMS,Tinder,1,4,912668312,Angola
+SMS,Tinder,1,5,912961962,Angola
+SMS,Tinder,1,6,912991431,Angola
+SMS,Tinder,1,7,914924367,Angola
+SMS,Tinder,1,8,915156510,Angola
+SMS,Tinder,1,9,916704027,Angola
+SMS,Tinder,1,10,918274271,Angola
+SMS,Tinder,1,11,919410348,Angola
+SMS,Tinder,1,12,991590575,Angola
+SMS,Tinder,1,13,992212023,Angola
+SMS,Tinder,1,14,993329824,Angola
+SMS,Tinder,1,15,994367769,Angola
+SMS,Tinder,1,16,995562827,Angola
+SMS,Tinder,1,17,995848714,Angola
+SMS,Tinder,1,18,996603245,Angola
+SMS,Tinder,1,19,997434171,Angola
+SMS,Tinder,1,20,997547543,Angola
+SMS,Tinder,1,21,997547545,Angola
+SMS,Tinder,1,22,997547546,Angola
+SMS,Tinder,1,23,997547547,Angola
+SMS,Tinder,1,24,4938070,Comoros
+SMS,Tinder,1,25,4850059,Comoros
+SMS,Tinder,1,26,4737800,Comoros
+SMS,Tinder,1,27,4271120,Comoros
+SMS,Tinder,1,28,4438161,Comoros
+SMS,Tinder,1,29,4686344,Comoros
+SMS,Tinder,1,30,4495334,Comoros
+SMS,Tinder,1,31,4583776,Comoros
+SMS,Tinder,1,32,4070112,Comoros
+SMS,Tinder,1,33,4459124,Comoros
+SMS,Tinder,1,34,4298145,Comoros
+SMS,Tinder,1,35,4724277,Comoros
+SMS,Tinder,1,36,4802833,Comoros
+SMS,Tinder,1,37,4387983,Comoros
+SMS,Tinder,1,38,4336488,Comoros
+SMS,Tinder,1,39,4416796,Comoros
+SMS,Tinder,1,40,4746216,Comoros
+SMS,Tinder,1,41,4878618,Comoros
+SMS,Tinder,1,42,4679749,Comoros
+SMS,Tinder,1,43,776905609,Sri Lanka
+SMS,Tinder,1,44,760066520,Sri Lanka
+SMS,Tinder,1,45,776161190,Sri Lanka
+SMS,Tinder,1,46,774522885,Sri Lanka
+SMS,Tinder,1,47,777895000,Sri Lanka
+SMS,Tinder,1,48,773998609,Sri Lanka
+SMS,Tinder,1,49,761535747,Sri Lanka
+SMS,Tinder,1,50,770092964,Sri Lanka
+SMS,Tinder,1,51,772962651,Sri Lanka
+SMS,Tinder,1,52,770403808,Sri Lanka
+SMS,Tinder,1,53,774885355,Sri Lanka
+SMS,Tinder,1,54,769648114,Sri Lanka
+SMS,Tinder,1,55,778288680,Sri Lanka
+SMS,Tinder,1,56,765645382,Sri Lanka
+SMS,Tinder,1,57,763292340,Sri Lanka
+SMS,Tinder,1,58,772759029,Sri Lanka
+SMS,Tinder,1,59,777746024,Sri Lanka
+SMS,Tinder,1,60,771925641,Sri Lanka
+SMS,Tinder,1,61,773586924,Sri Lanka
+SMS,Tinder,1,62,768644927,Burundi
+SMS,Tinder,1,63,777142880,Burundi
+SMS,Tinder,1,64,777152055,Burundi
+SMS,Tinder,1,65,768090255,Burundi
+SMS,Tinder,1,66,777441914,Burundi
+SMS,Tinder,1,67,769214323,Burundi
+SMS,Tinder,1,68,777121796,Burundi
+SMS,Tinder,1,69,777124321,Burundi
+SMS,Tinder,1,70,777101613,Burundi
+SMS,Tinder,1,71,777116120,Burundi
+SMS,Tinder,1,72,761334621,Burundi
+SMS,Tinder,1,73,777112480,Burundi
+SMS,Tinder,1,74,777809769,Burundi
+SMS,Tinder,1,75,777152667,Burundi
+SMS,Tinder,1,76,777140653,Burundi
+SMS,Tinder,1,77,777111276,Burundi
+SMS,Tinder,1,78,777122196,Burundi
+SMS,Tinder,1,79,777152903,Burundi
+SMS,Tinder,1,80,777863804,Burundi
+SMS,Tinder,1,81,777432773,Burundi
+SMS,Tinder,1,82,777554297,Burundi
+SMS,Tinder,1,83,777998035,Burundi
+SMS,Tinder,1,84,777974808,Burundi
+SMS,Tinder,1,85,762352424,Burundi
+SMS,Tinder,1,86,777646660,Burundi
+SMS,Tinder,1,87,777121349,Burundi
+SMS,Tinder,1,88,761361576,Burundi
+SMS,Tinder,1,89,768039271,Burundi

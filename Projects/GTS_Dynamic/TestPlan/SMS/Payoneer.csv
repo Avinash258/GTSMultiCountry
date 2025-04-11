@@ -1,0 +1,19 @@
+Step,ObjectName,Description,Action,Input,Condition,Reference
+1,Browser,Open the Url [<Data>] in the Browser,Open,@https://www.payoneer.com/en-in/,,
+2,RegisterButton,Simulate a tap or click action on an element.,Click,,,Payoneer
+3,Browser,Wait for [<Data>] milli seconds,pause,@2000,,Payoneer
+*4,FirstName,Enter the value [<Data>] in the Field [<Object>],Set,@GTS,,Payoneer
+5,LastName,Enter the value [<Data>] in the Field [<Object>],Set,@OTP,,Payoneer
+6,SelectCountry,Simulate a tap or click action on an element.,Click,,,Payoneer
+7,CountrySearch,Enter the value [<Data>] in the Field [<Object>],Set,@Angola,,Payoneer
+8,ClickFirstCountry,Simulate a tap or click action on an element.,Click,,,Payoneer
+9,MobileNumber,Enter the value [<Data>] in the Field [<Object>],Set,@999535025,,Payoneer
+10,Email,Enter the value [<Data>] in the Field [<Object>],Set,@gts@test.com,,Payoneer
+11,Country,Select item in [<Object>] which has text: [<Data>],selectByVisibleText,@Angola,,Online
+12,Company_type__c,Select item in [<Object>] which has text: [<Data>],selectByVisibleText,@Not a Registered freelancer or soletrader,,Online
+13,Register,Simulate a tap or click action on an element.,Click,,,Online
+14,Marketo_Form_Unique_Question_2__c,Select item in [<Object>] which has text: [<Data>],selectByVisibleText,@Receive payments from both Freelancer Platforms & Business Clients,,Online
+15,consentCollected,Simulate a tap or click action on an element.,Click,,,Online
+16,consentCollected1,Simulate a tap or click action on an element.,Click,,,Online
+17,Next,Simulate a tap or click action on an element.,Click,,,Online
+*18,Browser,Wait for [<Data>] milli seconds,pause,@3,,

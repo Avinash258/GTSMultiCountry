@@ -1,0 +1,17 @@
+Step,ObjectName,Description,Action,Input,Condition,Reference
+1,Browser,print the data [<Data>],print,@start,Start Param,
+2,Browser,Open the Url [<Data>] in the Browser,Open,@https://tinder.com/,,
+3,Create account,"Wait for [<Object>] to be visible ",waitForElementToBeVisible,,,Tinder
+4,Create account,Simulate a tap or click action on an element.,clickByJS,,,Tinder
+5,More Options,Simulate a tap or click action on an element.,ClickIfVisible,,,Tinder
+6,Log in with phone number,"Wait for [<Object>] to be visible ",waitForElementToBeVisible,,,Tinder
+7,Log in with phone number,Simulate a tap or click action on an element.,Click,,,Tinder
+8,CountryDropDown,"Wait for [<Object>] to be visible ",waitForElementToBeVisible,,,Tinder
+9,CountryDropDown,Simulate a tap or click action on an element.,Click,,,Tinder
+10,Search,Simulate a tap or click action on an element.,Click,,,Tinder
+*11,Search,Enter the value [<Data>] in the Field [<Object>],Set,TinderM:Country,,Tinder
+12,First Country,Simulate a tap or click action on an element.,Click,,,Tinder
+13,phone_number,Enter the value [<Data>] in the Field [<Object>],Set,TinderM:PhoneNumber,,Tinder
+14,Next,Simulate a tap or click action on an element.,Click,,,Tinder
+15,Enter your code,Assert if [<Object>]'s Text Contains [<Data>],assertElementTextContains,@Enter your code,,Tinder
+*16,Browser,print the data [<Data>],print,@Stop,End Param,

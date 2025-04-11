@@ -1,0 +1,18 @@
+Step,ObjectName,Description,Action,Input,Condition,Reference
+1,Browser,print the data [<Data>],print,@startLoop,Start Param,
+2,Browser,Open the Url [<Data>] in the Browser,Open,@https://web.telegram.org/a/,,
+3,LoginWithPhone,Simulate a tap or click action on an element.,waitForElementToBeVisible,,,Telegram
+4,LoginWithPhone,Simulate a tap or click action on an element.,Click,,,Telegram
+5,CountryCode,Simulate a tap or click action on an element.,Click,,,Telegram
+6,Select Country,Set object [<Object>] property  as [<Data>] at runtime,setObjectProperty,Telegram:Country,"#C",Telegram
+7,Browser,Wait for [<Data>] milli seconds,pause,@2000,,
+8,Select Country,Simulate a tap or click action on an element.,Click,,,Telegram
+9,PhoneNumber,Simulate a tap or click action on an element.,Click,,,Telegram
+10,Browser,Wait for [<Data>] milli seconds,pause,@2000,,
+11,PhoneNumber,Enter the value [<Data>] in the Field [<Object>],SetOnly,Telegram:PhoneNumber,,Telegram
+12,CheckBox,Simulate a tap or click action on an element.,Click,,,Telegram
+13,NextButton,Simulate a tap or click action on an element.,Click,,,Telegram
+14,OptPage,Assert if [<Object>] element is displayed,assertElementDisplayed,,,Telegram
+*15,Browser,Wait for [<Data>] milli seconds,pause,@2,,
+16,Browser,To delete all the cookies,ClearCache,,,
+17,Browser,print the data [<Data>],print,@EndLoop,End Param,

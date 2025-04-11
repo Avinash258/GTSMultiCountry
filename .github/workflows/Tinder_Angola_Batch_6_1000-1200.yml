@@ -1,0 +1,79 @@
+name: Tinder_Angola_Batch_6_1000-1200
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: windows-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4  # Updated to v4
+
+      - name: Set up JDK 17
+        uses: actions/setup-java@v4  # Updated to v4
+        with:
+          java-version: '17'
+          distribution: 'temurin'
+
+      - name: Install Google Chrome
+        run: choco install googlechrome --ignore-checksums --no-progress
+        shell: cmd
+
+      - name: Install ChromeDriver
+        run: choco install chromedriver --no-progress
+        shell: cmd
+
+      - name: Set Java Heap Size
+        run: echo "JAVA_TOOL_OPTIONS=-Xmx4g -XX:+UseG1GC" >> $GITHUB_ENV
+        shell: bash
+
+      - name: Free Up Memory Before Running Tests
+        run: |
+          echo "Closing unnecessary processes..."
+          taskkill /F /IM chrome.exe || echo "Chrome was not running"
+          taskkill /F /IM java.exe || echo "Java was not running"
+        shell: cmd
+        continue-on-error: true
+
+      - name: Show System Memory Usage
+        run: systeminfo | findstr "Total Physical Memory Available Physical Memory"
+        shell: cmd
+
+      - name: Run Test Execution
+        run: |
+          cd ${{ github.workspace }}
+          Run.bat -run -project_location "Projects\\GTS_Dynamic" -release "Tinder" -testset "Tinder6"
+        shell: cmd
+
+      - name: Archive Extent Report
+        uses: actions/upload-artifact@v4
+        with:
+          name: ExtentReport
+          path: Projects/GTS_Dynamic/Results/TestExecution/Tinder/Tinder6/Latest/extent.html
+        continue-on-error: true
+
+      - name: Archive Excel Report
+        uses: actions/upload-artifact@v4
+        with:
+          name: ExcelReport
+          path: Projects/GTS/Results/TestExecution/Tinder/Tinder6/Latest/SummaryExcelReport.xlsx
+        continue-on-error: true
+
+  echo-ip:
+    runs-on: windows-latest
+    needs: build
+    steps:
+      - name: Get and Echo Current Public IP
+        run: |
+          echo "Fetching current public IP..."
+          $publicIp = Invoke-RestMethod -Uri "https://ifconfig.me"
+          echo $publicIp | Out-File -FilePath public_ip.txt
+        shell: powershell
+
+      - name: Upload IP as Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: PublicIP
+          path: public_ip.txt

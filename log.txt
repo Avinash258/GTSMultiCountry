@@ -1,0 +1,600 @@
+2025-02-28 18:00:50:02S +0530 [INFO] com.newvision.assureit.ide.main.Main main:Launching assureit IDE
+light
+2025-02-28 18:00:51:02S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\AngolaGTSSMS\lib\assureit-engine-1.0.jar
+2025-02-28 18:00:58:02S +0530 [WARNING] javafx.fxml.FXMLLoader$ValueElement processValue:Loading FXML document with JavaFX API of version 19 by JavaFX runtime of version 13-ea
+2025-02-28 18:15:26:02S +0530 [INFO] com.newvision.assureit.datalib.component.utils.FileUtils renameFile:D:\GTS\AngolaGTS\AngolaGTSSMS\Projects\GTS_Dynamic\TestPlan\Uber\Uber Copy(10).csv Renamed to Uber10.csv
+2025-02-28 18:15:26:02S +0530 [INFO] com.newvision.assureit.datalib.component.Project refactorTestCase:Refactoring started for TestCase [Uber Copy(10)] to [Uber10]
+2025-02-28 18:15:26:02S +0530 [SEVERE] com.newvision.assureit.datalib.component.utils.FileUtils getRecords:File [D:\GTS\AngolaGTS\AngolaGTSSMS\Projects\GTS_Dynamic\TestPlan\Uber\Uber Copy(10).csv] doesn't exist
+2025-02-28 18:15:26:02S +0530 [INFO] com.newvision.assureit.datalib.component.Project refactorTestCase:Refactoring done for TestCase [Uber Copy(10)] to [Uber10]
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to Open - D:\GTS\AngolaGTS\AngolaGTSSMS\Projects\GTS_Dynamic\TestData\rep.csv
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to exec: [explorer] [%s] [D:\GTS\AngolaGTS\AngolaGTSSMS\Projects\GTS_Dynamic\TestData\rep.csv]
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to Open - D:\GTS\AngolaGTS\AngolaGTSSMS\Projects\GTS_Dynamic\TestData\TestData0.csv
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to exec: [explorer] [%s] [D:\GTS\AngolaGTS\AngolaGTSSMS\Projects\GTS_Dynamic\TestData\TestData0.csv]
+2025-02-28 20:17:49:02S +0530 [SEVERE] com.newvision.assureit.datalib.component.utils.FileUtils getRecords:File [D:\GTS\AngolaGTS\AngolaGTSSMS\Projects\GTS_Dynamic\TestLab\Angola\NewTestSet.csv] doesn't exist
+2025-02-28 20:17:58:02S +0530 [INFO] com.newvision.assureit.datalib.component.utils.FileUtils renameFile:D:\GTS\AngolaGTS\AngolaGTSSMS\Projects\GTS_Dynamic\TestLab\Angola\NewTestSet.csv Renamed to MutiUbar.csv
+2025-02-28 20:26:27:02S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\AngolaGTSSMS\lib\assureit-engine-1.0.jar
+2025-02-28 20:27:33:02S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\AngolaGTSSMS\lib\assureit-engine-1.0.jar
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to Open - D:\GTS\AngolaGTS\AngolaGTSSMS\Projects\GTS_Dynamic\TestData\Magic.csv
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to exec: [explorer] [%s] [D:\GTS\AngolaGTS\AngolaGTSSMS\Projects\GTS_Dynamic\TestData\Magic.csv]
+2025-02-28 20:28:39:02S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\AngolaGTSSMS\lib\assureit-engine-1.0.jar
+2025-03-03 18:37:27:03S +0530 [INFO] com.newvision.assureit.ide.main.Main main:Launching assureit IDE
+light
+2025-03-03 18:37:28:03S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\AngolaGTSSMS\lib\assureit-engine-1.0.jar
+2025-03-03 18:37:35:03S +0530 [WARNING] javafx.fxml.FXMLLoader$ValueElement processValue:Loading FXML document with JavaFX API of version 19 by JavaFX runtime of version 13-ea
+2025-03-03 18:38:09:03S +0530 [SEVERE] com.newvision.assureit.datalib.component.utils.FileUtils getRecords:File [D:\GTS\AngolaGTS\AngolaGTSSMS\Projects\GTS_Dynamic\TestPlan\SMS\NewTestCase0.csv] doesn't exist
+2025-03-03 18:38:14:03S +0530 [INFO] com.newvision.assureit.datalib.component.utils.FileUtils renameFile:D:\GTS\AngolaGTS\AngolaGTSSMS\Projects\GTS_Dynamic\TestPlan\SMS\NewTestCase0.csv Renamed to Tinder.csv
+2025-03-03 18:38:14:03S +0530 [INFO] com.newvision.assureit.datalib.component.Project refactorTestCase:Refactoring started for TestCase [NewTestCase0] to [Tinder]
+2025-03-03 18:38:14:03S +0530 [INFO] com.newvision.assureit.datalib.component.Project refactorTestCase:Refactoring done for TestCase [NewTestCase0] to [Tinder]
+[AWT-EventQueue-0] INFO org.eclipse.jetty.util.log - Logging initialized @73854ms to org.eclipse.jetty.util.log.Slf4jLog
+jar:file:/D:/GTS/AngolaGTS/AngolaGTSSMS/lib/assureit-extensionconnect-1.0.jar!/localhost
+2025-03-03 18:38:40:03S +0530 [INFO] com.newvision.assureit.extension.server.ExtensionServer startRecord:Launching Server for Record
+Current Directory: D:\GTS\AngolaGTS\AngolaGTSSMS
+2025-03-03 18:38:40:03S +0530 [INFO] com.newvision.assureit.extension.server.ExtensionServer$1 run:Starting Server
+[SocketServer] INFO org.eclipse.jetty.server.Server - jetty-9.4.43.v20210629; built: 2021-06-30T11:07:22.254Z; git: 526006ecfa3af7f1a27ef3a288e2bef7ea9dd7e8; jvm 17.0.9+11-LTS-201
+[SocketServer] INFO org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+[SocketServer] INFO org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+[SocketServer] INFO org.eclipse.jetty.server.session - node0 Scavenging every 660000ms
+[SocketServer] INFO org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@622e42f{/,null,AVAILABLE}
+[SocketServer] INFO org.eclipse.jetty.util.ssl.SslContextFactory - x509=X509@14b810c7(localhost,h=[localhost],a=[],w=[]) for SslContextFactory@28f5a2ae[provider=null,keyStore=jar:file:/D:/GTS/AngolaGTS/AngolaGTSSMS/lib/assureit-extensionconnect-1.0.jar!/localhost,trustStore=null]
+[SocketServer] INFO org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@47052aac{SSL, (ssl, http/1.1)}{0.0.0.0:8887}
+[SocketServer] INFO org.eclipse.jetty.server.Server - Started @74372ms
+2025-03-03 18:38:45:03S +0530 [WARNING] org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch:Unable to find CDP implementation matching 133
+2025-03-03 18:38:45:03S +0530 [WARNING] org.openqa.selenium.chromium.ChromiumDriver lambda$new$5:Unable to find version of CDP to use for 133.0.6943.142. You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.13.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+2025-03-03 18:39:05:03S +0530 [INFO] com.newvision.assureit.ide.main.shr.web.Recorder addAsStep:Browser[null] - Open - @https://tinder.com/
+2025-03-03 18:39:09:03S +0530 [INFO] com.newvision.assureit.ide.main.shr.web.Recorder saveObjectToPage:Object Added : Create account
+2025-03-03 18:39:09:03S +0530 [INFO] com.newvision.assureit.ide.main.shr.web.Recorder addAsStep:Object[Create account] - Click - null
+2025-03-03 18:39:13:03S +0530 [INFO] com.newvision.assureit.ide.main.shr.web.Recorder saveObjectToPage:Object Added : More Options
+2025-03-03 18:39:13:03S +0530 [INFO] com.newvision.assureit.ide.main.shr.web.Recorder addAsStep:Object[More Options] - Click - null
+2025-03-03 18:39:16:03S +0530 [INFO] com.newvision.assureit.ide.main.shr.web.Recorder saveObjectToPage:Object Added : Log in with phone number
+2025-03-03 18:39:16:03S +0530 [INFO] com.newvision.assureit.ide.main.shr.web.Recorder addAsStep:Object[Log in with phone number] - Click - null
+2025-03-03 18:39:24:03S +0530 [INFO] com.newvision.assureit.ide.main.shr.web.Recorder saveObjectToPage:Object Added : Search
+2025-03-03 18:39:24:03S +0530 [INFO] com.newvision.assureit.ide.main.shr.web.Recorder addAsStep:Object[Search] - Click - null
+2025-03-03 18:39:32:03S +0530 [WARNING] com.newvision.assureit.ide.main.shr.web.Recorder saveObjectToPage:Object Already Present
+Page : Tinder
+Object : Search
+2025-03-03 18:39:32:03S +0530 [INFO] com.newvision.assureit.ide.main.shr.web.Recorder addAsStep:Object[Search] - Set - @Angola
+2025-03-03 18:39:32:03S +0530 [WARNING] com.newvision.assureit.ide.main.shr.web.Recorder saveObjectToPage:Object Already Present
+Page : Tinder
+Object : Search
+2025-03-03 18:39:32:03S +0530 [INFO] com.newvision.assureit.ide.main.shr.web.Recorder addAsStep:Object[Search] - Set - @Angola
+2025-03-03 18:40:09:03S +0530 [INFO] com.newvision.assureit.ide.main.shr.web.Recorder saveObjectToPage:Object Added : phone_number
+2025-03-03 18:40:09:03S +0530 [INFO] com.newvision.assureit.ide.main.shr.web.Recorder addAsStep:Object[phone_number] - Set - @990779289
+2025-03-03 18:40:09:03S +0530 [WARNING] com.newvision.assureit.ide.main.shr.web.Recorder saveObjectToPage:Object Already Present
+Page : Tinder
+Object : phone_number
+2025-03-03 18:40:09:03S +0530 [INFO] com.newvision.assureit.ide.main.shr.web.Recorder addAsStep:Object[phone_number] - Set - @990779289
+2025-03-03 18:40:16:03S +0530 [INFO] com.newvision.assureit.ide.main.shr.web.Recorder saveObjectToPage:Object Added : Next
+2025-03-03 18:40:16:03S +0530 [INFO] com.newvision.assureit.ide.main.shr.web.Recorder addAsStep:Object[Next] - Click - null
+2025-03-03 18:40:32:03S +0530 [INFO] com.newvision.assureit.ide.main.shr.web.Recorder saveObjectToPage:Object Added : Enter your code
+2025-03-03 18:40:32:03S +0530 [INFO] com.newvision.assureit.ide.main.shr.web.Recorder addAsStep:Object[Enter your code] - assertElementTextContains - @Enter your code
+2025-03-03 18:40:32:03S +0530 [WARNING] com.newvision.assureit.ide.main.shr.web.Recorder saveObjectToPage:Object Already Present
+Page : Tinder
+Object : Enter your code
+2025-03-03 18:40:32:03S +0530 [INFO] com.newvision.assureit.ide.main.shr.web.Recorder addAsStep:Object[Enter your code] - Click - null
+2025-03-03 18:40:32:03S +0530 [WARNING] com.newvision.assureit.ide.main.shr.web.Recorder saveObjectToPage:Object Already Present
+Page : Tinder
+Object : Enter your code
+2025-03-03 18:40:32:03S +0530 [INFO] com.newvision.assureit.ide.main.shr.web.Recorder addAsStep:Object[Enter your code] - Click - null
+[AWT-EventQueue-0] INFO org.eclipse.jetty.server.AbstractConnector - Stopped ServerConnector@47052aac{SSL, (ssl, http/1.1)}{0.0.0.0:8887}
+[AWT-EventQueue-0] INFO org.eclipse.jetty.server.session - node0 Stopped scavenging
+[AWT-EventQueue-0] INFO org.eclipse.jetty.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@622e42f{/,null,STOPPED}
+jar:file:/D:/GTS/AngolaGTS/AngolaGTSSMS/lib/assureit-extensionconnect-1.0.jar!/localhost
+2025-03-03 18:40:48:03S +0530 [INFO] com.newvision.assureit.extension.server.ExtensionServer$1 run:Server Stopped
+2025-03-03 18:41:02:03S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\AngolaGTSSMS\lib\assureit-engine-1.0.jar
+2025-03-03 18:47:48:03S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\AngolaGTSSMS\lib\assureit-engine-1.0.jar
+2025-03-03 18:49:04:03S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\AngolaGTSSMS\lib\assureit-engine-1.0.jar
+2025-03-03 18:50:38:03S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\AngolaGTSSMS\lib\assureit-engine-1.0.jar
+2025-03-03 18:52:30:03S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\AngolaGTSSMS\lib\assureit-engine-1.0.jar
+2025-03-03 18:53:41:03S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\AngolaGTSSMS\lib\assureit-engine-1.0.jar
+2025-03-03 18:56:25:03S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\AngolaGTSSMS\lib\assureit-engine-1.0.jar
+2025-03-03 18:58:18:03S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\AngolaGTSSMS\lib\assureit-engine-1.0.jar
+2025-03-03 18:58:54:03S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\AngolaGTSSMS\lib\assureit-engine-1.0.jar
+2025-03-03 18:59:25:03S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\AngolaGTSSMS\lib\assureit-engine-1.0.jar
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to Open - D:\GTS\AngolaGTS\AngolaGTSSMS\Projects\GTS_Dynamic\TestData\Magic.csv
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to exec: [explorer] [%s] [D:\GTS\AngolaGTS\AngolaGTSSMS\Projects\GTS_Dynamic\TestData\Magic.csv]
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to Open - D:\GTS\AngolaGTS\AngolaGTSSMS\Projects\GTS_Dynamic\TestData\Tinder.csv
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to exec: [explorer] [%s] [D:\GTS\AngolaGTS\AngolaGTSSMS\Projects\GTS_Dynamic\TestData\Tinder.csv]
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to Open - D:\GTS\AngolaGTS\AngolaGTSSMS\Projects\GTS_Dynamic\TestData\Magic.csv
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to exec: [explorer] [%s] [D:\GTS\AngolaGTS\AngolaGTSSMS\Projects\GTS_Dynamic\TestData\Magic.csv]
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to Open - D:\GTS\AngolaGTS\AngolaGTSSMS\Projects\GTS_Dynamic\TestData\Magic.csv
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to exec: [explorer] [%s] [D:\GTS\AngolaGTS\AngolaGTSSMS\Projects\GTS_Dynamic\TestData\Magic.csv]
+2025-03-03 19:45:14:03S +0530 [SEVERE] com.newvision.assureit.datalib.component.utils.FileUtils getRecords:File [D:\GTS\AngolaGTS\AngolaGTSSMS\Projects\GTS_Dynamic\TestLab\Angola\NewTestSet.csv] doesn't exist
+2025-03-03 19:45:18:03S +0530 [INFO] com.newvision.assureit.datalib.component.utils.FileUtils renameFile:D:\GTS\AngolaGTS\AngolaGTSSMS\Projects\GTS_Dynamic\TestLab\Angola\NewTestSet.csv Renamed to Tinder.csv
+2025-03-03 19:54:42:03S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\AngolaGTSSMS\lib\assureit-engine-1.0.jar
+2025-03-04 09:55:00:03S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\AngolaGTSSMS\lib\assureit-engine-1.0.jar
+2025-03-04 10:43:57:03S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\AngolaGTSSMS\lib\assureit-engine-1.0.jar
+2025-03-04 10:47:12:03S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\AngolaGTSSMS\lib\assureit-engine-1.0.jar
+2025-03-04 10:59:18:03S +0530 [INFO] com.newvision.assureit.ide.main.Main main:Launching assureit IDE
+light
+2025-03-04 10:59:18:03S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\AngolaGTSSMS\lib\assureit-engine-1.0.jar
+2025-03-04 10:59:29:03S +0530 [WARNING] javafx.fxml.FXMLLoader$ValueElement processValue:Loading FXML document with JavaFX API of version 19 by JavaFX runtime of version 13-ea
+2025-03-04 15:39:49:03S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\AngolaGTSSMS\lib\assureit-engine-1.0.jar
+2025-03-04 15:41:24:03S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\AngolaGTSSMS\lib\assureit-engine-1.0.jar
+2025-03-04 15:44:32:03S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\AngolaGTSSMS\lib\assureit-engine-1.0.jar
+2025-03-04 15:53:10:03S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\AngolaGTSSMS\lib\assureit-engine-1.0.jar
+2025-03-04 15:55:37:03S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\AngolaGTSSMS\lib\assureit-engine-1.0.jar
+2025-03-04 15:57:04:03S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\AngolaGTSSMS\lib\assureit-engine-1.0.jar
+2025-03-04 17:31:27:03S +0530 [SEVERE] com.newvision.assureit.datalib.component.utils.FileUtils getRecords:File [D:\GTS\AngolaGTS\AngolaGTSSMS\Projects\GTS_Dynamic\TestPlan\SMS\NewTestCase0.csv] doesn't exist
+2025-03-06 16:24:45:03S +0530 [INFO] com.newvision.assureit.ide.main.Main main:Launching assureit IDE
+light
+2025-03-06 16:24:45:03S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\AngolaGTSSMS\lib\assureit-engine-1.0.jar
+2025-03-06 16:24:54:03S +0530 [WARNING] javafx.fxml.FXMLLoader$ValueElement processValue:Loading FXML document with JavaFX API of version 19 by JavaFX runtime of version 13-ea
+2025-03-06 16:26:54:03S +0530 [SEVERE] com.newvision.assureit.datalib.component.utils.FileUtils getRecords:File [D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestPlan\SMS\NewTestCase0.csv] doesn't exist
+2025-03-06 16:27:03:03S +0530 [INFO] com.newvision.assureit.datalib.component.utils.FileUtils renameFile:D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestPlan\SMS\NewTestCase0.csv Renamed to GTSUber.csv
+2025-03-06 16:27:03:03S +0530 [INFO] com.newvision.assureit.datalib.component.Project refactorTestCase:Refactoring started for TestCase [NewTestCase0] to [GTSUber]
+2025-03-06 16:27:03:03S +0530 [INFO] com.newvision.assureit.datalib.component.Project refactorTestCase:Refactoring done for TestCase [NewTestCase0] to [GTSUber]
+2025-03-06 16:28:10:03S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\AngolaGTSSMS\lib\assureit-engine-1.0.jar
+2025-03-06 16:28:48:03S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\AngolaGTSSMS\lib\assureit-engine-1.0.jar
+2025-03-06 16:30:16:03S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\AngolaGTSSMS\lib\assureit-engine-1.0.jar
+2025-03-06 16:38:36:03S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\AngolaGTSSMS\lib\assureit-engine-1.0.jar
+2025-03-06 16:41:39:03S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\AngolaGTSSMS\lib\assureit-engine-1.0.jar
+2025-03-06 16:47:28:03S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\AngolaGTSSMS\lib\assureit-engine-1.0.jar
+2025-03-06 16:48:09:03S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\AngolaGTSSMS\lib\assureit-engine-1.0.jar
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to Open - D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestData\Tinder.csv
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to exec: [explorer] [%s] [D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestData\Tinder.csv]
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to Open - D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestData\Magic.csv
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to exec: [explorer] [%s] [D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestData\Magic.csv]
+2025-03-06 17:08:13:03S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\AngolaGTSSMS\lib\assureit-engine-1.0.jar
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to Open - D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to exec: [explorer] [%s] [D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic]
+2025-03-07 10:30:28:03S +0530 [INFO] com.newvision.assureit.ide.main.Main main:Launching assureit IDE
+light
+2025-03-07 10:30:29:03S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\AngolaGTSSMS\lib\assureit-engine-1.0.jar
+2025-03-07 10:30:36:03S +0530 [WARNING] javafx.fxml.FXMLLoader$ValueElement processValue:Loading FXML document with JavaFX API of version 19 by JavaFX runtime of version 13-ea
+2025-03-07 10:31:30:03S +0530 [INFO] com.newvision.assureit.datalib.component.utils.FileUtils renameFile:D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestPlan\NewScenario Renamed to Tinder
+2025-03-07 10:31:30:03S +0530 [INFO] com.newvision.assureit.datalib.component.Project refactorScenario:Refactoring started for Scenario [NewScenario] to [Tinder]
+2025-03-07 10:31:30:03S +0530 [INFO] com.newvision.assureit.datalib.component.Project refactorScenario:Refactoring done for Scenario [NewScenario] to [Tinder]
+2025-03-07 10:32:28:03S +0530 [SEVERE] com.newvision.assureit.datalib.component.utils.FileUtils getRecords:File [D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestPlan\Tinder\NewTestCase.csv] doesn't exist
+2025-03-07 10:32:34:03S +0530 [INFO] com.newvision.assureit.datalib.component.utils.FileUtils renameFile:D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestPlan\Tinder\NewTestCase.csv Renamed to Tinder1.csv
+2025-03-07 10:32:34:03S +0530 [INFO] com.newvision.assureit.datalib.component.Project refactorTestCase:Refactoring started for TestCase [NewTestCase] to [Tinder1]
+2025-03-07 10:32:34:03S +0530 [INFO] com.newvision.assureit.datalib.component.Project refactorTestCase:Refactoring done for TestCase [NewTestCase] to [Tinder1]
+2025-03-07 10:33:11:03S +0530 [SEVERE] com.newvision.assureit.datalib.component.utils.FileUtils getRecords:File [D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestPlan\SMS\NewTestCase0.csv] doesn't exist
+2025-03-07 10:33:20:03S +0530 [INFO] com.newvision.assureit.datalib.component.utils.FileUtils renameFile:D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestPlan\SMS\NewTestCase0.csv Renamed to TinderSMS.csv
+2025-03-07 10:33:20:03S +0530 [INFO] com.newvision.assureit.datalib.component.Project refactorTestCase:Refactoring started for TestCase [NewTestCase0] to [TinderSMS]
+2025-03-07 10:33:20:03S +0530 [INFO] com.newvision.assureit.datalib.component.Project refactorTestCase:Refactoring done for TestCase [NewTestCase0] to [TinderSMS]
+2025-03-07 10:36:50:03S +0530 [INFO] com.newvision.assureit.datalib.component.utils.FileUtils renameFile:D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestPlan\Tinder\Tinder1 Copy(1).csv Renamed to Tinder2.csv
+2025-03-07 10:36:50:03S +0530 [INFO] com.newvision.assureit.datalib.component.Project refactorTestCase:Refactoring started for TestCase [Tinder1 Copy(1)] to [Tinder2]
+2025-03-07 10:36:50:03S +0530 [INFO] com.newvision.assureit.datalib.component.Project refactorTestCase:Refactoring done for TestCase [Tinder1 Copy(1)] to [Tinder2]
+2025-03-07 10:36:55:03S +0530 [INFO] com.newvision.assureit.datalib.component.utils.FileUtils renameFile:D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestPlan\Tinder\Tinder1 Copy(2).csv Renamed to Tinder3.csv
+2025-03-07 10:36:55:03S +0530 [INFO] com.newvision.assureit.datalib.component.Project refactorTestCase:Refactoring started for TestCase [Tinder1 Copy(2)] to [Tinder3]
+2025-03-07 10:36:55:03S +0530 [INFO] com.newvision.assureit.datalib.component.Project refactorTestCase:Refactoring done for TestCase [Tinder1 Copy(2)] to [Tinder3]
+2025-03-07 10:37:01:03S +0530 [INFO] com.newvision.assureit.datalib.component.utils.FileUtils renameFile:D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestPlan\Tinder\Tinder1 Copy(3).csv Renamed to Tinder4.csv
+2025-03-07 10:37:01:03S +0530 [INFO] com.newvision.assureit.datalib.component.Project refactorTestCase:Refactoring started for TestCase [Tinder1 Copy(3)] to [Tinder4]
+2025-03-07 10:37:01:03S +0530 [INFO] com.newvision.assureit.datalib.component.Project refactorTestCase:Refactoring done for TestCase [Tinder1 Copy(3)] to [Tinder4]
+2025-03-07 10:37:06:03S +0530 [INFO] com.newvision.assureit.datalib.component.utils.FileUtils renameFile:D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestPlan\Tinder\Tinder1 Copy(4).csv Renamed to Tinder5.csv
+2025-03-07 10:37:06:03S +0530 [INFO] com.newvision.assureit.datalib.component.Project refactorTestCase:Refactoring started for TestCase [Tinder1 Copy(4)] to [Tinder5]
+2025-03-07 10:37:06:03S +0530 [INFO] com.newvision.assureit.datalib.component.Project refactorTestCase:Refactoring done for TestCase [Tinder1 Copy(4)] to [Tinder5]
+2025-03-07 10:37:12:03S +0530 [INFO] com.newvision.assureit.datalib.component.utils.FileUtils renameFile:D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestPlan\Tinder\Tinder1 Copy(5).csv Renamed to Tinder6.csv
+2025-03-07 10:37:12:03S +0530 [INFO] com.newvision.assureit.datalib.component.Project refactorTestCase:Refactoring started for TestCase [Tinder1 Copy(5)] to [Tinder6]
+2025-03-07 10:37:12:03S +0530 [INFO] com.newvision.assureit.datalib.component.Project refactorTestCase:Refactoring done for TestCase [Tinder1 Copy(5)] to [Tinder6]
+2025-03-07 10:37:17:03S +0530 [INFO] com.newvision.assureit.datalib.component.utils.FileUtils renameFile:D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestPlan\Tinder\Tinder1 Copy(6).csv Renamed to Tinder7.csv
+2025-03-07 10:37:17:03S +0530 [INFO] com.newvision.assureit.datalib.component.Project refactorTestCase:Refactoring started for TestCase [Tinder1 Copy(6)] to [Tinder7]
+2025-03-07 10:37:17:03S +0530 [INFO] com.newvision.assureit.datalib.component.Project refactorTestCase:Refactoring done for TestCase [Tinder1 Copy(6)] to [Tinder7]
+2025-03-07 10:37:22:03S +0530 [INFO] com.newvision.assureit.datalib.component.utils.FileUtils renameFile:D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestPlan\Tinder\Tinder1 Copy(7).csv Renamed to Tinder8.csv
+2025-03-07 10:37:22:03S +0530 [INFO] com.newvision.assureit.datalib.component.Project refactorTestCase:Refactoring started for TestCase [Tinder1 Copy(7)] to [Tinder8]
+2025-03-07 10:37:22:03S +0530 [INFO] com.newvision.assureit.datalib.component.Project refactorTestCase:Refactoring done for TestCase [Tinder1 Copy(7)] to [Tinder8]
+2025-03-07 10:37:27:03S +0530 [INFO] com.newvision.assureit.datalib.component.utils.FileUtils renameFile:D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestPlan\Tinder\Tinder1 Copy(8).csv Renamed to Tinder9.csv
+2025-03-07 10:37:27:03S +0530 [INFO] com.newvision.assureit.datalib.component.Project refactorTestCase:Refactoring started for TestCase [Tinder1 Copy(8)] to [Tinder9]
+2025-03-07 10:37:27:03S +0530 [INFO] com.newvision.assureit.datalib.component.Project refactorTestCase:Refactoring done for TestCase [Tinder1 Copy(8)] to [Tinder9]
+2025-03-07 10:40:43:03S +0530 [INFO] com.newvision.assureit.datalib.component.utils.FileUtils renameFile:D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestPlan\Tinder\Tinder1 Copy(9).csv Renamed to Tinder10.csv
+2025-03-07 10:40:43:03S +0530 [INFO] com.newvision.assureit.datalib.component.Project refactorTestCase:Refactoring started for TestCase [Tinder1 Copy(9)] to [Tinder10]
+2025-03-07 10:40:43:03S +0530 [INFO] com.newvision.assureit.datalib.component.Project refactorTestCase:Refactoring done for TestCase [Tinder1 Copy(9)] to [Tinder10]
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to Open - D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestData\Tinder.csv
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to exec: [explorer] [%s] [D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestData\Tinder.csv]
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to Open - D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestData\Tinder1.csv
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to exec: [explorer] [%s] [D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestData\Tinder1.csv]
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to Open - D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestData\Tinder2.csv
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to exec: [explorer] [%s] [D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestData\Tinder2.csv]
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to Open - D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestData\Tinder1.csv
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to exec: [explorer] [%s] [D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestData\Tinder1.csv]
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to Open - D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestData\Tinder3.csv
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to exec: [explorer] [%s] [D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestData\Tinder3.csv]
+2025-03-07 10:59:58:03S +0530 [WARNING] com.newvision.assureit.ide.main.utils.table.XTableUtils pasteFromClipboard:Invalid Paste Type
+java.awt.datatransfer.UnsupportedFlavorException: Unicode String
+	at com.newvision.assureit.ide.main.utils.dnd.TransferableNode.getTransferData(TransferableNode.java:56)
+	at java.desktop/sun.awt.datatransfer.TransferableProxy.getTransferData(TransferableProxy.java:73)
+	at com.newvision.assureit.ide.main.utils.table.XTableUtils.pasteFromClipboard(XTableUtils.java:88)
+	at com.newvision.assureit.ide.main.utils.keys.ClipboardKeyAdapter.keyReleased(ClipboardKeyAdapter.java:52)
+	at java.desktop/java.awt.AWTEventMulticaster.keyReleased(AWTEventMulticaster.java:268)
+	at java.desktop/java.awt.Component.processKeyEvent(Component.java:6587)
+	at java.desktop/javax.swing.JComponent.processKeyEvent(JComponent.java:2896)
+	at java.desktop/java.awt.Component.processEvent(Component.java:6403)
+	at java.desktop/java.awt.Container.processEvent(Container.java:2266)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:5001)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2324)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4833)
+	at java.desktop/java.awt.KeyboardFocusManager.redispatchEvent(KeyboardFocusManager.java:1952)
+	at java.desktop/java.awt.DefaultKeyboardFocusManager.dispatchKeyEvent(DefaultKeyboardFocusManager.java:883)
+	at java.desktop/java.awt.DefaultKeyboardFocusManager.preDispatchKeyEvent(DefaultKeyboardFocusManager.java:1150)
+	at java.desktop/java.awt.DefaultKeyboardFocusManager.typeAheadAssertions(DefaultKeyboardFocusManager.java:1020)
+	at java.desktop/java.awt.DefaultKeyboardFocusManager.dispatchEvent(DefaultKeyboardFocusManager.java:848)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:4882)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2324)
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2780)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4833)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:773)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:722)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:716)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:97)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:746)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:744)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:743)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to Open - D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestData\Tinder3.csv
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to exec: [explorer] [%s] [D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestData\Tinder3.csv]
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to Open - D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestData\Tinder3.csv
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to exec: [explorer] [%s] [D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestData\Tinder3.csv]
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to Open - D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestData\Tinder3.csv
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to exec: [explorer] [%s] [D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestData\Tinder3.csv]
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to Open - D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestData\Tinder4.csv
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to exec: [explorer] [%s] [D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestData\Tinder4.csv]
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to Open - D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestData\Tinder1.csv
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to exec: [explorer] [%s] [D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestData\Tinder1.csv]
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to Open - D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestData\Tinder2.csv
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to exec: [explorer] [%s] [D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestData\Tinder2.csv]
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to Open - D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestData\Tinder3.csv
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to exec: [explorer] [%s] [D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestData\Tinder3.csv]
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to Open - D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestData\Tinder4.csv
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to exec: [explorer] [%s] [D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestData\Tinder4.csv]
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to Open - D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestData\Tinder5.csv
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to exec: [explorer] [%s] [D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestData\Tinder5.csv]
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to Open - D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestData\Tinder6.csv
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to exec: [explorer] [%s] [D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestData\Tinder6.csv]
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to Open - D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestData\Tinder7.csv
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to exec: [explorer] [%s] [D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestData\Tinder7.csv]
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to Open - D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestData\Tinder8.csv
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to exec: [explorer] [%s] [D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestData\Tinder8.csv]
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to Open - D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestData\Tinder9.csv
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to exec: [explorer] [%s] [D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestData\Tinder9.csv]
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to Open - D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestData\Tinder10.csv
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to exec: [explorer] [%s] [D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestData\Tinder10.csv]
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to Open - D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestData\Tinder.csv
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to exec: [explorer] [%s] [D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestData\Tinder.csv]
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to Open - D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to exec: [explorer] [%s] [D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic]
+2025-03-07 11:46:04:03S +0530 [SEVERE] com.newvision.assureit.datalib.component.utils.FileUtils getRecords:File [D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestLab\Angola\NewTestSet.csv] doesn't exist
+2025-03-07 11:46:37:03S +0530 [INFO] com.newvision.assureit.ide.main.mainui.components.testexecution.tree.TestSetTree deleteTestSets:Delete TestSets approved for 1; [NewTestSet]
+2025-03-07 11:46:44:03S +0530 [INFO] com.newvision.assureit.datalib.component.utils.FileUtils renameFile:D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestLab\NewRelease Renamed to Tinder
+Exception in thread "AWT-EventQueue-0" java.lang.NullPointerException: Cannot invoke "com.newvision.assureit.datalib.component.TestSet.getRelease()" because the return value of "com.newvision.assureit.ide.main.mainui.components.testexecution.testset.TestsetComponent.getCurrentTestSet()" is null
+	at com.newvision.assureit.ide.main.mainui.components.testexecution.testset.TestsetComponent.refreshTitle(TestsetComponent.java:177)
+	at com.newvision.assureit.ide.main.mainui.components.testexecution.tree.TestSetTree.checkAndRename(TestSetTree.java:319)
+	at com.newvision.assureit.ide.main.mainui.components.testexecution.tree.TestSetTree$6.editingStopped(TestSetTree.java:157)
+	at java.desktop/javax.swing.AbstractCellEditor.fireEditingStopped(AbstractCellEditor.java:152)
+	at java.desktop/javax.swing.DefaultCellEditor$EditorDelegate.stopCellEditing(DefaultCellEditor.java:375)
+	at java.desktop/javax.swing.DefaultCellEditor.stopCellEditing(DefaultCellEditor.java:234)
+	at java.desktop/javax.swing.DefaultCellEditor$EditorDelegate.actionPerformed(DefaultCellEditor.java:392)
+	at java.desktop/javax.swing.JTextField.fireActionPerformed(JTextField.java:525)
+	at java.desktop/javax.swing.JTextField.postActionEvent(JTextField.java:740)
+	at java.desktop/javax.swing.JTextField$NotifyAction.actionPerformed(JTextField.java:856)
+	at java.desktop/javax.swing.SwingUtilities.notifyAction(SwingUtilities.java:1810)
+	at java.desktop/javax.swing.JComponent.processKeyBinding(JComponent.java:2947)
+	at java.desktop/javax.swing.JComponent.processKeyBindings(JComponent.java:2995)
+	at java.desktop/javax.swing.JComponent.processKeyEvent(JComponent.java:2909)
+	at java.desktop/java.awt.Component.processEvent(Component.java:6403)
+	at java.desktop/java.awt.Container.processEvent(Container.java:2266)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:5001)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2324)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4833)
+	at java.desktop/java.awt.KeyboardFocusManager.redispatchEvent(KeyboardFocusManager.java:1952)
+	at java.desktop/java.awt.DefaultKeyboardFocusManager.dispatchKeyEvent(DefaultKeyboardFocusManager.java:883)
+	at java.desktop/java.awt.DefaultKeyboardFocusManager.preDispatchKeyEvent(DefaultKeyboardFocusManager.java:1150)
+	at java.desktop/java.awt.DefaultKeyboardFocusManager.typeAheadAssertions(DefaultKeyboardFocusManager.java:1020)
+	at java.desktop/java.awt.DefaultKeyboardFocusManager.dispatchEvent(DefaultKeyboardFocusManager.java:848)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:4882)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2324)
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2780)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4833)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:773)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:722)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:716)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:97)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:746)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:744)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:743)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+2025-03-07 11:46:47:03S +0530 [SEVERE] com.newvision.assureit.datalib.component.utils.FileUtils getRecords:File [D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestLab\Tinder\NewTestSet.csv] doesn't exist
+2025-03-07 11:46:54:03S +0530 [INFO] com.newvision.assureit.datalib.component.utils.FileUtils renameFile:D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestLab\Tinder\NewTestSet.csv Renamed to Tinder1.csv
+2025-03-07 11:47:04:03S +0530 [SEVERE] com.newvision.assureit.datalib.component.utils.FileUtils getRecords:File [D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestLab\Tinder\NewTestSet.csv] doesn't exist
+2025-03-07 11:47:04:03S +0530 [SEVERE] com.newvision.assureit.datalib.component.utils.FileUtils getRecords:File [D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestLab\Tinder\NewTestSet0.csv] doesn't exist
+2025-03-07 11:47:04:03S +0530 [SEVERE] com.newvision.assureit.datalib.component.utils.FileUtils getRecords:File [D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestLab\Tinder\NewTestSet1.csv] doesn't exist
+2025-03-07 11:47:05:03S +0530 [SEVERE] com.newvision.assureit.datalib.component.utils.FileUtils getRecords:File [D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestLab\Tinder\NewTestSet2.csv] doesn't exist
+2025-03-07 11:47:05:03S +0530 [SEVERE] com.newvision.assureit.datalib.component.utils.FileUtils getRecords:File [D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestLab\Tinder\NewTestSet3.csv] doesn't exist
+2025-03-07 11:47:05:03S +0530 [SEVERE] com.newvision.assureit.datalib.component.utils.FileUtils getRecords:File [D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestLab\Tinder\NewTestSet4.csv] doesn't exist
+2025-03-07 11:47:05:03S +0530 [SEVERE] com.newvision.assureit.datalib.component.utils.FileUtils getRecords:File [D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestLab\Tinder\NewTestSet5.csv] doesn't exist
+2025-03-07 11:47:06:03S +0530 [SEVERE] com.newvision.assureit.datalib.component.utils.FileUtils getRecords:File [D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestLab\Tinder\NewTestSet6.csv] doesn't exist
+2025-03-07 11:47:07:03S +0530 [SEVERE] com.newvision.assureit.datalib.component.utils.FileUtils getRecords:File [D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestLab\Tinder\NewTestSet7.csv] doesn't exist
+2025-03-07 11:47:07:03S +0530 [SEVERE] com.newvision.assureit.datalib.component.utils.FileUtils getRecords:File [D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestLab\Tinder\NewTestSet8.csv] doesn't exist
+2025-03-07 11:47:08:03S +0530 [SEVERE] com.newvision.assureit.datalib.component.utils.FileUtils getRecords:File [D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestLab\Tinder\NewTestSet9.csv] doesn't exist
+2025-03-07 11:47:15:03S +0530 [INFO] com.newvision.assureit.datalib.component.utils.FileUtils renameFile:D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestLab\Tinder\NewTestSet.csv Renamed to Tinder2.csv
+2025-03-07 11:47:20:03S +0530 [INFO] com.newvision.assureit.datalib.component.utils.FileUtils renameFile:D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestLab\Tinder\NewTestSet0.csv Renamed to Tinder3.csv
+2025-03-07 11:47:24:03S +0530 [INFO] com.newvision.assureit.datalib.component.utils.FileUtils renameFile:D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestLab\Tinder\NewTestSet1.csv Renamed to Tinder4.csv
+2025-03-07 11:47:30:03S +0530 [INFO] com.newvision.assureit.datalib.component.utils.FileUtils renameFile:D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestLab\Tinder\NewTestSet2.csv Renamed to Tinder5.csv
+2025-03-07 11:47:35:03S +0530 [INFO] com.newvision.assureit.datalib.component.utils.FileUtils renameFile:D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestLab\Tinder\NewTestSet3.csv Renamed to Tinder6.csv
+2025-03-07 11:47:41:03S +0530 [INFO] com.newvision.assureit.datalib.component.utils.FileUtils renameFile:D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestLab\Tinder\NewTestSet4.csv Renamed to Tinder7.csv
+2025-03-07 11:47:45:03S +0530 [INFO] com.newvision.assureit.datalib.component.utils.FileUtils renameFile:D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestLab\Tinder\NewTestSet5.csv Renamed to Tinder8.csv
+2025-03-07 11:47:50:03S +0530 [INFO] com.newvision.assureit.datalib.component.utils.FileUtils renameFile:D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestLab\Tinder\NewTestSet6.csv Renamed to Tinder9.csv
+2025-03-07 11:47:55:03S +0530 [INFO] com.newvision.assureit.datalib.component.utils.FileUtils renameFile:D:\GTS\GTSRepo\Automation\Projects\GTS_Dynamic\TestLab\Tinder\NewTestSet7.csv Renamed to Tinder10.csv
+2025-03-07 11:48:06:03S +0530 [INFO] com.newvision.assureit.ide.main.mainui.components.testexecution.tree.TestSetTree deleteTestSets:Delete TestSets approved for 2; [NewTestSet8, NewTestSet9]
+2025-03-07 11:49:23:03S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\AngolaGTSSMS\lib\assureit-engine-1.0.jar
+2025-03-07 11:51:19:03S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\AngolaGTSSMS\lib\assureit-engine-1.0.jar
+2025-03-07 11:52:04:03S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\AngolaGTSSMS\lib\assureit-engine-1.0.jar
+2025-03-07 11:52:47:03S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\AngolaGTSSMS\lib\assureit-engine-1.0.jar
+2025-03-07 11:53:22:03S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\AngolaGTSSMS\lib\assureit-engine-1.0.jar
+2025-03-07 11:54:13:03S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\AngolaGTSSMS\lib\assureit-engine-1.0.jar
+2025-03-07 11:57:30:03S +0530 [INFO] com.newvision.assureit.ide.main.Main finish:assureit IDE has been Terminated - [ Total Time : 01:27:02.434 ]
+2025-03-17 18:47:47:03S +0530 [INFO] com.newvision.assureit.ide.main.Main main:Launching assureit IDE
+light
+2025-03-17 18:47:48:03S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-03-17 18:47:56:03S +0530 [WARNING] javafx.fxml.FXMLLoader$ValueElement processValue:Loading FXML document with JavaFX API of version 19 by JavaFX runtime of version 13-ea
+2025-03-17 18:49:15:03S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-03-17 18:56:27:03S +0530 [INFO] com.newvision.assureit.ide.main.Main main:Launching assureit IDE
+light
+2025-03-17 18:56:28:03S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-03-17 18:56:35:03S +0530 [WARNING] javafx.fxml.FXMLLoader$ValueElement processValue:Loading FXML document with JavaFX API of version 19 by JavaFX runtime of version 13-ea
+2025-03-17 18:57:25:03S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-03-17 18:59:17:03S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-03-17 18:59:46:03S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-03-17 19:00:18:03S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-03-18 18:29:21:03S +0530 [INFO] com.newvision.assureit.ide.main.Main main:Launching assureit IDE
+light
+2025-03-18 18:29:23:03S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-03-18 18:29:34:03S +0530 [WARNING] javafx.fxml.FXMLLoader$ValueElement processValue:Loading FXML document with JavaFX API of version 19 by JavaFX runtime of version 13-ea
+2025-03-18 18:37:17:03S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to Open - D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\Projects\GTS_Dynamic\TestData\Tinder8.csv
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to exec: [explorer] [%s] [D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\Projects\GTS_Dynamic\TestData\Tinder8.csv]
+2025-03-18 18:59:59:03S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-03-18 19:00:20:03S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-03-18 19:00:40:03S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-03-18 19:01:52:03S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-03-18 19:03:17:03S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-03-19 13:25:30:03S +0530 [INFO] com.newvision.assureit.ide.main.Main main:Launching assureit IDE
+light
+2025-03-19 13:25:31:03S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-03-19 13:25:39:03S +0530 [WARNING] javafx.fxml.FXMLLoader$ValueElement processValue:Loading FXML document with JavaFX API of version 19 by JavaFX runtime of version 13-ea
+2025-03-19 13:27:38:03S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-03-19 15:27:45:03S +0530 [INFO] com.newvision.assureit.ide.main.Main finish:assureit IDE has been Terminated - [ Total Time : 20:58:29.694 ]
+2025-04-02 16:15:13:04S +0530 [INFO] com.newvision.assureit.ide.main.Main main:Launching assureit IDE
+light
+2025-04-02 16:15:14:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-02 16:15:24:04S +0530 [WARNING] javafx.fxml.FXMLLoader$ValueElement processValue:Loading FXML document with JavaFX API of version 19 by JavaFX runtime of version 13-ea
+2025-04-02 16:16:48:04S +0530 [INFO] com.newvision.assureit.datalib.component.utils.FileUtils renameFile:D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\Projects\GTS_Dynamic\TestPlan\NewScenario Renamed to Airwallex
+2025-04-02 16:16:48:04S +0530 [INFO] com.newvision.assureit.datalib.component.Project refactorScenario:Refactoring started for Scenario [NewScenario] to [Airwallex]
+2025-04-02 16:16:49:04S +0530 [INFO] com.newvision.assureit.datalib.component.Project refactorScenario:Refactoring done for Scenario [NewScenario] to [Airwallex]
+2025-04-02 16:16:54:04S +0530 [SEVERE] com.newvision.assureit.datalib.component.utils.FileUtils getRecords:File [D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\Projects\GTS_Dynamic\TestPlan\SMS\NewTestCase0.csv] doesn't exist
+2025-04-02 16:17:00:04S +0530 [INFO] com.newvision.assureit.datalib.component.utils.FileUtils renameFile:D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\Projects\GTS_Dynamic\TestPlan\SMS\NewTestCase0.csv Renamed to Airwallex.csv
+2025-04-02 16:17:00:04S +0530 [INFO] com.newvision.assureit.datalib.component.Project refactorTestCase:Refactoring started for TestCase [NewTestCase0] to [Airwallex]
+2025-04-02 16:17:00:04S +0530 [INFO] com.newvision.assureit.datalib.component.Project refactorTestCase:Refactoring done for TestCase [NewTestCase0] to [Airwallex]
+[AWT-EventQueue-0] INFO org.eclipse.jetty.util.log - Logging initialized @115166ms to org.eclipse.jetty.util.log.Slf4jLog
+jar:file:/D:/GTS/AngolaGTS/GTSAngolaEnterpi/Automation/lib/assureit-extensionconnect-1.0.jar!/localhost
+2025-04-02 16:17:06:04S +0530 [INFO] com.newvision.assureit.extension.server.ExtensionServer startRecord:Launching Server for Record
+Current Directory: D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation
+2025-04-02 16:17:06:04S +0530 [INFO] com.newvision.assureit.extension.server.ExtensionServer$1 run:Starting Server
+[SocketServer] INFO org.eclipse.jetty.server.Server - jetty-9.4.43.v20210629; built: 2021-06-30T11:07:22.254Z; git: 526006ecfa3af7f1a27ef3a288e2bef7ea9dd7e8; jvm 17.0.9+11-LTS-201
+[SocketServer] INFO org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+[SocketServer] INFO org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+[SocketServer] INFO org.eclipse.jetty.server.session - node0 Scavenging every 600000ms
+[SocketServer] INFO org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@3b46c863{/,null,AVAILABLE}
+[SocketServer] INFO org.eclipse.jetty.util.ssl.SslContextFactory - x509=X509@562ad813(localhost,h=[localhost],a=[],w=[]) for SslContextFactory@4009a145[provider=null,keyStore=jar:file:/D:/GTS/AngolaGTS/GTSAngolaEnterpi/Automation/lib/assureit-extensionconnect-1.0.jar!/localhost,trustStore=null]
+[SocketServer] INFO org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@58ead229{SSL, (ssl, http/1.1)}{0.0.0.0:8887}
+[SocketServer] INFO org.eclipse.jetty.server.Server - Started @115915ms
+2025-04-02 16:17:17:04S +0530 [WARNING] org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch:Unable to find CDP implementation matching 134
+2025-04-02 16:17:17:04S +0530 [WARNING] org.openqa.selenium.chromium.ChromiumDriver lambda$new$5:Unable to find version of CDP to use for 134.0.6998.178. You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.13.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+2025-04-02 16:17:44:04S +0530 [INFO] com.newvision.assureit.ide.main.shr.web.Recorder addAsStep:Browser[null] - Open - @https://www.airwallex.com/app/login
+2025-04-02 16:17:44:04S +0530 [INFO] com.newvision.assureit.ide.main.shr.web.Recorder addAsStep:Browser[null] - Open - @https://www.airwallex.com/app/login
+2025-04-02 16:17:44:04S +0530 [INFO] com.newvision.assureit.ide.main.shr.web.Recorder addAsStep:Browser[null] - Open - @https://www.airwallex.com/app/login
+2025-04-02 16:17:48:04S +0530 [INFO] com.newvision.assureit.ide.main.shr.web.Recorder saveObjectToPage:Object Added : Mobile number
+2025-04-02 16:17:48:04S +0530 [INFO] com.newvision.assureit.ide.main.shr.web.Recorder addAsStep:Object[Mobile number] - Click - null
+2025-04-02 16:18:34:04S +0530 [INFO] com.newvision.assureit.ide.main.shr.web.Recorder saveObjectToPage:Object Added : phone
+2025-04-02 16:18:34:04S +0530 [INFO] com.newvision.assureit.ide.main.shr.web.Recorder addAsStep:Object[phone] - Click - null
+2025-04-02 16:18:54:04S +0530 [INFO] com.newvision.assureit.ide.main.shr.web.Recorder saveObjectToPage:Object Added : Forgot password?
+2025-04-02 16:18:54:04S +0530 [INFO] com.newvision.assureit.ide.main.shr.web.Recorder addAsStep:Object[Forgot password?] - Click - null
+2025-04-02 16:19:09:04S +0530 [INFO] com.newvision.assureit.ide.main.shr.web.Recorder saveObjectToPage:Object Added : Your mobile number
+2025-04-02 16:19:09:04S +0530 [INFO] com.newvision.assureit.ide.main.shr.web.Recorder addAsStep:Object[Your mobile number] - Click - null
+2025-04-02 16:19:09:04S +0530 [WARNING] com.newvision.assureit.ide.main.shr.web.Recorder saveObjectToPage:Object Already Present
+Page : Airwallex
+Object : Your mobile number
+2025-04-02 16:19:09:04S +0530 [INFO] com.newvision.assureit.ide.main.shr.web.Recorder addAsStep:Object[Your mobile number] - Click - null
+2025-04-02 16:19:23:04S +0530 [WARNING] com.newvision.assureit.ide.main.shr.web.Recorder saveObjectToPage:Object Already Present
+Page : Airwallex
+Object : Your mobile number
+2025-04-02 16:19:23:04S +0530 [INFO] com.newvision.assureit.ide.main.shr.web.Recorder addAsStep:Object[Your mobile number] - Set - @9897888788
+2025-04-02 16:19:23:04S +0530 [INFO] com.newvision.assureit.ide.main.shr.web.Recorder saveObjectToPage:Object Added : Continue
+2025-04-02 16:19:23:04S +0530 [INFO] com.newvision.assureit.ide.main.shr.web.Recorder addAsStep:Object[Continue] - Click - null
+2025-04-02 16:19:44:04S +0530 [INFO] com.newvision.assureit.ide.main.shr.web.Recorder saveObjectToPage:Object Added : We've sent you an SMS
+2025-04-02 16:19:44:04S +0530 [INFO] com.newvision.assureit.ide.main.shr.web.Recorder addAsStep:Object[We've sent you an SMS] - assertElementTextContains - @We've sent you an SMS
+[AWT-EventQueue-0] INFO org.eclipse.jetty.server.AbstractConnector - Stopped ServerConnector@58ead229{SSL, (ssl, http/1.1)}{0.0.0.0:8887}
+[AWT-EventQueue-0] INFO org.eclipse.jetty.server.session - node0 Stopped scavenging
+[AWT-EventQueue-0] INFO org.eclipse.jetty.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@3b46c863{/,null,STOPPED}
+jar:file:/D:/GTS/AngolaGTS/GTSAngolaEnterpi/Automation/lib/assureit-extensionconnect-1.0.jar!/localhost
+2025-04-02 16:19:48:04S +0530 [INFO] com.newvision.assureit.extension.server.ExtensionServer$1 run:Server Stopped
+2025-04-02 16:19:54:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-02 16:21:10:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-02 16:21:54:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-02 17:08:23:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-02 17:09:23:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-02 17:09:54:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-02 17:10:59:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-02 17:12:13:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-02 17:13:15:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-02 17:40:33:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-02 17:42:11:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-02 17:52:49:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-02 17:54:02:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-02 17:56:00:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-07 10:51:41:04S +0530 [INFO] com.newvision.assureit.ide.main.Main main:Launching assureit IDE
+light
+2025-04-07 10:51:42:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-07 10:51:55:04S +0530 [WARNING] javafx.fxml.FXMLLoader$ValueElement processValue:Loading FXML document with JavaFX API of version 19 by JavaFX runtime of version 13-ea
+2025-04-07 10:58:12:04S +0530 [SEVERE] com.newvision.assureit.datalib.component.utils.FileUtils getRecords:File [D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\Projects\GTS_Dynamic\TestPlan\SMS\NewTestCase0.csv] doesn't exist
+2025-04-07 10:58:17:04S +0530 [INFO] com.newvision.assureit.datalib.component.utils.FileUtils renameFile:D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\Projects\GTS_Dynamic\TestPlan\SMS\NewTestCase0.csv Renamed to Revolt.csv
+2025-04-07 10:58:17:04S +0530 [INFO] com.newvision.assureit.datalib.component.Project refactorTestCase:Refactoring started for TestCase [NewTestCase0] to [Revolt]
+2025-04-07 10:58:17:04S +0530 [INFO] com.newvision.assureit.datalib.component.Project refactorTestCase:Refactoring done for TestCase [NewTestCase0] to [Revolt]
+2025-04-07 10:58:43:04S +0530 [INFO] com.newvision.assureit.datalib.component.utils.FileUtils renameFile:D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\Projects\GTS_Dynamic\TestPlan\SMS\Revolt.csv Renamed to Revolut.csv
+2025-04-07 10:58:43:04S +0530 [INFO] com.newvision.assureit.datalib.component.Project refactorTestCase:Refactoring started for TestCase [Revolt] to [Revolut]
+2025-04-07 10:58:43:04S +0530 [INFO] com.newvision.assureit.datalib.component.Project refactorTestCase:Refactoring done for TestCase [Revolt] to [Revolut]
+2025-04-07 10:59:20:04S +0530 [INFO] com.newvision.assureit.datalib.component.utils.FileUtils renameFile:D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\Projects\GTS_Dynamic\ObjectRepository\WPage0 Renamed to Revolut
+2025-04-07 10:59:32:04S +0530 [INFO] com.newvision.assureit.datalib.component.utils.FileUtils renameFile:D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\Projects\GTS_Dynamic\ObjectRepository\Revolut\WObject0 Renamed to SignUpButton
+2025-04-07 10:59:32:04S +0530 [INFO] com.newvision.assureit.datalib.component.utils.FileUtils renameFile:D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\Projects\GTS_Dynamic\ObjectRepository\Revolut\SignUpButton\WObject0 Renamed to SignUpButton
+2025-04-07 11:00:36:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-07 11:01:45:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-07 11:06:17:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-07 11:09:29:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-07 11:16:22:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-07 11:17:31:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-07 11:18:13:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-07 16:10:25:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-07 16:14:48:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-07 16:20:15:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-07 16:21:46:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-07 16:32:28:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-07 16:53:23:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-07 17:03:12:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-07 17:10:54:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-07 17:11:38:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-07 17:12:46:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-07 18:17:09:04S +0530 [SEVERE] com.newvision.assureit.datalib.component.utils.FileUtils getRecords:File [D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\Projects\GTS_Dynamic\TestPlan\SMS\NewTestCase0.csv] doesn't exist
+2025-04-07 18:17:20:04S +0530 [INFO] com.newvision.assureit.datalib.component.utils.FileUtils renameFile:D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\Projects\GTS_Dynamic\TestPlan\SMS\NewTestCase0.csv Renamed to RevolutSignInFlow.csv
+2025-04-07 18:17:20:04S +0530 [INFO] com.newvision.assureit.datalib.component.Project refactorTestCase:Refactoring started for TestCase [NewTestCase0] to [RevolutSignInFlow]
+2025-04-07 18:17:20:04S +0530 [INFO] com.newvision.assureit.datalib.component.Project refactorTestCase:Refactoring done for TestCase [NewTestCase0] to [RevolutSignInFlow]
+2025-04-07 18:21:27:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-07 18:22:13:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-07 19:00:28:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-07 19:01:14:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-09 10:49:28:04S +0530 [INFO] com.newvision.assureit.ide.main.Main main:Launching assureit IDE
+light
+2025-04-09 10:49:29:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-09 10:49:41:04S +0530 [WARNING] javafx.fxml.FXMLLoader$ValueElement processValue:Loading FXML document with JavaFX API of version 19 by JavaFX runtime of version 13-ea
+2025-04-09 10:50:44:04S +0530 [SEVERE] com.newvision.assureit.datalib.component.utils.FileUtils getRecords:File [D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\Projects\GTS_Dynamic\TestPlan\SMS\NewTestCase0.csv] doesn't exist
+2025-04-09 10:50:48:04S +0530 [INFO] com.newvision.assureit.datalib.component.utils.FileUtils renameFile:D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\Projects\GTS_Dynamic\TestPlan\SMS\NewTestCase0.csv Renamed to Hooper.csv
+2025-04-09 10:50:48:04S +0530 [INFO] com.newvision.assureit.datalib.component.Project refactorTestCase:Refactoring started for TestCase [NewTestCase0] to [Hooper]
+2025-04-09 10:50:48:04S +0530 [INFO] com.newvision.assureit.datalib.component.Project refactorTestCase:Refactoring done for TestCase [NewTestCase0] to [Hooper]
+2025-04-09 10:51:16:04S +0530 [INFO] com.newvision.assureit.datalib.component.utils.FileUtils renameFile:D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\Projects\GTS_Dynamic\ObjectRepository\WPage0 Renamed to Hooper
+2025-04-09 10:52:43:04S +0530 [INFO] com.newvision.assureit.datalib.component.utils.FileUtils renameFile:D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\Projects\GTS_Dynamic\ObjectRepository\Hooper\WObject0 Renamed to SignUPButton
+2025-04-09 10:52:43:04S +0530 [INFO] com.newvision.assureit.datalib.component.utils.FileUtils renameFile:D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\Projects\GTS_Dynamic\ObjectRepository\Hooper\SignUPButton\WObject0 Renamed to SignUPButton
+2025-04-09 10:54:06:04S +0530 [INFO] com.newvision.assureit.datalib.component.utils.FileUtils renameFile:D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\Projects\GTS_Dynamic\ObjectRepository\Hooper\WObject0 Renamed to SelectCountry
+2025-04-09 10:54:06:04S +0530 [INFO] com.newvision.assureit.datalib.component.utils.FileUtils renameFile:D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\Projects\GTS_Dynamic\ObjectRepository\Hooper\SelectCountry\WObject0 Renamed to SelectCountry
+2025-04-09 10:55:00:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-09 10:58:34:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-09 11:02:13:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-09 11:03:10:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-09 11:04:54:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-09 11:05:52:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-09 11:16:32:04S +0530 [SEVERE] com.newvision.assureit.datalib.component.utils.FileUtils getRecords:File [D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\Projects\GTS_Dynamic\TestPlan\SMS\NewTestCase0.csv] doesn't exist
+2025-04-09 11:16:37:04S +0530 [INFO] com.newvision.assureit.datalib.component.utils.FileUtils renameFile:D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\Projects\GTS_Dynamic\TestPlan\SMS\NewTestCase0.csv Renamed to Telegram.csv
+2025-04-09 11:16:37:04S +0530 [INFO] com.newvision.assureit.datalib.component.Project refactorTestCase:Refactoring started for TestCase [NewTestCase0] to [Telegram]
+2025-04-09 11:16:37:04S +0530 [INFO] com.newvision.assureit.datalib.component.Project refactorTestCase:Refactoring done for TestCase [NewTestCase0] to [Telegram]
+2025-04-09 11:17:01:04S +0530 [INFO] com.newvision.assureit.datalib.component.utils.FileUtils renameFile:D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\Projects\GTS_Dynamic\ObjectRepository\WPage0 Renamed to Telegram
+2025-04-09 11:18:26:04S +0530 [INFO] com.newvision.assureit.datalib.component.utils.FileUtils renameFile:D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\Projects\GTS_Dynamic\ObjectRepository\Telegram\WObject0 Renamed to LoginWithPhone
+2025-04-09 11:18:26:04S +0530 [INFO] com.newvision.assureit.datalib.component.utils.FileUtils renameFile:D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\Projects\GTS_Dynamic\ObjectRepository\Telegram\LoginWithPhone\WObject0 Renamed to LoginWithPhone
+2025-04-09 11:19:28:04S +0530 [INFO] com.newvision.assureit.datalib.component.utils.FileUtils renameFile:D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\Projects\GTS_Dynamic\ObjectRepository\Telegram\LoginWithPhone\Object0 Renamed to CountryCode
+2025-04-09 11:19:52:04S +0530 [INFO] com.newvision.assureit.datalib.component.utils.FileUtils renameFile:D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\Projects\GTS_Dynamic\ObjectRepository\Telegram\WObject0 Renamed to CountryCode
+2025-04-09 11:19:52:04S +0530 [INFO] com.newvision.assureit.datalib.component.utils.FileUtils renameFile:D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\Projects\GTS_Dynamic\ObjectRepository\Telegram\CountryCode\WObject0 Renamed to CountryCode
+2025-04-09 11:20:11:04S +0530 [INFO] com.newvision.assureit.datalib.component.utils.FileUtils deleteFile:Deleting D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\Projects\GTS_Dynamic\ObjectRepository\Telegram\LoginWithPhone\CountryCode
+2025-04-09 11:22:45:04S +0530 [INFO] com.newvision.assureit.datalib.component.utils.FileUtils renameFile:D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\Projects\GTS_Dynamic\ObjectRepository\Telegram\WObject0 Renamed to Select Country
+2025-04-09 11:22:45:04S +0530 [INFO] com.newvision.assureit.datalib.component.utils.FileUtils renameFile:D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\Projects\GTS_Dynamic\ObjectRepository\Telegram\Select Country\WObject0 Renamed to Select Country
+2025-04-09 11:24:33:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-09 15:10:42:04S +0530 [INFO] com.newvision.assureit.ide.main.Main main:Launching assureit IDE
+light
+2025-04-09 15:10:43:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-09 15:10:52:04S +0530 [WARNING] javafx.fxml.FXMLLoader$ValueElement processValue:Loading FXML document with JavaFX API of version 19 by JavaFX runtime of version 13-ea
+2025-04-09 15:11:16:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-09 15:11:59:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-09 15:12:37:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-09 17:58:35:04S +0530 [INFO] com.newvision.assureit.ide.main.Main main:Launching assureit IDE
+light
+2025-04-09 17:58:35:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-09 17:58:43:04S +0530 [WARNING] javafx.fxml.FXMLLoader$ValueElement processValue:Loading FXML document with JavaFX API of version 19 by JavaFX runtime of version 13-ea
+2025-04-09 18:07:02:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-09 18:11:27:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-09 18:12:46:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-09 18:13:13:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-09 18:14:01:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-09 18:15:11:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-09 18:16:36:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-09 18:17:42:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-09 18:18:13:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-09 18:21:08:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-09 18:21:56:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-09 18:32:23:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-09 18:33:33:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-09 18:34:12:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-09 18:52:58:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-09 18:54:02:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-09 18:55:08:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-09 19:02:30:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-10 11:52:27:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-10 12:21:41:04S +0530 [INFO] com.newvision.assureit.datalib.component.utils.FileUtils renameFile:D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\Projects\GTS_Dynamic\ObjectRepository\Airwallex\WObject0 Renamed to SelectCountries
+2025-04-10 12:21:41:04S +0530 [INFO] com.newvision.assureit.datalib.component.utils.FileUtils renameFile:D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\Projects\GTS_Dynamic\ObjectRepository\Airwallex\SelectCountries\WObject0 Renamed to SelectCountries
+2025-04-10 12:33:17:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-10 12:34:35:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-10 12:36:44:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to Open - D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\Projects\GTS_Dynamic\TestData\Airwallex.csv
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to exec: [explorer] [%s] [D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\Projects\GTS_Dynamic\TestData\Airwallex.csv]
+2025-04-10 14:15:08:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-10 14:29:26:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-10 14:29:44:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-10 14:30:21:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-10 14:30:56:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-10 14:32:02:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to Open - D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\Projects\GTS_Dynamic\TestData\Revolut.csv
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to exec: [explorer] [%s] [D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\Projects\GTS_Dynamic\TestData\Revolut.csv]
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to Open - D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\Projects\GTS_Dynamic\TestData\Revolut.csv
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to exec: [explorer] [%s] [D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\Projects\GTS_Dynamic\TestData\Revolut.csv]
+2025-04-10 14:48:46:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-10 14:50:39:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to Open - D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\Projects\GTS_Dynamic\TestData\Revolut.csv
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to exec: [explorer] [%s] [D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\Projects\GTS_Dynamic\TestData\Revolut.csv]
+2025-04-10 14:51:46:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-10 14:56:45:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-10 14:57:56:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-10 15:01:23:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-10 16:29:35:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-10 16:30:10:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-10 16:33:57:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-10 16:34:51:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-10 16:35:04:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-10 16:36:07:04S +0530 [SEVERE] com.newvision.assureit.datalib.component.utils.FileUtils getRecords:File [D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\Projects\GTS_Dynamic\TestLab\Angola\NewTestSet.csv] doesn't exist
+2025-04-10 16:36:13:04S +0530 [INFO] com.newvision.assureit.datalib.component.utils.FileUtils renameFile:D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\Projects\GTS_Dynamic\TestLab\Angola\NewTestSet.csv Renamed to Telegram.csv
+2025-04-10 16:36:17:04S +0530 [SEVERE] com.newvision.assureit.datalib.component.utils.FileUtils getRecords:File [D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\Projects\GTS_Dynamic\TestLab\Angola\NewTestSet.csv] doesn't exist
+2025-04-10 16:36:22:04S +0530 [INFO] com.newvision.assureit.datalib.component.utils.FileUtils renameFile:D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\Projects\GTS_Dynamic\TestLab\Angola\NewTestSet.csv Renamed to Airwallex.csv
+2025-04-10 16:36:27:04S +0530 [SEVERE] com.newvision.assureit.datalib.component.utils.FileUtils getRecords:File [D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\Projects\GTS_Dynamic\TestLab\Angola\NewTestSet.csv] doesn't exist
+2025-04-10 16:36:33:04S +0530 [INFO] com.newvision.assureit.datalib.component.utils.FileUtils renameFile:D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\Projects\GTS_Dynamic\TestLab\Angola\NewTestSet.csv Renamed to Revolt.csv
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to Open - D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\Projects\GTS_Dynamic\TestData\Uber.csv
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to exec: [explorer] [%s] [D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\Projects\GTS_Dynamic\TestData\Uber.csv]
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to Open - D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\Projects\GTS_Dynamic\TestData\Airwallex.csv
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to exec: [explorer] [%s] [D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\Projects\GTS_Dynamic\TestData\Airwallex.csv]
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to Open - D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\Projects\GTS_Dynamic\TestData\Uber.csv
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to exec: [explorer] [%s] [D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\Projects\GTS_Dynamic\TestData\Uber.csv]
+2025-04-11 10:13:38:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to Open - D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\Projects\GTS_Dynamic\TestData\Tinder.csv
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to exec: [explorer] [%s] [D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\Projects\GTS_Dynamic\TestData\Tinder.csv]
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to Open - D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\Projects\GTS_Dynamic\TestData\Airwallex.csv
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to exec: [explorer] [%s] [D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\Projects\GTS_Dynamic\TestData\Airwallex.csv]
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to Open - D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\Projects\GTS_Dynamic\TestData\TinderM.csv
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to exec: [explorer] [%s] [D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\Projects\GTS_Dynamic\TestData\TinderM.csv]
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to Open - D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\Projects\GTS_Dynamic\TestData\Telegram.csv
+[AWT-EventQueue-0] INFO com.newvision.assureit.engine.support.DesktopApi - Trying to exec: [explorer] [%s] [D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\Projects\GTS_Dynamic\TestData\Telegram.csv]
+2025-04-11 10:57:12:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-11 10:58:59:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar
+2025-04-11 11:44:02:04S +0530 [SEVERE] com.newvision.assureit.datalib.component.utils.FileUtils getRecords:File [D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\Projects\GTS_Dynamic\TestLab\Angola\NewTestSet.csv] doesn't exist
+2025-04-11 11:44:09:04S +0530 [INFO] com.newvision.assureit.datalib.component.utils.FileUtils renameFile:D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\Projects\GTS_Dynamic\TestLab\Angola\NewTestSet.csv Renamed to All.csv
+2025-04-11 11:44:44:04S +0530 [INFO] com.newvision.assureit.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in D:\GTS\AngolaGTS\GTSAngolaEnterpi\Automation\lib\assureit-engine-1.0.jar

@@ -1,0 +1,8 @@
+Step,ObjectName,Description,Action,Input,Condition,Reference
+1,Browser,Open the Url [<Data>] in the Browser,Open,@https://auth.uber.com/v2/,,
+2,Enter phone number or email,Simulate a tap or click action on an element.,Click,,,Uber
+3,Enter phone number or email1,Enter the value [<Data>] in the Field [<Object>],Set,@999535025,,Uber
+4,CountryDropDown,Simulate a tap or click action on an element.,Click,,,Uber
+5,SelectCountry,Select item in [<Object>] which has text: [<Data>],Click,,,Uber
+6,ContinueBUtton,Simulate a tap or click action on an element.,Click,,,Uber
+*7,Enter the 4-digit code sent vi,Assert if [<Object>]'s Text Contains [<Data>],assertElementTextContains,@Enter the 4-digit code sent via phone call at 998 129 312.,,Uber

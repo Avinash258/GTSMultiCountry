@@ -1,0 +1,12 @@
+Step,ObjectName,Description,Action,Input,Condition,Reference
+1,Browser,Open the Url [<Data>] in the Browser,Open,@https://payouts.payoneer.com/partners/or.aspx?pid=YOYIZC74IO2s4KZQp7tgsw%3d%3d&web_interaction=website_traffic,,
+2,First name,Simulate a tap or click action on an element.,Click,,,Sign
+3,First name,Enter the value [<Data>] in the Field [<Object>],Set,@GTS,,Sign
+4,Last name,Enter the value [<Data>] in the Field [<Object>],Set,@OTP,,Sign
+5,Email address,Enter the value [<Data>] in the Field [<Object>],Set,@aivnashemail@gmail.com,,Sign
+6,Re-enter email address,Enter the value [<Data>] in the Field [<Object>],Set,@aivnashemail@gmail.com,,Sign
+7,Data,Select item in [<Object>] which has text: [<Data>],setByJSEnable,@02/01/1985,,Sign
+8,Data,Simulate a tap or click action on an element.,Click,,,Sign
+9,First name,Simulate a tap or click action on an element.,Click,,,Sign
+10,Next,Simulate a tap or click action on an element.,Click,,,Sign
+*11,Browser,Simulate a tap or click action on an element.,takeScreenshot,,,Sign

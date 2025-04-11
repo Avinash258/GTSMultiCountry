@@ -1,0 +1,7 @@
+Execute,TestScenario,TestCase,Iteration,Status,Browser,BrowserVersion,Platform
+true,SMS,Airwallex,Single,Failed,Chrome,Default,Any
+true,SMS,Hooper,Single,Failed,Chrome,Default,Any
+true,SMS,Uber,Single,Passed,Chrome,Default,Any
+true,SMS,Tinder,Single,Failed,Chrome,Default,Any
+true,SMS,Telegram,Single,Failed,Chrome,Default,Any
+true,SMS,RevolutSignInFlow,Single,Failed,Chrome,Default,Any

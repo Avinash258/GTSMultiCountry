@@ -1,0 +1,169 @@
+{
+  "id" : "GTS_Dynamic",
+  "name" : "GTS_Dynamic",
+  "version" : "1.3",
+  "attributes" : [ ],
+  "tags" : [ ],
+  "_meta" : [ {
+    "type" : "attribute",
+    "name" : "scenario",
+    "desc" : "High level classification of test requirement/cases grouped together",
+    "ref" : "com.newvision.assureit.datalib.model.Attribute",
+    "attributes" : [ ],
+    "tags" : [ ]
+  }, {
+    "type" : "tag",
+    "name" : "@smoke",
+    "desc" : "Non-exhaustive set of tests that aim at ensuring that the most important functions work",
+    "ref" : "com.newvision.assureit.datalib.model.Tag",
+    "attributes" : [ ],
+    "tags" : [ ]
+  }, {
+    "type" : "tag",
+    "name" : "@uat",
+    "ref" : "com.newvision.assureit.datalib.model.Tag",
+    "attributes" : [ ],
+    "tags" : [ ]
+  }, {
+    "type" : "tag",
+    "name" : "@load",
+    "ref" : "com.newvision.assureit.datalib.model.Tag",
+    "attributes" : [ ],
+    "tags" : [ ]
+  }, {
+    "type" : "scenario",
+    "name" : "SMS",
+    "ref" : "com.newvision.assureit.datalib.model.Attribute",
+    "attributes" : [ ],
+    "tags" : [ ]
+  } ],
+  "data" : [ {
+    "id" : "Uber1",
+    "name" : "Uber1",
+    "tags" : [ ],
+    "attributes" : [ {
+      "name" : "scenario",
+      "value" : "Uber"
+    } ]
+  }, {
+    "id" : "Uber2",
+    "name" : "Uber2",
+    "tags" : [ ],
+    "attributes" : [ {
+      "name" : "scenario",
+      "value" : "Uber"
+    } ]
+  }, {
+    "id" : "Uber3",
+    "name" : "Uber3",
+    "tags" : [ ],
+    "attributes" : [ {
+      "name" : "scenario",
+      "value" : "Uber"
+    } ]
+  }, {
+    "id" : "Uber4",
+    "name" : "Uber4",
+    "tags" : [ ],
+    "attributes" : [ {
+      "name" : "scenario",
+      "value" : "Uber"
+    } ]
+  }, {
+    "id" : "Uber5",
+    "name" : "Uber5",
+    "tags" : [ ],
+    "attributes" : [ {
+      "name" : "scenario",
+      "value" : "Uber"
+    } ]
+  }, {
+    "id" : "Uber6",
+    "name" : "Uber6",
+    "tags" : [ ],
+    "attributes" : [ {
+      "name" : "scenario",
+      "value" : "Uber"
+    } ]
+  }, {
+    "id" : "Uber7",
+    "name" : "Uber7",
+    "tags" : [ ],
+    "attributes" : [ {
+      "name" : "scenario",
+      "value" : "Uber"
+    } ]
+  }, {
+    "id" : "Uber8",
+    "name" : "Uber8",
+    "tags" : [ ],
+    "attributes" : [ {
+      "name" : "scenario",
+      "value" : "Uber"
+    } ]
+  }, {
+    "id" : "Uber9",
+    "name" : "Uber9",
+    "tags" : [ ],
+    "attributes" : [ {
+      "name" : "scenario",
+      "value" : "Uber"
+    } ]
+  }, {
+    "id" : "Uber Copy(10)",
+    "name" : "Uber10",
+    "tags" : [ ],
+    "attributes" : [ {
+      "name" : "scenario",
+      "value" : "Uber"
+    } ]
+  }, {
+    "id" : "Tinder",
+    "name" : "Tinder",
+    "tags" : [ ],
+    "attributes" : [ {
+      "name" : "scenario",
+      "value" : "SMS"
+    } ]
+  }, {
+    "id" : "Tinder1",
+    "name" : "Tinder1",
+    "tags" : [ ],
+    "attributes" : [ {
+      "name" : "scenario",
+      "value" : "Tinder"
+    } ]
+  }, {
+    "id" : "Tinder2",
+    "name" : "Tinder2",
+    "tags" : [ ],
+    "attributes" : [ {
+      "name" : "scenario",
+      "value" : "Tinder"
+    } ]
+  }, {
+    "id" : "Tinder3",
+    "name" : "Tinder3",
+    "tags" : [ ],
+    "attributes" : [ {
+      "name" : "scenario",
+      "value" : "Tinder"
+    } ]
+  }, {
+    "id" : "Tinder4",
+    "name" : "Tinder4",
+    "tags" : [ ],
+    "attributes" : [ {
+      "name" : "scenario",
+      "value" : "Tinder"
+    } ]
+  }, {
+    "id" : "Telegram",
+    "name" : "Telegram",
+    "tags" : [ ],
+    "attributes" : [ {
+      "name" : "scenario",
+      "value" : "SMS"
+    } ]
+  } ]
+}
